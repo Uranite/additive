@@ -1,12 +1,12 @@
-name = "Additive"
-author = "SkywardMC"
-version = "1.23.0+1.20.1.fabric"
+name = "TempName"
+author = "Uranite"
+version = "0.1.0+1.20.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b22f0297619873d0cec337718d1b8bd4c6c234be881149ede07b52784838a6a"
+hash = "c769c875bebfa0199b26d42770aadf4c9b57b03b385520a4be63eeb2b1f86b79"
 
 [versions]
 fabric = "0.15.3"

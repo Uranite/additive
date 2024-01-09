@@ -85,8 +85,12 @@ file = "config/yosbr/config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "57568b6fbd33ac22f4e8e1414440b49776710fb250bedb563ab95fcdab800b9d"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+hash = "6b05ce4b7bacb3418d69ea55bd56622cfe9f4d552cac8bf69920bb4c0fab22e8"
 
 [[files]]
 file = "config/yosbr/config/world-host.json5"
@@ -94,7 +98,7 @@ hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4c4b9d86961d5fc9213f1781d51ad6f671ee70bffa1df30345356b30c02e7c3c"
+hash = "edcfedf785a55b60e1027197c5c529eea50068d5e82aef4e32380125377dfb2b"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -137,8 +141,13 @@ hash = "d807461a67a231feb0e1a23929aeec7117f6260a565a6010e6cb45b386debdb3"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "118cbdb5e2f1d1f2ee274b3cb5920e69e168799913dbb4273cfe69cfb7fb90be"
+hash = "1aefb0211db19a1b0aebd06afc33f330e1c4751792b9b6921294202f79fbad8e"
 metafile = true
 
 [[files]]
@@ -193,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
@@ -209,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "0c1c4fef5d757d8e650246bc9967fd157b9aa59d262cfcd40fe3015aed3f597d"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
 metafile = true
 
 [[files]]
@@ -244,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "bff14ba437881645192b1a7cf46b317b21d6996d9e14630d70fef096eb75a3ab"
 metafile = true
 
 [[files]]

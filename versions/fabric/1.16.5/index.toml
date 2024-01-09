@@ -85,8 +85,12 @@ file = "config/yosbr/config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "57568b6fbd33ac22f4e8e1414440b49776710fb250bedb563ab95fcdab800b9d"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+hash = "c4b0bba314de61aeb0b1f5e64342cc0377e0980f69936775b0d5822f363e0b52"
 
 [[files]]
 file = "config/yosbr/config/world-host.json5"
@@ -94,7 +98,7 @@ hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4c4b9d86961d5fc9213f1781d51ad6f671ee70bffa1df30345356b30c02e7c3c"
+hash = "446ab0a1fce9c4ab11d80ee189f969770ff25f3b85ca73e7fbb3529f97d946ee"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -108,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "118cbdb5e2f1d1f2ee274b3cb5920e69e168799913dbb4273cfe69cfb7fb90be"
+hash = "1aefb0211db19a1b0aebd06afc33f330e1c4751792b9b6921294202f79fbad8e"
 metafile = true
 
 [[files]]
@@ -162,6 +166,11 @@ hash = "ac7ceb740419d62d6ef9c2f9af2cdae2f13476b0ad445d77a6e922feb5b40f33"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "118176743b4aa94a076aae292b51d7c48d1c05f76a3ca9d5285c202abbdd5c43"
 metafile = true
@@ -189,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d21b63b0bff762b8fb83d58716aa473ab388bb7fb51e84f94187efd6147e049f"
 metafile = true
 
 [[files]]
