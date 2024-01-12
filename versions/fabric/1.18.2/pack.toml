@@ -1,12 +1,12 @@
 name = "TempName"
 author = "Uranite"
-version = "0.1.0+1.18.2.fabric"
+version = "0.1.1+1.18.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "42b57c1b422f137716ac5e6c67ef10d5ec3358a1370f3740d484b4b11a8200e7"
+hash = "eb3adcacccc6ffa0c62a30296cc9846c327e81cff68d5fbe3e4121a77ad3188f"
 
 [versions]
 fabric = "0.15.3"

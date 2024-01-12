@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "b419f7fcb29e1f19df8c8a4764bb758b39cc9c4c2622a5b1582c9fdeea966410"
+hash = "d7049b0e1e3efedbfb4c860684e9c82322d045cc4b5879485ed9461e5acf85d2"
 metafile = true
 
 [[files]]
@@ -222,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "37631fce6ed1f5b1469a32300ed8abb71390984190aa3238b31e6b2becb77359"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
 metafile = true
 
 [[files]]

@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "a10bb8fc96efbe4910cef957baa87c64adc1a4fb1f869b91877dcf6a7a37a5a3"
+hash = "8691cc1db5a72eb4f9f9fde9faab0f85ea8df324f55b1a004f471a7280a79c08"
 metafile = true
 
 [[files]]
@@ -225,11 +225,6 @@ hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
@@ -256,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bc78889d256207c2df24301222b4856bf5902c718c78eedae8affe1826efb744"
+hash = "87a390f716ac3e7b2e7c9615eaa02ff457654ec1ca90d6edbe63bab614da9dd0"
 metafile = true
 
 [[files]]

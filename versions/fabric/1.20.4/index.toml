@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "bf3ed98dfabf5a5869a345a4512dcd241aa69974dfae1e5b62de7d22af62b9b4"
+hash = "c0031ee3704fef060cddc58c973698aea94bf13ba3dca23099ba083abbd7937e"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ad92515a4d70ba75d0affea314f19274faf06344c835a1b59d21724d011fb34"
+hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
 metafile = true
 
 [[files]]
@@ -224,11 +224,6 @@ hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
@@ -240,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "783fe7d40a9e8e14775ed458cedc7cfc5cd13a2d3d857792adfda77025d3f379"
+hash = "5ba07c706075d05a1e095a4ab22997926be16615847e531606b5f39ddbd428a2"
 metafile = true
 
 [[files]]
@@ -255,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
+hash = "2e1b7f7aeae383c336706d0838fe76aafe73b86aeb2d1b0ce372be1452516472"
 metafile = true
 
 [[files]]

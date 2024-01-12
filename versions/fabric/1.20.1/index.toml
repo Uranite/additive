@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "d76c913069b9ecd5091ffe2d736db084ba07a7f3a9a8b3fe63ecf86827710b8e"
+hash = "e5bede27aeae618cc72c4c1a1383d9a6e7bca73fca9d004f7d400adf9004e8c8"
 metafile = true
 
 [[files]]
@@ -225,11 +225,6 @@ hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -251,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2205cb06ba208c342a08f3f2e14bd2bbebdfd2ff0be76b22170f231c01b7f76e"
+hash = "aa1cebfcacb1eb5019bd5ae27591a4201732afd49b8ac46f8fe2dfd059dc4b75"
 metafile = true
 
 [[files]]
@@ -266,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
+hash = "2e1b7f7aeae383c336706d0838fe76aafe73b86aeb2d1b0ce372be1452516472"
 metafile = true
 
 [[files]]
