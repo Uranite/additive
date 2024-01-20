@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "c0031ee3704fef060cddc58c973698aea94bf13ba3dca23099ba083abbd7937e"
+hash = "22912bd5332d75227a2eb6aba10a176e5d471c12b01e42fbe5219fac37fab19d"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b08b95dced25273ad3276b3e4f475d2ad2af24cf12d1ad414517a2f66a861c6d"
+hash = "961a86395b5e3886b038824aaf1e9245b9cd55f715a341f8eb269870cb04a534"
 metafile = true
 
 [[files]]
@@ -170,12 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0ec22582716be3e96af840a46e12ca466a13a045bc163cfbfa650eeba2d0796e"
+hash = "414e3258913f63a09d0e00c32c4208b8c7b92852e7c13e1e83bf33831c394924"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
+hash = "fefedc3157d0dc6d05af2ed8ae6fc0549a6011362ac2170f7b1115d5f73ca95b"
 metafile = true
 
 [[files]]
@@ -191,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "4d979c0f0902b82fc22fc60b741d3a9ce8331de9ffcc4f54658af92ff8ff8a81"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
 metafile = true
 
 [[files]]
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "2e1b7f7aeae383c336706d0838fe76aafe73b86aeb2d1b0ce372be1452516472"
+hash = "1b839c6aa5ffd9c07f02e55d408b1c1a8d5dcd1561bedb9e782b61c20de032ba"
 metafile = true
 
 [[files]]
@@ -295,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2498a978634a0add18ebd0a47b4e8d23dbe8ac19d926fabf436d15ad94bd9a44"
+hash = "35604d51f362bbe912d84d8a43835c6b205fd51f8c655202ba1bf59aaaddab19"
 metafile = true
 
 [[files]]
@@ -305,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
+hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
 metafile = true
 
 [[files]]

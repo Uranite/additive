@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "c0031ee3704fef060cddc58c973698aea94bf13ba3dca23099ba083abbd7937e"
+hash = "22912bd5332d75227a2eb6aba10a176e5d471c12b01e42fbe5219fac37fab19d"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "33b4b507c7ad798fa2f6af2cd268e846fb925a189e3fc0f6d238115bc034e4a5"
+hash = "e826203955cee04051329b4d22ec58f0edd3439517fb3d77aefff3c98420c921"
 metafile = true
 
 [[files]]
@@ -175,12 +175,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "94d311e863d8de5b572b29c1a52f2971510382b4e00749a05679f7a014d51a03"
+hash = "4eaa8b710ae61a94ee38bebd72459bf205223e774ecf151693552e14306dd35f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ac6c3d4e36400abad7a4df8289f0d27d271f43b19250b4848d2a78f0a85490b1"
+hash = "32ee0de1b38a22f9c21aeef3e22d760381b85bb2736ef53e527c68226ae25b0c"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "2e1b7f7aeae383c336706d0838fe76aafe73b86aeb2d1b0ce372be1452516472"
+hash = "1b839c6aa5ffd9c07f02e55d408b1c1a8d5dcd1561bedb9e782b61c20de032ba"
 metafile = true
 
 [[files]]
