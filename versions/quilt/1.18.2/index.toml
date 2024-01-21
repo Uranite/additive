@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "118cbdb5e2f1d1f2ee274b3cb5920e69e168799913dbb4273cfe69cfb7fb90be"
+hash = "a57c721f8a387c3c19015472ade49ef7b4a2bca0213c2086b9d7693e8fe6a1eb"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "706cf7fdc1bd041484b65c9ae280aec34e05a1b791029f6fb260604eb852c21d"
+hash = "90d1f778bb3a0c11244a0c6283f9d582b65ad95dd61f7c3a8ea6ea069c4c4cb9"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8928322227ac98ff227cb3d081f284ade44726ab1a954e8733defa7e78b99b0f"
+hash = "7beddb6cc58de802d996381bd3ab9846f16b4371189a0db626ffd979c9c78992"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
+hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]

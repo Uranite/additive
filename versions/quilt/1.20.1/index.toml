@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "98d750b2b833c589799b246ac51387d3d3e5046f759c4efc6dadacaf6186bf6c"
+hash = "0b716a176796a9ff87c21d96ae5502eeb62ba3d16c8920f69f7af6eee07c2da4"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "ba4525ab08293cfb3befbfb0ad56e6b25d60e3e8aca92cfe55478d5a450e599f"
+hash = "e80cb29fb6933acb0b2953ef025f8d616a1d011296268020a3032c76bc22b4c2"
 metafile = true
 
 [[files]]
@@ -187,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
@@ -213,11 +213,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
-metafile = true
-
-[[files]]
-file = "mods/lilac.pw.toml"
-hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
 metafile = true
 
 [[files]]
@@ -242,17 +237,17 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+hash = "1b839c6aa5ffd9c07f02e55d408b1c1a8d5dcd1561bedb9e782b61c20de032ba"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "a60f50e7c0ae6420e4a36f4e2fabaa4663bf79236531c1b23fd9c425121b2203"
+hash = "8799d48386f500a6f924f327d61680fcb544ce74595f044d40c398de2174bc58"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
+hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]

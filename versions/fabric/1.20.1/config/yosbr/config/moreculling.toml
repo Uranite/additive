@@ -1,6 +1,7 @@
 itemFrameLODRange = 128
 itemFrame3FaceCullingRange = 0.0
 includeMangroveRoots = true
+endGatewayCulling = true
 
 [modCompatibility]
 minecraft = true

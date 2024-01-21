@@ -82,7 +82,7 @@ hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
+hash = "c529a0f487aaf2a9c3855fabc908c159dad2f9ba87f56bf78cf2ae1526ab62cf"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -230,11 +230,6 @@ hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
-file = "mods/lilac.pw.toml"
-hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -267,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
 metafile = true
 
 [[files]]
