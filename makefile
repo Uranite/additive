@@ -28,3 +28,4 @@ update:
 export:
 	make export-fabric
 	make export-quilt
+nice: update-packwiz refresh update export
