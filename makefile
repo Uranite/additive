@@ -19,6 +19,10 @@ refresh-fabric:
 	cd versions/fabric && pw batch refresh
 refresh-quilt:
 	cd versions/quilt && pw batch refresh
+update-fabric-loader:
+	cd versions/fabric && pw batch migrate loader latest
+update-quilt-loader:
+	cd versions/quilt && pw batch migrate loader latest
 refresh:
 	make refresh-fabric
 	make refresh-quilt
@@ -28,4 +32,7 @@ update:
 export:
 	make export-fabric
 	make export-quilt
-nice: update-packwiz refresh update export
+update-loader:
+	make update-fabric-loader
+	make update-quilt-loader
+nice: update-packwiz refresh update-loader update export
