@@ -1,0 +1,13 @@
+name = "ObsidianUI"
+filename = "obsidianui-fabric-0.2.1+mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E0L8mfJZ/versions/zuzENcAi/obsidianui-fabric-0.2.1%2Bmc1.20.4.jar"
+hash-format = "sha1"
+hash = "4951392b0cb32f0be537b398723ecfff602276a9"
+
+[update]
+[update.modrinth]
+mod-id = "E0L8mfJZ"
+version = "zuzENcAi"
