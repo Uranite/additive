@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "919cf3088c29f42ac95d83ebfafbd09730289b4fc3371106abc03731a6142bf7"
+hash = "5ac7460e59abc9bed2c731bff8fd4fd093c3ac61bcf8ca012202ee1f27ba98e4"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "80acf3766a90b17cfbb75c3e5aceb6c94fe598bb39a4b672c82f71b02efaa2ac"
+hash = "78543b5c34480b62a11f80ca2b383608dbb2b116ea4186007af7ee6b8d8203ae"
 metafile = true
 
 [[files]]

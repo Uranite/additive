@@ -78,7 +78,7 @@ hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+hash = "0efbdefb085fa4ba6476d68d0ce3ab2b85a0deef4373e764be29223f37ce3e5b"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -111,11 +111,6 @@ hash = "4d20a9cc7e78754d54a7640aa03ff38534552a483ed15da00254bd7a77b05dcd"
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "22912bd5332d75227a2eb6aba10a176e5d471c12b01e42fbe5219fac37fab19d"
 metafile = true
 
 [[files]]
@@ -180,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "32ee0de1b38a22f9c21aeef3e22d760381b85bb2736ef53e527c68226ae25b0c"
+hash = "f02d05f8543f4b2c6aecaa7f070da84b08bccab0441fb2c3408fafde69fd8914"
 metafile = true
 
 [[files]]
@@ -209,11 +204,6 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
-metafile = true
-
-[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "f887b988eab34f06e2c1ddc8c61e04824301262d5e366e4c6f482f673bc9b143"
 metafile = true
@@ -231,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "45eda4160256d4c4394a982c67167ff4b85e218834e60203128b850b38b4821b"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
 metafile = true
 
 [[files]]
@@ -275,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
+hash = "942a8797c5d76c6c60efc601f9bc4112585824f19cdd5ede46dea058fbf8679d"
 metafile = true
 
 [[files]]
@@ -310,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "4e91b4bdc0c893128992cd84f9aae75c4ecde408364448e512d1922af2e15de3"
+hash = "6cf233a000150f22141c380440debf65932d50473a7b7717a7598c4a325d25b2"
 metafile = true
 
 [[files]]

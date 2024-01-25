@@ -78,7 +78,7 @@ hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+hash = "0efbdefb085fa4ba6476d68d0ce3ab2b85a0deef4373e764be29223f37ce3e5b"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -114,8 +114,8 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "22912bd5332d75227a2eb6aba10a176e5d471c12b01e42fbe5219fac37fab19d"
+file = "mods/architectury-api.pw.toml"
+hash = "2da3320ba7704f932626355b0ec27c083bca9b453db93b39a524b7ab3143b7c9"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fefedc3157d0dc6d05af2ed8ae6fc0549a6011362ac2170f7b1115d5f73ca95b"
+hash = "daf2a7408eeeaf8439527b153d24f4ee60865d8e3e7b2e4e05d4d56ce0b1797f"
 metafile = true
 
 [[files]]
@@ -204,11 +204,6 @@ hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
 
 [[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
-metafile = true
-
-[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "f887b988eab34f06e2c1ddc8c61e04824301262d5e366e4c6f482f673bc9b143"
 metafile = true
@@ -226,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
+hash = "942a8797c5d76c6c60efc601f9bc4112585824f19cdd5ede46dea058fbf8679d"
 metafile = true
 
 [[files]]
@@ -281,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "266972ce0a5d4d2a3d828bb3721fd0115c2c7e0d687fb73087392e00f4bbe5eb"
 metafile = true
 
 [[files]]
@@ -300,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "1284253b3e1f796b85023c5788ddd3e90f1331b44d67ecd13eb7f999b64b2683"
+hash = "eab5a30d30ab3837e16512c2b4e3831458ddec1aedd040501a23a70ebf8ab71a"
 metafile = true
 
 [[files]]

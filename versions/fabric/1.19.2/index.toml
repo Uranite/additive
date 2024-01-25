@@ -74,7 +74,7 @@ hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "75dc59a264bf929fee5af95c087e3ec170311a50ca876b2d738d00ac90cf06c0"
+hash = "d98e9cafb51aa15156249237fe536cdd67b0fb3707e9d0db4de959c0b7d12a6f"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -107,11 +107,6 @@ hash = "0bcc297a1ab75c22bfe6d1b9bbe8a6265765241f1d139e26e3cd73dd5fd76cf9"
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "251f4c82708f69eca5fb920494b368ce899d947202eb2d96607afc7ba3b831d3"
 metafile = true
 
 [[files]]
@@ -205,8 +200,8 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
@@ -222,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "b319aa61eabe4f2e02afd44ec494a637ecdc902bf49c532c7464ac5a2bb59312"
+hash = "3efe9ebab83150bdf825234af607499007a69ca983823fc58ba24b6389bbeb1c"
 metafile = true
 
 [[files]]
