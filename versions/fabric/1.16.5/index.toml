@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "baebab188efe9d5e0f1eb200812f656449f6085daeb685045417f8b5cb45fda4"
-
-[[files]]
 file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
@@ -108,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "89de993e357a2a10af6a408cd157d947951c65ec8ecd95a7db4eaf52f8359043"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.pw.toml"
+hash = "83820987228050607f331272a7273b43651a006f2d6af8e0941b3eaaca5f2600"
 metafile = true
 
 [[files]]
