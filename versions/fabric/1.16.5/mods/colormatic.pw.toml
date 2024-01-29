@@ -1,7 +1,0 @@
-name = "Colormatic"
-filename = "colormatic-2.2.9+mc.1.16.5.jar"
-
-[download]
-url = "https://github.com/kvverti/colormatic/releases/download/2.2.9/colormatic-2.2.9+mc.1.16.5.jar"
-hash-format = "sha256"
-hash = "ab2496aee2ed5b76477eb250c7902bb0e883482ad12f8c7e3c10bc008a382448"
