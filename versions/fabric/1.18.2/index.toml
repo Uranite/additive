@@ -93,6 +93,10 @@ file = "config/yosbr/config/world-host.json5"
 hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "cc6f863a8e250641184bfcd3b59169491fe5414a036996401b66bc019ebeedd8"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "edcfedf785a55b60e1027197c5c529eea50068d5e82aef4e32380125377dfb2b"
 
@@ -158,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "90d1f778bb3a0c11244a0c6283f9d582b65ad95dd61f7c3a8ea6ea069c4c4cb9"
+hash = "8243d7c6cd687b33ba4ff61fef8c2d4d22c3c6b285169975bdf0caaeafe688ba"
 metafile = true
 
 [[files]]
@@ -243,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7beddb6cc58de802d996381bd3ab9846f16b4371189a0db626ffd979c9c78992"
+hash = "74e468bc076af2cfacd90b7adab7bec5106180771d991313d81a68a9e0f76a67"
 metafile = true
 
 [[files]]

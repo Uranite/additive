@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "eb31a9bc20995c98ae2a9fa9bf76d5681d1ab6d2fefaf46b13664212429991f3"
+hash = "683d84c667019427bcdf2bd17285175a42e01c05a95dc61ef22e864a10e2e16c"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8baeeb84d1a761697821062244e4f181462f02f7c476e0f8e3fc18b133ee8f72"
+hash = "4bd4f88209c599cfa23510f4c10e0c8246cd92f5286861b97783592ab1da05a3"
 metafile = true
 
 [[files]]

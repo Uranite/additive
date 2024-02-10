@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "4eaa8b710ae61a94ee38bebd72459bf205223e774ecf151693552e14306dd35f"
+hash = "55fc5d6c96c1d3a15fc4fe3c7fb8a215671b6624366642b2f7d0ab943003cfd7"
 metafile = true
 
 [[files]]
@@ -206,12 +206,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
+hash = "a0128253e17ebcd9453ffd96cfb9038e795d9204118eff9909070fa1c3b7de2b"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "f6fe8a4f133e177cf0c944e624bfe5e5d6dc553c1a9fff81e8f2b900f7aa62f9"
+hash = "a8d19ed713ed1fa0fcb1b0f940d469212706f1867292c42f1532cd1e0e42396d"
 metafile = true
 
 [[files]]
