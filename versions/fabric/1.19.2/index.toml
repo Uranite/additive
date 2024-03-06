@@ -17,6 +17,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
 
 [[files]]
+file = "config/yosbr/config/badoptimizations.txt"
+hash = "2d8b0414f360529bb14cccadf0f084290349aedce33c7e88b95fd147ae2dc240"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
@@ -106,6 +110,11 @@ hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e0eb14d85b291c8b5648824b4c80d8837b853a473ea304d9e7e1428e9f0121ec"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
@@ -152,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "429e9e220b847545e084f71a9096a7b91e00376f391d9c2fc0a353e35b58ae15"
+hash = "12b74b45861ed2ffc636121c2e4042b825f818ff0b973020396d7ed4ca0a9799"
 metafile = true
 
 [[files]]
@@ -247,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b5a82db59ce3476a0a5476b894365c8de61de65825e0c0c680416724359f629b"
+hash = "8ab2cd08567bb49f2e8fec1ee42036a3897e259e2b5c2ddd7f15bf1835be1c24"
 metafile = true
 
 [[files]]
@@ -277,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "9efd4f60a3aaf40c99811193f4e2f98289f68d491e159582468275925358c846"
+hash = "85f7e277b15307a4f88eb64a10e14ea0a26530617273fca7b191030ad6cf3976"
 metafile = true
 
 [[files]]
