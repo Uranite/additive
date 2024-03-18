@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "f887b988eab34f06e2c1ddc8c61e04824301262d5e366e4c6f482f673bc9b143"
+hash = "0b979a56ecb4f9cb0ae346d69b7ef0e95eb2c16c058fe0bf36728bb4ed453d1a"
 metafile = true
 
 [[files]]
@@ -221,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "a0128253e17ebcd9453ffd96cfb9038e795d9204118eff9909070fa1c3b7de2b"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "bb1f4f70fc67799f1d2aa815f2f5e4ae793b964034caedfef85d0149df8580ec"
 metafile = true
 
 [[files]]
@@ -241,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "062733fbfcce70e299b24a6245a395b8533d4489b8f03206977b1d994d45a0d8"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "0a4a2b3b46be5a7623dbef3e33ded6529c06bb58b6e798be7dd2893785c7c851"
 metafile = true
 
 [[files]]
@@ -289,8 +299,13 @@ hash = "942a8797c5d76c6c60efc601f9bc4112585824f19cdd5ede46dea058fbf8679d"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "1cdf189428c566c0dadd12367c0c7f9d571023b42b1a0555370df05e94a5783d"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
-hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+hash = "8bb727360596439b65a6bc057ccd0a51996e529948c59d41c35db05ee35ca559"
 metafile = true
 
 [[files]]
@@ -324,6 +339,16 @@ hash = "6cf233a000150f22141c380440debf65932d50473a7b7717a7598c4a325d25b2"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9949ec202b01c2172f4db6dbe309b4caad6388022973bfd3d328a0e75d18050c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ab0aec7265f9fe0f869aa4972cb55837ddd60a0cf022ec273a42317e08f381d0"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "5b008785d77be9d5a534b3382898668d8eecc4541cfb900fbb4eb79d24565d11"
 metafile = true
@@ -340,10 +365,20 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "a8d19ed713ed1fa0fcb1b0f940d469212706f1867292c42f1532cd1e0e42396d"
+hash = "fd2001170ec72ebe105f9b49c804d25b1d29eddefdc8deb2c8e607531985971c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+hash = "d6d6fdf7ebb8c4dac19b39df210f9695af807adf0ceda3ef9e2baa754568fec4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
+hash = "1f4f4f1d1006063b8f9b6e35e82854f7ab962776cb931e003c930f854f81caa8"
 metafile = true

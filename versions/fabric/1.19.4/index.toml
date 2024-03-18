@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -220,6 +220,11 @@ hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "066df28b2af1da58889f17f2ce90df173a498c426d2f41a183dff9c15b479e95"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "37631fce6ed1f5b1469a32300ed8abb71390984190aa3238b31e6b2becb77359"
 metafile = true
@@ -237,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "e9a823cbe7a116a4739951453707171bcacee176ce13cb11d50ae747c3397254"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "158ae6ba5ee234518237f0e0a0e4ab35fc1433fe7fb4cb1c5102d46eb13a92aa"
 metafile = true
 
 [[files]]
@@ -310,6 +320,16 @@ hash = "cca51b66f1e4fd5b037a54c018dbc17bc89313fdabfb153dc4c9fb1b398eb672"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "dd8035b1ff04e0f6b696432b79c630e896f2c1d4201315a8dd6be0a6182bd386"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e3a6b229bd014f333334e7b23c4c2cb8540a5f47cbd551733b4f5d35a272ded8"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "88c0fc20bad48c7c65dc7394f8dbb00b908c4c4c21323a2160705177ccf10cc3"
 metafile = true
@@ -332,4 +352,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "187b4b7fbf0edfffc6471b5fb927db6a3555c2e8fd6cd03e2bd6be665848a202"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+hash = "03fae2d9a7f947199971fc671efd1ca3bf452975a58f0cc3fcb72cb071a710d9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
+hash = "1f4f4f1d1006063b8f9b6e35e82854f7ab962776cb931e003c930f854f81caa8"
 metafile = true

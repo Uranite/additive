@@ -1,0 +1,13 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_24.0.2_Fabric_1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/rnKIUx0M/Xaeros_Minimap_24.0.2_Fabric_1.19.4.jar"
+hash-format = "sha1"
+hash = "fb78d031329f021c2bf02d9c4849208ee31d7e20"
+
+[update]
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "rnKIUx0M"

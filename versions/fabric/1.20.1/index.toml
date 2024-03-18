@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -220,6 +220,11 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
@@ -237,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
 
 [[files]]
@@ -280,13 +290,18 @@ hash = "942a8797c5d76c6c60efc601f9bc4112585824f19cdd5ede46dea058fbf8679d"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "bc9d9fb4df056972d32bdfba9c0203ccb0fd7f66b245b46ba0929ef694199083"
+hash = "e217c2fdfd825e9833f68c6cc803e8076b34049d37163fd88dd386f6b215387e"
 metafile = true
 
 [[files]]
@@ -320,6 +335,16 @@ hash = "78543b5c34480b62a11f80ca2b383608dbb2b116ea4186007af7ee6b8d8203ae"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "e1d62a3cb9200b6bffd7f86431ef69ce459ab2c0866aa1255bb1ac60e06aae17"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5914f29aa2d85e3d7b16d6584be3b101b9dbc72e0720673a158098c200b2fddf"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "10eead85b57a4646c27aceed0597cca489cd4ae5e4436bb69f9b1b428325ef89"
 metafile = true
@@ -342,4 +367,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+hash = "d6d6fdf7ebb8c4dac19b39df210f9695af807adf0ceda3ef9e2baa754568fec4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
+hash = "1f4f4f1d1006063b8f9b6e35e82854f7ab962776cb931e003c930f854f81caa8"
 metafile = true

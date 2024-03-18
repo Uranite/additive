@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -220,6 +220,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "51cc57a60256bdb283346f76a8900cdec921828a2fe0b3d136a0dcf2668086dc"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
 metafile = true
@@ -247,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "ada5048e8652bd49599449c08c048b8e9e8d0d01e1bc043040740352c3c8352f"
 metafile = true
 
 [[files]]
@@ -325,6 +335,16 @@ hash = "3efe9ebab83150bdf825234af607499007a69ca983823fc58ba24b6389bbeb1c"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "8ae0a4d11fe4fdf6a1f27a7cb8ae42881fad89c5b32dad75f6a4b9900d6e9c35"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d26017ccd01513e59feb348a355a0dbc6521ec24606bb1799c7c21edba78c4a5"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
@@ -337,4 +357,14 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+hash = "03fae2d9a7f947199971fc671efd1ca3bf452975a58f0cc3fcb72cb071a710d9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
+hash = "1f4f4f1d1006063b8f9b6e35e82854f7ab962776cb931e003c930f854f81caa8"
 metafile = true
