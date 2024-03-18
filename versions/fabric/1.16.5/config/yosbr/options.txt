@@ -5,7 +5,8 @@ snooperEnabled:false
 fullscreen:true
 toggleSprint:true
 fov:0.75
-gamma:0.5
+gamma:1.0
+renderDistance:32
 guiScale:2
 maxFps:260
 resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default"]
