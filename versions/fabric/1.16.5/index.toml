@@ -19,6 +19,9 @@ file = "config/yosbr/config/borderlessmining.json"
 file = "config/yosbr/config/capes.json5"
 
 [[files]]
+file = "config/yosbr/config/cem.conf"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 
 [[files]]
@@ -76,6 +79,10 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.pw.toml"
 metafile = true
 
 [[files]]
