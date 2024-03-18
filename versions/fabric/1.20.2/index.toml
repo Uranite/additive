@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/citresewn.json"
-hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
-
-[[files]]
 file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
@@ -42,7 +38,7 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
-hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -251,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "0a4a2b3b46be5a7623dbef3e33ded6529c06bb58b6e798be7dd2893785c7c851"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "12146b4764b17a1d3d206fff5c6cd1192e6fddc9491aba501128a43ba0efee7e"
 metafile = true
 
 [[files]]

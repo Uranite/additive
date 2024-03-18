@@ -251,6 +251,11 @@ hash = "d4a8ff571a1b67d8d68608ebf08125aba6d6ef07aa55eac77b14abd57eba9181"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "1f59589f7d441891abb1a6f32515e8da307e5c1d4bb1fbec078ddeabf7191dab"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9480f9e11e91eb82ba616c5c622c218d7b7ceff6599a3348d557eb1a1ddd41f9"
 metafile = true

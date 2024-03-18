@@ -1,0 +1,13 @@
+name = "Lighty"
+filename = "lighty-1.2.1+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/LwWqa60V/lighty-1.2.1%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "de06d3da51ccbcd1d6a313b025576d70d5c8b805"
+
+[update]
+[update.modrinth]
+mod-id = "yjvKidNM"
+version = "LwWqa60V"
