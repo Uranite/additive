@@ -89,7 +89,7 @@ file = "mods/capes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/citresewn-1-1-4-dicedpixels-1-20-4.pw.toml"
+file = "mods/cit-fork.pw.toml"
 metafile = true
 
 [[files]]

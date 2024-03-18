@@ -1,7 +1,0 @@
-name = "citresewn-1.1.4-dicedpixels+1.20.4"
-filename = "citresewn-1.1.4-dicedpixels+1.20.4.jar"
-
-[download]
-url = "https://github.com/dicedpixels/CITResewn/releases/download/1.20.4-1.1.4-dicedpixels/citresewn-1.1.4-dicedpixels+1.20.4.jar"
-hash-format = "sha256"
-hash = "4633f8df0735e3754dffad4bd6fa3e919f71f64edcfd92247a297b84cec04bcf"
