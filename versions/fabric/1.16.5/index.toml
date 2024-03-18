@@ -201,7 +201,3 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 metafile = true
-
-[[files]]
-file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
-metafile = true

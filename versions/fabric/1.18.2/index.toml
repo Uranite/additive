@@ -264,7 +264,3 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 metafile = true
-
-[[files]]
-file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
-metafile = true

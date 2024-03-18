@@ -283,7 +283,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
 metafile = true
-
-[[files]]
-file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
-metafile = true
