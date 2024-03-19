@@ -81,8 +81,8 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "6b05ce4b7bacb3418d69ea55bd56622cfe9f4d552cac8bf69920bb4c0fab22e8"
 
 [[files]]
-file = "config/yosbr/config/world-host.json5"
-hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "6dabaa86cbf86af5740009554d9030779c55f5fb7ccb2094ba253dde3fbb0096"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
@@ -310,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "41442ff683710115ccf727608834908ab09679f815ac04931af37d643db78a2d"
 metafile = true
 
 [[files]]
