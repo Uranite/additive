@@ -1,15 +1,13 @@
 name = "TempName"
 author = "Uranite"
-version = "0.2.0+1.16.5.fabric"
+version = "0.3.0+1.16.5.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+hash = "a2a52510892b8549bcf37322d3a87e2faed9a6c2f92f3b29ad45b1838b1bb6f8"
 
 [versions]
 fabric = "0.15.7"
 minecraft = "1.16.5"
-
-[options]
-no-internal-hashes = true
