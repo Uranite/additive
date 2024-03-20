@@ -232,11 +232,6 @@ hash = "1127e53daa00cc93cc47e9226012c7121e9f44e83bc269b64699e8ac4894957c"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "e9a823cbe7a116a4739951453707171bcacee176ce13cb11d50ae747c3397254"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "158ae6ba5ee234518237f0e0a0e4ab35fc1433fe7fb4cb1c5102d46eb13a92aa"
 metafile = true

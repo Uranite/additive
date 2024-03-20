@@ -228,11 +228,6 @@ hash = "3c3f1788a62da45c975e150cc851ca6639c7d0dec10c43c9500f933ad15b1768"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "cb5c8e455157d5a1e65508577821eb41ab551225cabc8315b04f3a2a58b4816b"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
