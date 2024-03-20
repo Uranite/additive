@@ -248,6 +248,11 @@ hash = "91dfb8c6fecb0d1daed873ed2b50b874ab143f23d7df2b1cdbefda1c507e522f"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
 metafile = true

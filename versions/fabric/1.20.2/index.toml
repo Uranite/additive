@@ -104,8 +104,8 @@ hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+file = "mods/cit-resewn-jsonlagpatch.pw.toml"
+hash = "05a87650aa4f5484e9e78cab851dcffd66efdd53215e6e1bd6071ab7ec64ae00"
 metafile = true
 
 [[files]]
