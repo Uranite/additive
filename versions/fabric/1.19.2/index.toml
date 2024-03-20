@@ -21,10 +21,6 @@ file = "config/yosbr/config/badoptimizations.txt"
 hash = "2d8b0414f360529bb14cccadf0f084290349aedce33c7e88b95fd147ae2dc240"
 
 [[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "693aa9568f7570903171bb97ef80af06488502a6f6ba977af30255cbcdf38e8b"
-
-[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "1e673e5c776fc34a35e2df497d76d9081ad0f0b5c89ded17d2fd57fe1969272f"
 
@@ -107,11 +103,6 @@ hash = "e0eb14d85b291c8b5648824b4c80d8837b853a473ea304d9e7e1428e9f0121ec"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28"
 metafile = true
@@ -129,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "30838e885da70fc5bcfa8ab865a72895adfa3f617ce9284b26f0e340a59979f0"
 metafile = true
 
 [[files]]
