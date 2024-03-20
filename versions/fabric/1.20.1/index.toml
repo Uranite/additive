@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/moddetectionpreventer.pw.toml"
-hash = "9529d2b46f75f7f27c764c276e9d7ef55b13e57b94be7963affc48e88f1d9b3a"
+hash = "91dfb8c6fecb0d1daed873ed2b50b874ab143f23d7df2b1cdbefda1c507e522f"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e217c2fdfd825e9833f68c6cc803e8076b34049d37163fd88dd386f6b215387e"
+hash = "3e08c3e182d917931e75be4a51296df7096dfdbea9e2d48ec97452172ba7852b"
 metafile = true
 
 [[files]]

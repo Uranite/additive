@@ -1,13 +1,13 @@
 name = "Mod Detection Preventer"
-filename = "ModDetectionPreventer+1.20.4-1.1.0.jar"
+filename = "ModDetectionPreventer+1.20.4-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lnxQbnYZ/versions/r2Smj2SL/ModDetectionPreventer%2B1.20.4-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/lnxQbnYZ/versions/F2xrsB2S/ModDetectionPreventer%2B1.20.4-1.2.0.jar"
 hash-format = "sha1"
-hash = "e5f8b13d0632df9dea85c8d98fd4845d857a9730"
+hash = "155dfba649bb6fedf15c706aced78eb0ced5b097"
 
 [update]
 [update.modrinth]
 mod-id = "lnxQbnYZ"
-version = "r2Smj2SL"
+version = "F2xrsB2S"
