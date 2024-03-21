@@ -90,7 +90,7 @@ hash = "6dabaa86cbf86af5740009554d9030779c55f5fb7ccb2094ba253dde3fbb0096"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bc2bbc7f2de36fab8d80718d0e8142570a4e731a55e9a17eaf072de9b6ea423b"
+hash = "6d41e9bfe695100319c1bcb27e1cde4c3fdb7bab1e65618d0d3bff9726fea22e"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
+hash = "59df2acf166827c14e86528f987042078213b54c7479b87cb3d9c68bcccd5c57"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3e08c3e182d917931e75be4a51296df7096dfdbea9e2d48ec97452172ba7852b"
+hash = "c923430e0b8c5bf93990d265e8f787bd45258e44f7077a881ffe8681a76f2b71"
 metafile = true
 
 [[files]]
