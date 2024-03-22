@@ -90,7 +90,7 @@ hash = "6dabaa86cbf86af5740009554d9030779c55f5fb7ccb2094ba253dde3fbb0096"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b8afbba5e36c1f5736faf90266dbe416324d77a989ef6b7fd11e668495ae2492"
+hash = "b16d91ecfa161b176acafaac35a933731f08a4265e7ffcbdb2beb43d9700d08d"
 
 [[files]]
 file = "mods/animatica.pw.toml"
