@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
 metafile = true
 
 [[files]]
@@ -364,5 +364,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
-hash = "d6d6fdf7ebb8c4dac19b39df210f9695af807adf0ceda3ef9e2baa754568fec4"
+hash = "b58de17c37abb2e5e1e19c8ef688360921bee54c5888e5e8f0c977482e2e180e"
 metafile = true

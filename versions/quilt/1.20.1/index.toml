@@ -239,12 +239,12 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "59df2acf166827c14e86528f987042078213b54c7479b87cb3d9c68bcccd5c57"
+hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c923430e0b8c5bf93990d265e8f787bd45258e44f7077a881ffe8681a76f2b71"
+hash = "a46347a981f771078de011012f13cb22527d95ff0b927029e321e348cd0bfcea"
 metafile = true
 
 [[files]]
@@ -359,5 +359,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
-hash = "d6d6fdf7ebb8c4dac19b39df210f9695af807adf0ceda3ef9e2baa754568fec4"
+hash = "b58de17c37abb2e5e1e19c8ef688360921bee54c5888e5e8f0c977482e2e180e"
 metafile = true
