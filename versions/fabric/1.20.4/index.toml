@@ -17,10 +17,6 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
-file = "config/yosbr/config/badoptimizations.txt"
-hash = "2d8b0414f360529bb14cccadf0f084290349aedce33c7e88b95fd147ae2dc240"
-
-[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "1e673e5c776fc34a35e2df497d76d9081ad0f0b5c89ded17d2fd57fe1969272f"
 
@@ -95,11 +91,6 @@ hash = "b16d91ecfa161b176acafaac35a933731f08a4265e7ffcbdb2beb43d9700d08d"
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "52f413dead9d7b8a24104d578defbc825608e99367731720d2e710851e49813c"
 metafile = true
 
 [[files]]
