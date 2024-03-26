@@ -98,6 +98,11 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
+file = "mods/autoreconnector-fabric.pw.toml"
+hash = "bced845a4f4724f0bf303301daed8eea70953eabb5a30c61960347808ace2884"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
 metafile = true

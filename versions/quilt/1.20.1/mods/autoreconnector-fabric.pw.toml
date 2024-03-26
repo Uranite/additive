@@ -1,0 +1,13 @@
+name = "AutoReconnector-Fabric"
+filename = "autoreconnector-fabric-1.1.1-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JWePBaKz/versions/oUwWKS0t/autoreconnector-fabric-1.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "dac85f9fcd5c46eaab6bbe12375af2fe95665317"
+
+[update]
+[update.modrinth]
+mod-id = "JWePBaKz"
+version = "oUwWKS0t"

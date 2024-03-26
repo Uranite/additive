@@ -94,6 +94,11 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
+file = "mods/autoreconnector-fabric.pw.toml"
+hash = "2e95f190bbbd21302d749b41ab3ee2af9710be54af5984a2f0531fc86997f2da"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
