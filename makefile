@@ -4,9 +4,9 @@ update-packwiz:
 	clear
 	@echo "Packwiz has been Updated"
 export-fabric:
-	-mkdir -p .build/fabric/
+	-mkdir -p build/fabric/
 	cd versions/fabric && pw batch mr export
-	-mv versions/fabric/*/*.mrpack .build/fabric
+	-mv versions/fabric/*/*.mrpack build/fabric
 update-fabric:
 	cd versions/fabric && pw batch update --all
 refresh-fabric:
