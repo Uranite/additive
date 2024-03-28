@@ -57,6 +57,10 @@ file = "config/yosbr/config/dynamic_fps.json"
 hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
 
 [[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "5b6a3aaed4370c64b28ee2a5aba50c39ac99072861b2cc49412efea376421776"
+
+[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
@@ -271,16 +275,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
-metafile = true
-
-[[files]]
-file = "mods/no-clearchat-on-reconfigure.pw.toml"
-hash = "926e2c0e2b2e7f433f7404169fdbd109d28d1e2ebac521e35acac1e2948ed137"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "942a8797c5d76c6c60efc601f9bc4112585824f19cdd5ede46dea058fbf8679d"
 metafile = true
 
 [[files]]
