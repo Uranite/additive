@@ -13,10 +13,6 @@ file = "config/yosbr/config/capes.json5"
 hash = "1e673e5c776fc34a35e2df497d76d9081ad0f0b5c89ded17d2fd57fe1969272f"
 
 [[files]]
-file = "config/yosbr/config/cem.conf"
-hash = "99ecb0cc231f75abd0e0cfb6ebcfae0fa407c1dab9956587c1792d45e715b6c7"
-
-[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
 
