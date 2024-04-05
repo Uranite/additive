@@ -90,7 +90,7 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "68c043702a777e178f719c7c5bab5d10890b0d68f6cc220d33d95f002f55ba3e"
+hash = "37f3676925d003ed4503c6699bf13be12be02dacc9f5f3a4c90c93eef0b54911"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -195,11 +195,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
 metafile = true
 
 [[files]]

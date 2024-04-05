@@ -1,0 +1,13 @@
+name = "Cubes Without Borders"
+filename = "cubes-without-borders-1.1.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/VYlCaDVa/cubes-without-borders-1.1.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "1c2f45b00069c16400255f8deba7d02caa920dce"
+
+[update]
+[update.modrinth]
+mod-id = "ETlrkaYF"
+version = "VYlCaDVa"

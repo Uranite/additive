@@ -10,7 +10,7 @@ renderDistance:32
 simulationDistance:5
 guiScale:2
 maxFps:260
-resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/Chat Reporting Helper.zip"]
+resourcePacks:["vanilla","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Chat Reporting Helper.zip"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true

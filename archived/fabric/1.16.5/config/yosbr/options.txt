@@ -1,1 +1,18 @@
-simulationDistance:5
+version:2586
+autoJump:false
+enableVsync:false
+snooperEnabled:false
+fullscreen:true
+toggleSprint:true
+fov:0.75
+gamma:1.0
+renderDistance:32
+guiScale:2
+maxFps:260
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default"]
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
