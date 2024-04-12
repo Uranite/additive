@@ -13,6 +13,8 @@ export-quilt:
 	-mv versions/quilt/*/*.mrpack .build/quilt
 update-fabric:
 	cd versions/fabric && pw batch update --all
+update-fabric-loader:
+	cd versions/fabric && pw batch migrate loader latest
 update-quilt:
 	cd versions/quilt && pw batch update --all
 refresh-fabric:
