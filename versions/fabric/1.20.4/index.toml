@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c338f4f416ec755ed37763e72a699ff6340456135b2aa4adcefb3d9050a8e702"
+hash = "e0492fef37d3df482c86cb3aed8537d50cdb5ad193793cb07f259b9dfd4f4516"
 metafile = true
 
 [[files]]

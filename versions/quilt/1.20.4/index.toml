@@ -235,12 +235,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+hash = "8bb727360596439b65a6bc057ccd0a51996e529948c59d41c35db05ee35ca559"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "418339fd110b3103efe89feb85b6f77bc3914a00fd8d81368fbb8524b5938bd6"
+hash = "e0492fef37d3df482c86cb3aed8537d50cdb5ad193793cb07f259b9dfd4f4516"
 metafile = true
 
 [[files]]
