@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "181f05a6148af614504b7e1833dc5c04c1754f1cf899448db18555d3a7d56bf5"
-
-[[files]]
 file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
@@ -35,6 +31,10 @@ hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "5b6a3aaed4370c64b28ee2a5aba50c39ac99072861b2cc49412efea376421776"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -73,8 +73,12 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "a2470fbc25f1a7df9833c57ca6588a356da86d9ab46881e5ce0e505239943fed"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "57568b6fbd33ac22f4e8e1414440b49776710fb250bedb563ab95fcdab800b9d"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "6555c8c1fc4d773df097895dfb76fe004377347581d5731f5408fb9d138585a2"
+hash = "93c0678dea8c5eaf840a445400ab325d68fc959525205d63e32b77fbceebb83e"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -86,7 +90,7 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "93c4b423cf982419932b7085a1233ae956061f262fb732fd7f132a6c56817c9a"
+hash = "b16d91ecfa161b176acafaac35a933731f08a4265e7ffcbdb2beb43d9700d08d"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -96,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
 
 [[files]]
@@ -120,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
+hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
@@ -189,6 +198,11 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0b979a56ecb4f9cb0ae346d69b7ef0e95eb2c16c058fe0bf36728bb4ed453d1a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
@@ -200,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
 metafile = true
 
 [[files]]
@@ -219,8 +233,13 @@ hash = "8e273299702b68a6503a2d4bd42a05b629a207d84e7fcb6e7510276ac16e0c89"
 metafile = true
 
 [[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+file = "mods/moddetectionpreventer.pw.toml"
+hash = "afab2fbd384fd1f093b7b6d1500d3227c129223b4a6e2ee62ed43b63bfae8f1d"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
 metafile = true
 
 [[files]]
@@ -234,13 +253,33 @@ hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
-hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+hash = "8bb727360596439b65a6bc057ccd0a51996e529948c59d41c35db05ee35ca559"
 metafile = true
 
 [[files]]
@@ -280,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "35604d51f362bbe912d84d8a43835c6b205fd51f8c655202ba1bf59aaaddab19"
+hash = "db2e8974e11be3fb8c9bf6db7ef2dfe3c70e3b1b114640dc5fb9e6f9504ffa10"
 metafile = true
 
 [[files]]
