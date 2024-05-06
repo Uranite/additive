@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
+hash = "a6a57004f5990ae59be0b89eb2edc5f50e2233d0410bd5f8060d58401592e0ef"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3d893dfadfa820f509be9d34f6f302f31a89e824f522e5957e609985de35c591"
+hash = "978fad60641210b2da438426ce9cb4f08b89ab677df05f1585848e3cc89730b5"
 metafile = true
 
 [[files]]
