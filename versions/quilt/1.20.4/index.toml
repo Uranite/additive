@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "181f05a6148af614504b7e1833dc5c04c1754f1cf899448db18555d3a7d56bf5"
+hash = "95d9933fb8d8d8d22dcc2eb4eafe3f1a91f02f1f2acc8208c464347b36cf91f7"
 
 [[files]]
 file = "config/puzzle.json"
@@ -94,6 +94,11 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "31da0d40daba6f88d50d18ae5565aee6996657bcc34138f75622dd8f582385f6"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5d08ee5a9dad38ed87772d437d7e1779fecc0baa4a0e6d33b324bce9908c60ea"
+hash = "b7a7971c44fd891674222a48df8999e379b8658d96ab9b3cf55c17c0b00bd1ce"
 metafile = true
 
 [[files]]
@@ -140,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2c2a15ab33e27fecf8016d2b24eadb166279197b30163ee77c716661f91271a2"
+hash = "dd05166a94c4694bbc3a70acd7511b7642cfe2563d995e55d2850701980f87f0"
 metafile = true
 
 [[files]]
@@ -150,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1ef198b6c96d86e89949f45a721f526f55a254d10062e3b59b5fd5a3a85dbdf2"
+hash = "7f37944b56d4fcc531525e995ed9af77f28df47180372a6603ae7d3c3784fb9b"
 metafile = true
 
 [[files]]
@@ -180,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -190,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
 metafile = true
 
 [[files]]
@@ -215,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8ab36ddea41aaea5969502df196cc821f52e679c60ffba9be030018d6de71885"
+hash = "c0daa1b0438a80083fed9145abe9760e6d4b0f5d3f091ea12e893c32072c8899"
 metafile = true
 
 [[files]]
@@ -229,18 +234,23 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e5bde0bc121e4e034094552cda7d9cb4a1e23b6f8468fb0c701fa3f790a7dd89"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "b7feeb21fa9f9f4e7a9c417894c45f0f7a18a94acd17e9e860800c2950b53c98"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+hash = "b2db81b53e71fc73306a4a5bafb7a33662e2e3da6d77210db607466cd4c41d49"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3d893dfadfa820f509be9d34f6f302f31a89e824f522e5957e609985de35c591"
+hash = "978fad60641210b2da438426ce9cb4f08b89ab677df05f1585848e3cc89730b5"
 metafile = true
 
 [[files]]
@@ -280,12 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "6f1a3037950a3c8e678c6c035f2156fe3790c629b499ba15c8bd7ec986f92658"
+hash = "38c3d0b4d36bb16524ea3976cf1ac7fbe6c285529320bcaf5316888c18b3d01f"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "35604d51f362bbe912d84d8a43835c6b205fd51f8c655202ba1bf59aaaddab19"
+hash = "fc89119ebc9c811ef3cd852556b5caaa27c03eb8fb0014567dd83cc44024ba98"
 metafile = true
 
 [[files]]
