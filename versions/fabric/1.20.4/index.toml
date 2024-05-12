@@ -98,6 +98,11 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "31da0d40daba6f88d50d18ae5565aee6996657bcc34138f75622dd8f582385f6"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
@@ -164,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -309,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "6f1a3037950a3c8e678c6c035f2156fe3790c629b499ba15c8bd7ec986f92658"
+hash = "38c3d0b4d36bb16524ea3976cf1ac7fbe6c285529320bcaf5316888c18b3d01f"
 metafile = true
 
 [[files]]
@@ -324,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "af2f18c6feb48fe4bfc019bdbc4899eb874324082207dc01171ffbf15547f5dd"
+hash = "60d8f8307c2008c62cffe4c0be4fa1e8e9057fadac469594bd326f7e370ec0be"
 metafile = true
 
 [[files]]
