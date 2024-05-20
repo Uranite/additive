@@ -1,23 +1,3 @@
-version:3700
-operatorItemsTab:true
-enableVsync:false
-fullscreen:true
-toggleSprint:true
-darkMojangStudiosBackground:true
-fov:0.75
-gamma:1.0
-renderDistance:32
 simulationDistance:5
-guiScale:2
-maxFps:260
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["modernfix","continuity:default","continuity:glass_pane_culling_fix"]
-advancedItemTooltips:true
-tutorialStep:none
-skipMultiplayerWarning:true
-joinedFirstServer:true
-onboardAccessibility:false
-key_key.saveToolbarActivator:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
-key_key.fabricskyboxes.toggle:key.keyboard.unknown
-key_zoomify.key.zoom.secondary:key.keyboard.unknown
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
+onboardAccessibility:true
