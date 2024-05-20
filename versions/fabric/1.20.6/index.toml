@@ -263,6 +263,11 @@ hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
+metafile = true
+
+[[files]]
 file = "mods/world-host.pw.toml"
 hash = "a6d4e437ccf9f32d491e123e0a1e35690ef6beda5003bb5b1f025af713d2baeb"
 metafile = true
