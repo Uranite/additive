@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2fbbcfe805c02f2f7529f78a29a2cbe509a71499022ffbeeae3ae8190807692c"
+hash = "5504d683b26ab5417ab8960fc1de90642943fa6749e2df353b83555c5a86a76b"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7320ead00e1600f1c1b837a50c0dffdbffe7a0333c49d282c50c1d4f13403451"
+hash = "f9e8f6a385b36b14815e328dba4d414dc71997f68a626614dee969c26403d395"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3b3b0553a1b12f88a5dac3669ea031a2d5c9b2849fcd26167cba74cc72e4f64c"
+hash = "8f15aa9a92e72966ba564c129c71cc57293dbf976ff871ad957f6604cba4f0ff"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5f5eb1fa693c88b2b9581c31bed06ac10be5be71b22d8a6fa65af06f1a69378a"
+hash = "00f45b44a9ea99e24445aa430df43e1ca339d488939fef16c6cb87d6b05b63d4"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "41442ff683710115ccf727608834908ab09679f815ac04931af37d643db78a2d"
+hash = "649d7d6dbaa80664e05a8da4d47d8c2d378a3aef1e88a422819ce0efc5ce2b24"
 metafile = true
 
 [[files]]
