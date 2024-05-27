@@ -98,11 +98,6 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "48720fa4daacd4b092044f734342fb7ee07d6137d653c3a824d022bf72a08e47"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "a54217c91466579ca4b7ef963ed5189c6c55d30c6a2c6a67f68ce07713de5ce0"
 metafile = true
