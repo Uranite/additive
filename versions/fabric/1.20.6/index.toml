@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d80ddf72ebc03bb698043968c2b06272fbbbcf45927e67083d19e65f322b1ca9"
+hash = "d47762be5aaaf014cb93812502944dff9f1dc3466f3de96f4d4808da8e97bdee"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "481a2ae98615aa79fa02546b5f30fef3b2a5e85e394a74d17bdb409a82c21269"
+hash = "b3013e8a6b6f5632a613ec5c51f75671f897010531bdc2b89e3aaec1962392a3"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "a6d4e437ccf9f32d491e123e0a1e35690ef6beda5003bb5b1f025af713d2baeb"
+hash = "a1cfaa434b979b6f2778832353be5e9981f696f101e4c4d54ba0820bc1e1b1d6"
 metafile = true
 
 [[files]]
