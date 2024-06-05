@@ -133,6 +133,11 @@ hash = "bfd6f9ff0b08f5a856706cc4f9e8a803a6b32665e891085256b2f4fc8f58219d"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "406a3f78220ed5d7a4e60c7f89eb9a07e37dd30b4ce6fe684a697096dcd2118c"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7bc062e46f4919feb0edac897a5db36ee1073abff7de2e90cd18301f8df0bb98"
 metafile = true
@@ -204,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
+hash = "ce0282aa9a31909cba4c187bbf1ea0df1c0cd6077d21f89130116f6051a8d6ca"
 metafile = true
 
 [[files]]
@@ -244,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a4792fde3b01ca94f94fcd969b5a5a194a7359305fa41f16d09e945b5165d7f2"
+hash = "4338c91799d4b6518a7ebb8cfd9e582ca7c78642e003304d5af6b29ca6e69997"
 metafile = true
 
 [[files]]
