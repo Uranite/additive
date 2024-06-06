@@ -94,7 +94,7 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0ed0b2d387cf3e5c72bed3cd57249de58ce292f118b2cb9ec40c508193fd613b"
+hash = "aaae9818c7661811e0dea1a5411524ca3b2487fece4e936abec39921dc302bcf"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -214,11 +214,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
-metafile = true
-
-[[files]]
-file = "mods/language-reload.pw.toml"
-hash = "ef364a31e3355d3b920af2530bac7a2dc4ed69f78e83bf219a616730a63051fa"
 metafile = true
 
 [[files]]
