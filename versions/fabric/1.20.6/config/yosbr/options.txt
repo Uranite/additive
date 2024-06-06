@@ -10,7 +10,7 @@ renderDistance:32
 simulationDistance:5
 guiScale:2
 maxFps:260
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:["modernfix","yet_another_config_lib_v3","continuity:default","continuity:glass_pane_culling_fix"]
 advancedItemTooltips:true
 tutorialStep:none
