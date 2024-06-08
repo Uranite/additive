@@ -70,7 +70,7 @@ hash = "aef7324d3c235a60b4e62983385d1b4bfd348f3a58995ab2a075e9ca0ac9d3ce"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "94dfae8bbdf384df9cb8789614e7d2ecf83f12fd15d7d9685c7358a168861218"
+hash = "58314a2b1ac481cb2c346a03fd8840beacc9da66ead43f04e3c9eac4682c7c00"
 
 [[files]]
 file = "config/yosbr/config/ryoamiclights.toml"
