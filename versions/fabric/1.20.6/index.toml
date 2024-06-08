@@ -17,10 +17,6 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
-file = "config/yosbr/config/bettergrass.json"
-hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
-
-[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "1e673e5c776fc34a35e2df497d76d9081ad0f0b5c89ded17d2fd57fe1969272f"
 
@@ -89,12 +85,8 @@ file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
-file = "config/yosbr/config/world-host.json5"
-hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
-
-[[files]]
 file = "config/yosbr/options.txt"
-hash = "aaae9818c7661811e0dea1a5411524ca3b2487fece4e936abec39921dc302bcf"
+hash = "17a52121a92e3c7991a15746de56aba86dfd6283ed9dd540d56b5c9e12a4576c"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -294,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "a1cfaa434b979b6f2778832353be5e9981f696f101e4c4d54ba0820bc1e1b1d6"
 metafile = true
 
 [[files]]
