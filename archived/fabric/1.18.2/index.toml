@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "00f45b44a9ea99e24445aa430df43e1ca339d488939fef16c6cb87d6b05b63d4"
+hash = "b5d6e5bb8d74b24d393c1501ca838226d16b7aa5a212b0ceea49b081485b1fb0"
 metafile = true
 
 [[files]]
