@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6cab3a465a9eda189b2fe3d3bbc2c1f3348e02d71c854758d84c51aa78f94b53"
+hash = "14a0b0c6e325d0d4fcb6204ca49e5d81686155e2abe8456f7a8fa0a9bb2ee2d0"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "183ef38564072df4bad13a2361f983c381b3fb8ff4977280a82a7d416208f03b"
+hash = "34b7754fee32ca2409b2625eebb45602d1da1238e7d847f04348ab100bf913d5"
 metafile = true
 
 [[files]]
