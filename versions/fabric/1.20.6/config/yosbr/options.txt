@@ -5,7 +5,6 @@ fullscreen:true
 toggleSprint:true
 darkMojangStudiosBackground:true
 fov:0.75
-gamma:1.0
 renderDistance:32
 simulationDistance:5
 guiScale:2
