@@ -1,0 +1,22 @@
+version:3839
+operatorItemsTab:true
+enableVsync:false
+fullscreen:true
+toggleSprint:true
+darkMojangStudiosBackground:true
+fov:0.75
+renderDistance:32
+simulationDistance:5
+guiScale:2
+maxFps:260
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip"]
+incompatibleResourcePacks:["modernfix","yet_another_config_lib_v3"]
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+onboardAccessibility:false
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_zoomify.key.zoom.secondary:key.keyboard.unknown

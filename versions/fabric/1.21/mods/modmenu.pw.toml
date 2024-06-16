@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-11.0.0-rc.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/I7OSH8Gw/modmenu-11.0.0-rc.2.jar"
+hash-format = "sha1"
+hash = "9e86614a0a30f07350e8af6f2aacebdfcad7aa25"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "I7OSH8Gw"
