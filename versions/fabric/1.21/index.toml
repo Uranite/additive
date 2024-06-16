@@ -172,6 +172,11 @@ hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "ecfd75bec8245e1f183258086f8f3ff62169d8172b576889bb7eab8e1b27c46c"
 metafile = true
@@ -187,7 +192,7 @@ hash = "d3ed68b3b2241eb34c6a27fcf45d720d626d530621bebaf98757b79cd7d85ced"
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b18d7d95e46a180817798ee01cb2e62733bdaf49be4fa1e94f1894d903ea57f8"
+hash = "b4ca030148c5e02ee1ce5039ac6f17fd6d727639a082f59934968abceaa1586c"
 metafile = true
 
 [[files]]
