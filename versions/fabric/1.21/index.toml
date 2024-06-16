@@ -38,7 +38,7 @@ hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+hash = "6eb01efbe5ca406f5dc6af0a4a68173415605ad32509108f0e2c4d82e0257a57"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -123,11 +123,6 @@ hash = "368617983a769fb6819bc68d25a4d0f875977d63e9d2d3ff10389de7adfe2fe1"
 metafile = true
 
 [[files]]
-file = "mods/ears.pw.toml"
-hash = "bfd6f9ff0b08f5a856706cc4f9e8a803a6b32665e891085256b2f4fc8f58219d"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
@@ -198,38 +193,13 @@ hash = "7f1ea1175d5541f7d733b3fd5c7d1b6f69f1d41cb0c96260342580fb6036ab9b"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "9d76e9b5d107004c51e91c33404a9e22f03770420e3cf6a49bc1393b6f9fe3c3"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "b6c8fe81a75bc2c3292ef642e62985c2d9e270ad26f7aa044ff33b906425e8a8"
-metafile = true
-
-[[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "87981efb46e0cd7a408a1dddb1e80fd40c59ba0d9331953b0f888302a7dd3936"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "d8d16415897778ba9e6bf5cd74920edce456787f48c4e8fc6e2aa1d17fdffdc7"
 metafile = true
 
 [[files]]
-file = "mods/puzzle.pw.toml"
-hash = "8be9dbb2abf2cdd5fb92f8fb64884a109fff9669c21e7f2c0aa1c31196ffd868"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "38d174b363d20977147fc4e9c5842d76fef3597556472cd4e8e75db3a6356445"
 metafile = true
 
 [[files]]
