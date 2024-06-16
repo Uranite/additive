@@ -173,11 +173,6 @@ hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "51d318e0a4bc5da935a965860b815a6cb57b6ef0ff046a1c364996ca784b1582"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
 metafile = true
@@ -205,11 +200,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "6a22d14251ccfb61007da299c1040bcb3904bd0cc43e5d1ba96536b94ed43036"
 metafile = true
 
 [[files]]
