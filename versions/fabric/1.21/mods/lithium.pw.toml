@@ -1,0 +1,7 @@
+name = "lithium"
+filename = "lithium-fabric-mc1.21-0.12.5.jar"
+
+[download]
+url = "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.21-0.12.5/lithium-fabric-mc1.21-0.12.5.jar"
+hash-format = "sha256"
+hash = "74b16adcabf6f16ae30203476db57b996456dca765922f0987b7e02dd95d7498"

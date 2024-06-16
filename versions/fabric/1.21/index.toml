@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "c756aaca5f1d8b3b8855886b1eccae75d4f4c784a508a8c9b99999cfd66ea802"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
@@ -108,6 +112,11 @@ hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
@@ -173,9 +182,17 @@ hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
+file = "mods/indium-1.0.32-dev.001bdbb+mc1.21.jar"
+hash = "d3ed68b3b2241eb34c6a27fcf45d720d626d530621bebaf98757b79cd7d85ced"
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b18d7d95e46a180817798ee01cb2e62733bdaf49be4fa1e94f1894d903ea57f8"
 metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5.18.3-beta.5+mc1.21.700c.jar"
+hash = "a92b8a56736ad74d6283a0cd19a5490fb4f065d33d7392c9e42e32a4afd83596"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -200,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
 metafile = true
 
 [[files]]
