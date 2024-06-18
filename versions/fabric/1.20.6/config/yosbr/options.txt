@@ -17,6 +17,7 @@ skipMultiplayerWarning:true
 joinedFirstServer:true
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
+key_key.resolutioncontrol.settings:key.keyboard.h
+key_key.resolutioncontrol.screenshot:key.keyboard.g
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_zoomify.key.zoom.secondary:key.keyboard.unknown

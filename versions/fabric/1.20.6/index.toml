@@ -90,7 +90,7 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "75e02414a44871329088008f1341d5537b5aa260ec4ee3faa97cad7298f871d1"
+hash = "74a76241a1ea03d3d2a1f47e557c004278ca1b7093cbcc9a22c14c3c98217f67"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -265,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c35d165125b8a1064f59e6573ce99fb62ce36142adbc476f3e2533256910ec4b"
+metafile = true
+
+[[files]]
+file = "mods/resolution-control-plus-plus.pw.toml"
+hash = "2a92aa58bff66b0c77fe5629943916951145654e667d707c80d2e3e94532bcc1"
 metafile = true
 
 [[files]]
