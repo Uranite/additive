@@ -122,6 +122,11 @@ hash = "368617983a769fb6819bc68d25a4d0f875977d63e9d2d3ff10389de7adfe2fe1"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
@@ -149,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/fabricbettergrass.pw.toml"
+hash = "f136bce6bee463cd87650b95db34ebf07d258983bccd4164597cd5cf41d21c9b"
 metafile = true
 
 [[files]]
@@ -197,12 +207,23 @@ hash = "b4ca030148c5e02ee1ce5039ac6f17fd6d727639a082f59934968abceaa1586c"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.18.3-beta.5+mc1.21.700c.jar"
-hash = "a92b8a56736ad74d6283a0cd19a5490fb4f065d33d7392c9e42e32a4afd83596"
+file = "mods/modernfix.pw.toml"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "365313e20f6fd244d13667b352d8aa16312a609c7247b7472771cf4555908869"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
