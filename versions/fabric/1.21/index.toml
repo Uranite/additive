@@ -33,10 +33,6 @@ file = "config/yosbr/config/citresewn.json"
 hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
-
-[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
 
