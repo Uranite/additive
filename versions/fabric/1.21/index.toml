@@ -42,7 +42,7 @@ hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
-hash = "6eb01efbe5ca406f5dc6af0a4a68173415605ad32509108f0e2c4d82e0257a57"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -95,6 +95,14 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "c5213b803f3c49e70efdd4a759fbed341376cd00b49be2f35517feb300d540a6"
+
+[[files]]
+file = "mods/ObsidianUI-fabric-0.2.6+mc1.21.jar"
+hash = "2c88fb9c16d6a16266330520c4a46d8a6b92edbb7641836808346911787175d6"
+
+[[files]]
+file = "mods/RyoamicLights-fabric-0.2.7+mc1.21.jar"
+hash = "a641d6363a1ecbdcfb31ba9aaff17582049286d0d4d3913a144ed463683ace62"
 
 [[files]]
 file = "mods/animatica.pw.toml"
