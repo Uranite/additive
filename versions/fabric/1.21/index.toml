@@ -93,12 +93,8 @@ file = "config/yosbr/options.txt"
 hash = "c5213b803f3c49e70efdd4a759fbed341376cd00b49be2f35517feb300d540a6"
 
 [[files]]
-file = "mods/ObsidianUI-fabric-0.2.6+mc1.21.jar"
-hash = "2c88fb9c16d6a16266330520c4a46d8a6b92edbb7641836808346911787175d6"
-
-[[files]]
 file = "mods/RyoamicLights-fabric-0.2.7+mc1.21.jar"
-hash = "a641d6363a1ecbdcfb31ba9aaff17582049286d0d4d3913a144ed463683ace62"
+hash = "6e1d508a8caf2d993a42c6fd14d685a110f5f91092e53ce07095e24fdb95314d"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -233,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "150b622b59aa157646792d5b76c799d78a8ac64fc5c2f96c99f8344554591b71"
 metafile = true
 
 [[files]]
