@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4b2d158dfd977ef6db626da315585e3ccca55d087cb8b8453ffc96868ee00a24"
+hash = "d4343337416f8324da8ff0e190b2108780d5eb918841347438d44eaec2e964c6"
 
 [[files]]
 file = "config/puzzle.json"
@@ -27,6 +27,10 @@ hash = "1e673e5c776fc34a35e2df497d76d9081ad0f0b5c89ded17d2fd57fe1969272f"
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
+
+[[files]]
+file = "config/yosbr/config/cull-less-leaves.json"
+hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -69,10 +73,6 @@ file = "config/yosbr/config/modmenu.json"
 hash = "aef7324d3c235a60b4e62983385d1b4bfd348f3a58995ab2a075e9ca0ac9d3ce"
 
 [[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "a2470fbc25f1a7df9833c57ca6588a356da86d9ab46881e5ce0e505239943fed"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "6555c8c1fc4d773df097895dfb76fe004377347581d5731f5408fb9d138585a2"
 
@@ -90,12 +90,12 @@ hash = "a8f46cff138e000d4ed4505cc2bfdc5cdc6e8b5588fd1b1e2d6222cd21e624e2"
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
+hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
 metafile = true
 
 [[files]]
@@ -155,12 +155,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "aab2fb1a0fe5cbd94ff7b26ee51bc7d947052f0b12c817d5715629db709b9b1d"
+hash = "dd6dcae2b3900f466f93387e57a213a18678dd3b366cb4037e2870dfcd892eb8"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "360959c50ff0b2765e683273b256cac86ccf8b4b96b54ad863d45ae2c44bf35f"
+hash = "d875c9d37bd470e6ca2974e9956152f5e5dcc602ed96e58cd419eaa357bc46a3"
 metafile = true
 
 [[files]]
@@ -190,17 +190,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
+hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
+hash = "268c5ed7677153bbf1bc4d37e6d5825388fa5d444c67f4b399fd4ce708b773b5"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e5020303f722daf230d68194a1b6e45c79bbeaa8a54b44745d04dcea94b6d88d"
+hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e2eafd77597771fd8810583370b6dd445b89490cc1b403f048305736dd23eed8"
+hash = "5978d6f4db68755c28d31e9552c27b9fe96a28ce7ba9f897a469feca8ecb9929"
 metafile = true
 
 [[files]]
@@ -270,12 +270,17 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+hash = "c94b68658f3158a44d5e95a606aa08628cd2b80a50fe45d26d5679205a77e4d1"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/resolution-control-plus.pw.toml"
+hash = "f0dcbfc4f9cca6aa877c806b357f02e3be9fbf001c331b321f6855773129785a"
 metafile = true
 
 [[files]]
@@ -285,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]
@@ -300,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e5182e08336de4bff4901b4dd34b4e1a044f0e7a5e709b90b0fd80bfe9df7a41"
+hash = "e012c2d48d8c2ef08e8a77a83476db46a81f9a5ee3aa90e5c57e2af508bd9089"
 metafile = true
 
 [[files]]
