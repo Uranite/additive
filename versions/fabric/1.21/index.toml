@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "f136bce6bee463cd87650b95db34ebf07d258983bccd4164597cd5cf41d21c9b"
+hash = "2bbb707f231c2225374e1c93d0d07e6cd1621e76ded5ad030af5916f4d2b5b0e"
 metafile = true
 
 [[files]]
@@ -232,6 +232,11 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "150b622b59aa157646792d5b76c799d78a8ac64fc5c2f96c99f8344554591b71"
 metafile = true
@@ -239,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "d8d16415897778ba9e6bf5cd74920edce456787f48c4e8fc6e2aa1d17fdffdc7"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "5b59ab60d978542c01eab57a3d54ccd7ec9e45befc34bbdd63706030dc391df9"
 metafile = true
 
 [[files]]
