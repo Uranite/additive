@@ -203,9 +203,8 @@ hash = "35a5bdcb09b0b51a4161a62c0b8ab507cb58a936f036f60410704b291134d1ba"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
-metafile = true
+file = "mods/lithium-fabric-mc1.21-0.12.7+git.fa16438.jar"
+hash = "7dcdcb71e028e43c767e7225118c43a88bafb2e1ff92236701d9703968c7b9ca"
 
 [[files]]
 file = "mods/modelfix.pw.toml"
