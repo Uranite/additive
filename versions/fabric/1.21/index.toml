@@ -93,10 +93,6 @@ file = "config/yosbr/options.txt"
 hash = "c5213b803f3c49e70efdd4a759fbed341376cd00b49be2f35517feb300d540a6"
 
 [[files]]
-file = "mods/RyoamicLights-fabric-0.2.7+mc1.21.jar"
-hash = "6e1d508a8caf2d993a42c6fd14d685a110f5f91092e53ce07095e24fdb95314d"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
@@ -123,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "368617983a769fb6819bc68d25a4d0f875977d63e9d2d3ff10389de7adfe2fe1"
+hash = "903cd184c2471739ade3477ac0e149002cdd4516133350a170dc33108f1748a7"
 metafile = true
 
 [[files]]
@@ -148,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b7251ad93a8307120de54781485ccc770e230632e2787bbbce3e59e04c8a6d52"
+hash = "515494490fe23d76d26b544cb1ae46dfaeb4662c11ea543d09fdded6c486f649"
 metafile = true
 
 [[files]]
@@ -223,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
@@ -264,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "242a2041bbc0abd9d4b29d4bf79ad8ee19fd380fc55c290a088efe234dbdcc7b"
 metafile = true
 
 [[files]]
