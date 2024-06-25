@@ -118,8 +118,13 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "55f0656b4bb9489a9f36700bf8ba069f8fe001c4baf2d4d0ff01e948560dda59"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "903cd184c2471739ade3477ac0e149002cdd4516133350a170dc33108f1748a7"
+hash = "02d5a13f745ac0a0f107a071649fd44b3c6820a60e926f3bfc4907ac59194edf"
 metafile = true
 
 [[files]]
