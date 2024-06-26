@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "55f0656b4bb9489a9f36700bf8ba069f8fe001c4baf2d4d0ff01e948560dda59"
+hash = "0ccb67864aa95ee32318023ff5e1782a3d0df70311d061b2716ba6a93507df41"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "150b622b59aa157646792d5b76c799d78a8ac64fc5c2f96c99f8344554591b71"
+hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
-hash = "242a2041bbc0abd9d4b29d4bf79ad8ee19fd380fc55c290a088efe234dbdcc7b"
+hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
 metafile = true
 
 [[files]]
