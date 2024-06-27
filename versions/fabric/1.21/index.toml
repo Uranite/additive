@@ -123,6 +123,11 @@ hash = "0ccb67864aa95ee32318023ff5e1782a3d0df70311d061b2716ba6a93507df41"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bcd6ab63410cedbf87e7056337ddf50059655c59a23189520a22eab8419b8415"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "02d5a13f745ac0a0f107a071649fd44b3c6820a60e926f3bfc4907ac59194edf"
 metafile = true
@@ -164,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "2bbb707f231c2225374e1c93d0d07e6cd1621e76ded5ad030af5916f4d2b5b0e"
+hash = "10f8e1b1c0b3072de6b4a54b73497737d7be4ba919c5a86a05dcee73ddb4950c"
 metafile = true
 
 [[files]]
@@ -242,6 +247,11 @@ hash = "6de363a1d2baf1d4048a838de11353efa39efa396c6a8189a6e5ea368d7e9245"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "8e19de26448a601a623abd6decf404258b3e67bd2d2073ce944a23428b26aebe"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
 metafile = true
@@ -253,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5b59ab60d978542c01eab57a3d54ccd7ec9e45befc34bbdd63706030dc391df9"
+hash = "f950389834093822cfa59d3e475fd53688308de20b276031fd6df062705a4568"
 metafile = true
 
 [[files]]
