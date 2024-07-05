@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d4343337416f8324da8ff0e190b2108780d5eb918841347438d44eaec2e964c6"
+hash = "3b9e19358031725e4474889df1028f48c38481980229d1914b48316672e6e434"
 
 [[files]]
 file = "config/puzzle.json"
@@ -21,7 +21,7 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
-file = "config/yosbr/config/bettergrass.json"
+file = "config/yosbr/config/bettergrass.json5"
 hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
 
 [[files]]
@@ -74,7 +74,7 @@ hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "aef7324d3c235a60b4e62983385d1b4bfd348f3a58995ab2a075e9ca0ac9d3ce"
+hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -103,6 +103,11 @@ hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
@@ -124,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
+hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
 metafile = true
 
 [[files]]
@@ -134,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
+hash = "d66ea8c1b07884fd9de62cfbd344a74760388b9d19b0d82c32557e3edb4daad9"
 metafile = true
 
 [[files]]
@@ -179,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "30a2cf70fc13bbb8dd2282ddd7fb230445b307162b440458d655d78dc6fcfac5"
+hash = "e54aa7c21f022dd44393975d1d14c4238f23f228432b7b91c5f899fcc15464a3"
 metafile = true
 
 [[files]]
@@ -214,12 +219,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "268c5ed7677153bbf1bc4d37e6d5825388fa5d444c67f4b399fd4ce708b773b5"
+hash = "aac37788ac1acd537a8b5b32fc2489cddf8034f196f7f38c0755837764b4f01d"
 metafile = true
 
 [[files]]
@@ -240,11 +245,6 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5978d6f4db68755c28d31e9552c27b9fe96a28ce7ba9f897a469feca8ecb9929"
+hash = "6aa69f095b8ca5cdd2f5eae1aba9d00bbaf38f76699e90f94e929b3efb6ce4bc"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "1122d8829ac8e508d738416cade749d8cd0c4135262c41b8b53c0016faf84d99"
+hash = "839bbf653cbb6bd7b1685980d22b1e3cba4a47103a64c0a7326c7e97c456380e"
 metafile = true
 
 [[files]]

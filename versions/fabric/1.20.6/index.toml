@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d4343337416f8324da8ff0e190b2108780d5eb918841347438d44eaec2e964c6"
+hash = "3b9e19358031725e4474889df1028f48c38481980229d1914b48316672e6e434"
 
 [[files]]
 file = "config/puzzle.json"
@@ -21,7 +21,7 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
-file = "config/yosbr/config/bettergrass.json"
+file = "config/yosbr/config/bettergrass.json5"
 hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
 
 [[files]]
@@ -70,7 +70,7 @@ hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "aef7324d3c235a60b4e62983385d1b4bfd348f3a58995ab2a075e9ca0ac9d3ce"
+hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
 file = "config/yosbr/config/ryoamiclights.toml"
@@ -103,6 +103,11 @@ hash = "51ac678d3646bcb97e13935ae67d32abbd55def714030b3b3433aa15b4b2c8af"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "8b704c1b23cc3791396d9894888cb10c44255580a28371583e97d98fc24b137d"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "a54217c91466579ca4b7ef963ed5189c6c55d30c6a2c6a67f68ce07713de5ce0"
 metafile = true
@@ -119,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
+hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
 metafile = true
 
 [[files]]
@@ -129,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
+hash = "509c6f91e81267b6a20bc4c89ab8ca165ad39522cc1c59861e8168ea166db8e9"
 metafile = true
 
 [[files]]
@@ -164,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e5e7a222813e1aaa21e6d940ab1fc156daa90694f9e85152f283dbe5b1a912d"
+hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
 metafile = true
 
 [[files]]
@@ -174,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "c4d8f09c871cdc4e00bf4e0e56521bbe736f567f159a2c316a612d1e53485189"
+hash = "e54aa7c21f022dd44393975d1d14c4238f23f228432b7b91c5f899fcc15464a3"
 metafile = true
 
 [[files]]
@@ -233,11 +238,6 @@ hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "d157b9199d778da79cc8a08a57b4ba998cea1a57b75c54ca5b3a9892a05996ce"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "87981efb46e0cd7a408a1dddb1e80fd40c59ba0d9331953b0f888302a7dd3936"
+hash = "3b0d888e273c6191ea59f13bc50982e7a5f382eca60ca5329c2a6be3969c1e78"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "a1cfaa434b979b6f2778832353be5e9981f696f101e4c4d54ba0820bc1e1b1d6"
+hash = "14d8d165da7dcd3d8f44d797c774c1a6c9cac62a5307deb82bfb7b393ffa97fa"
 metafile = true
 
 [[files]]
