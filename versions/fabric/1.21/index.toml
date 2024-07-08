@@ -70,7 +70,7 @@ hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "58314a2b1ac481cb2c346a03fd8840beacc9da66ead43f04e3c9eac4682c7c00"
+hash = "f7d5fc07567a7f19b0b587d1f9ebe824b3345739bdf5b1379b8fb4292a99fec4"
 
 [[files]]
 file = "config/yosbr/config/ryoamiclights.toml"
@@ -230,6 +230,10 @@ metafile = true
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
+
+[[files]]
+file = "mods/moreculling-1.21-0.25.0.jar"
+hash = "e559059c88ae3d231ffac9ffcc787989d1d60de284108c4dc1ec7a35969d58b2"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
