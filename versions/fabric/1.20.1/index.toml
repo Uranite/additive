@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3b9e19358031725e4474889df1028f48c38481980229d1914b48316672e6e434"
+hash = "d438f3a565869dd4f9599c809afd87dfddc5b3e0a34ec6723d018bd7bcf9a42e"
 
 [[files]]
 file = "config/puzzle.json"
@@ -153,13 +153,8 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/emuno.pw.toml"
-hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9558aa8c50536000d90b990f1bcdaec0242f7bbcbd82b30c9dc6aa7c51d205c5"
+hash = "3532700b41c5b82a0b57b140d0eb2e6f36728c575901b077b39cacac5a4322c8"
 metafile = true
 
 [[files]]
@@ -169,7 +164,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d875c9d37bd470e6ca2974e9956152f5e5dcc602ed96e58cd419eaa357bc46a3"
+hash = "0dc604455e2d5f4e82e3527aab59cc199f060c776a90b9571fe36bcbb61f28b4"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "d68580d9f12188c65baa7b33451a83ba336df142ecf38397b3ea8523f4db78fb"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e54aa7c21f022dd44393975d1d14c4238f23f228432b7b91c5f899fcc15464a3"
+hash = "86a353a8454402a9f52c26ab43930e57ece532880960764957aed6fdc1e08f14"
 metafile = true
 
 [[files]]
@@ -243,6 +243,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
@@ -254,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
+hash = "074ddc3663b2f791afa62997e0093aae7c2359edfd94ef99e61120da4fe54b7e"
 metafile = true
 
 [[files]]
@@ -309,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "839bbf653cbb6bd7b1685980d22b1e3cba4a47103a64c0a7326c7e97c456380e"
+hash = "d6b2f352de3b3dac60040bfe4f5f61330527470a78d84d46b8ca27a87d3ebecc"
 metafile = true
 
 [[files]]
