@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5504d683b26ab5417ab8960fc1de90642943fa6749e2df353b83555c5a86a76b"
+hash = "076281ce0d9300fe5b3eac95680435a3afd2e30a7b4b34cef731ddc66cabb25a"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "7c941e8d891955347ad56a8dd42cf8213d631932594e64dbc23907e358791f0e"
+hash = "e615abe29943f38918eb87f6d66174a21788e4f941f772e1f3c72ef100d807aa"
 metafile = true
 
 [[files]]
