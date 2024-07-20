@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
+hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "abbfd33c4a2e67f479ac38eafd36e0f6841b47ae7955e52351a03bcaae889d33"
+hash = "bcbf0c533fb520c66f84507d8b172a5936d929d4ce4db0a43a5422e09fbf0783"
 metafile = true
 
 [[files]]
