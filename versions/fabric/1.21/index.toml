@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "bcbf0c533fb520c66f84507d8b172a5936d929d4ce4db0a43a5422e09fbf0783"
+hash = "758b0d1e711f3eb1d4dcadb318513ab4f4bbdeef991736ca4acee12a49055745"
 metafile = true
 
 [[files]]

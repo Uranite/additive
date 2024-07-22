@@ -4,6 +4,7 @@ setlocal
 if "%1" == "update-packwiz" goto update-packwiz
 if "%1" == "export" goto export
 if "%1" == "update" goto update
+if "%1" == "update-loader" goto update-loader
 if "%1" == "refresh" goto refresh
 goto end
 
@@ -29,6 +30,10 @@ goto end
 
 :update
 	cd versions\fabric\1.21 && pw update --all
+	goto end
+
+:update-loader
+	cd versions\fabric\1.21 && pw migrate loader latest
 	goto end
 
 :refresh
