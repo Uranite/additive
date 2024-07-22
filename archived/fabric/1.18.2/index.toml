@@ -54,11 +54,11 @@ hash = "0f806c27a6cd4b9d8a982e53cddf8a0fb39303c0dd25ea095da649822714b8eb"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "624ed4c30777968887c07194cc265fc66aea996a20f55c32f0df861bc8ccc5c5"
+hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "11a5ff820cec82aedb707d8fb277099ed28c1f4733eaab409bb706997a64d48b"
+hash = "940d32b3de72db24bd0c6c164f72fc2cde1e4b9e712516d4cba243180804fc45"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
