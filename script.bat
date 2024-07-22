@@ -11,7 +11,7 @@ goto end
 :update-packwiz
 	go install github.com/packwiz/packwiz@latest
 	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@main
-	cls
+	::cls
 	echo Packwiz has been Updated
 	goto end
 
@@ -29,14 +29,29 @@ goto end
 	goto end
 
 :update
+	::for /d %%d in (versions\fabric\*) do (
+	::    cd %%d
+	::    pw update --all
+	::    cd ..\..\..
+	::)
 	cd versions\fabric\1.21 && pw update --all
 	goto end
 
 :update-loader
+	::for /d %%d in (versions\fabric\*) do (
+	::    cd %%d
+	::    pw migrate loader latest
+	::    cd ..\..\..
+	::)
 	cd versions\fabric\1.21 && pw migrate loader latest
 	goto end
 
 :refresh
+	::for /d %%d in (versions\fabric\*) do (
+	::    cd %%d
+	::    pw refresh
+	::    cd ..\..\..
+	::)
 	cd versions\fabric\1.21 && pw refresh
 	goto end
 
