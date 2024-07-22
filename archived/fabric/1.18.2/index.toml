@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "baebab188efe9d5e0f1eb200812f656449f6085daeb685045417f8b5cb45fda4"
-
-[[files]]
 file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
@@ -71,10 +67,6 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "e7f5cb8b5450435a699981707db0a3a58bbc8a802fb744a1c8b8e666948daf78"
-
-[[files]]
-file = "config/yosbr/config/world-host.json5"
-hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
@@ -215,11 +207,6 @@ hash = "9480f9e11e91eb82ba616c5c622c218d7b7ceff6599a3348d557eb1a1ddd41f9"
 metafile = true
 
 [[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b5d6e5bb8d74b24d393c1501ca838226d16b7aa5a212b0ceea49b081485b1fb0"
 metafile = true
@@ -272,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "e615abe29943f38918eb87f6d66174a21788e4f941f772e1f3c72ef100d807aa"
 metafile = true
 
 [[files]]
