@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b947b56e9279adb7058832f2dc45d6f2e14fe616f61a836cd4966b58633f113d"
+hash = "d0fcec0b330a6a803fd106fe2671af31a253288691c95aea242992417d0595a6"
 metafile = true
 
 [[files]]
