@@ -18,11 +18,11 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "9d6fca364a3708fa88de8991a85bcc3da2a92b57f74cf9f4d52d92e227db88dc"
+hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "9b5bf8a5755e2a8b195fd5d0818ecdda7668c137b9a0d5a34ec28de241431bf8"
+hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 
 [[files]]
 file = "config/modmenu.json"
@@ -196,8 +196,9 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
-file = "mods/lithium-fabric-mc1.21-0.13.0+git.409a5e1.jar"
-hash = "2377ba7a54640c40a426dd4b90d1dd5c55b45e418cc34464d9c26f3fac4d3253"
+file = "mods/lithium.pw.toml"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
