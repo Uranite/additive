@@ -1,8 +1,48 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "9d6fca364a3708fa88de8991a85bcc3da2a92b57f74cf9f4d52d92e227db88dc"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "9b5bf8a5755e2a8b195fd5d0818ecdda7668c137b9a0d5a34ec28de241431bf8"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "8f0232d7ff96c281c4ac90ea7892ff5a559085e6d0a48260c35aa0d346a41fc2"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
+
+[[files]]
+file = "config/ryoamiclights.toml"
+hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
+
+[[files]]
+file = "config/threadtweak.json"
+hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
@@ -21,48 +61,12 @@ file = "config/yosbr/config/citresewn.json"
 hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
-
-[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "9d6fca364a3708fa88de8991a85bcc3da2a92b57f74cf9f4d52d92e227db88dc"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
-
-[[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "9b5bf8a5755e2a8b195fd5d0818ecdda7668c137b9a0d5a34ec28de241431bf8"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
-
-[[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "8f0232d7ff96c281c4ac90ea7892ff5a559085e6d0a48260c35aa0d346a41fc2"
-
-[[files]]
-file = "config/yosbr/config/ryoamiclights.toml"
-hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -71,10 +75,6 @@ hash = "e3927c55ce0508a6328e373e1811191836fe56933f73d1fb320a1df21154081d"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "538cd52e880c862d92add3dddf4a59b4cf6b2fca679d8bb3713bb2ba7616e8e8"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 
 [[files]]
 file = "config/yosbr/options.txt"
