@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b4344f6b63b8a3c5740b67e428f89988c50dc22a5476fa9a97bcdb2354e7d7ad"
+hash = "bd7da340514012cef1570514e012d7c9daec1090e7b6dbc09cde9e0a4a95b4b8"
 metafile = true
 
 [[files]]
@@ -324,5 +324,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
+hash = "da5dbbe3a850befd67dc2033be83d9aa377adea607d1c4db48340ed6f87bbb8a"
 metafile = true

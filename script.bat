@@ -1,6 +1,7 @@
 @echo off
 setlocal
 
+if "%1" == "" goto update
 if "%1" == "update-packwiz" goto update-packwiz
 if "%1" == "export" goto export
 if "%1" == "update" goto update
