@@ -1,4 +1,5 @@
 version:3953
+biomeBlendRadius:5
 operatorItemsTab:true
 enableVsync:false
 fullscreen:true
