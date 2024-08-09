@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9eb8a17e98af61f820864ce9fbe246cee75a3b86f51df8a9b92644829ea2faf8"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
+hash = "5158ad2f74f9aa8843552e9630c245dfe9adb3421f00fcc80a2fdc06a032b4ce"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "7cc5553e1b87724aba4ccd4312f48c4c71d15b7c0dfdd9ec2c28e44ffa536c59"
+hash = "3a829c0da69bf2fea2e0a3d4cf45e6b68fb839fdcdd405bbb2d608db7c710cdc"
 metafile = true
 
 [[files]]
