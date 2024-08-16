@@ -106,11 +106,6 @@ hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "bcd6ab63410cedbf87e7056337ddf50059655c59a23189520a22eab8419b8415"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
@@ -128,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "a1041842c409ada82624134795d1f4412c4acb7dcc410a41c61e7853aead1dcd"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "7d0b378ccbc753946b078a94fd1cac24b7b906492aa45660d4686051397a4c17"
 metafile = true
 
 [[files]]
@@ -196,11 +186,6 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
 metafile = true
@@ -231,11 +216,6 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "187a72ac973f74f60ee363a52901f66fb3063e229d830cee3ab6920c13a53d87"
-metafile = true
-
-[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
@@ -263,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
-metafile = true
-
-[[files]]
-file = "mods/resolutioncontrol3.pw.toml"
-hash = "91f0436322f816c95ce297e07f0738fd3e7692194b66b531479127bb4c66d035"
 metafile = true
 
 [[files]]
