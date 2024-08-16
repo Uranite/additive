@@ -23,10 +23,10 @@ goto end
 	::    pw mr export
 	::    cd ..\..\..
 	::)
-	cd versions\fabric\1.21 && pw mr export
+	cd versions\fabric\1.21.1 && pw mr export
 	cd ..\..\..
 	::for /R versions\fabric %%f in (*.mrpack) do move "%%f" build\fabric\
-	move versions\fabric\1.21\*.mrpack build\fabric
+	move versions\fabric\1.21.1\*.mrpack build\fabric
 	goto end
 
 :update
@@ -35,7 +35,7 @@ goto end
 	::    pw update --all
 	::    cd ..\..\..
 	::)
-	cd versions\fabric\1.21 && pw update --all
+	cd versions\fabric\1.21.1 && pw update --all
 	goto end
 
 :update-loader
@@ -44,7 +44,7 @@ goto end
 	::    pw migrate loader latest
 	::    cd ..\..\..
 	::)
-	cd versions\fabric\1.21 && pw migrate loader latest
+	cd versions\fabric\1.21.1 && pw migrate loader latest
 	goto end
 
 :refresh
@@ -53,7 +53,7 @@ goto end
 	::    pw refresh
 	::    cd ..\..\..
 	::)
-	cd versions\fabric\1.21 && pw refresh
+	cd versions\fabric\1.21.1 && pw refresh
 	goto end
 
 :end
