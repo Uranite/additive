@@ -1,0 +1,13 @@
+name = "ResolutionControl 3"
+filename = "ResolutionControl-3-1.21.1-4.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wHm7Bneo/versions/iS9lkvQ5/ResolutionControl-3-1.21.1-4.0.1.jar"
+hash-format = "sha1"
+hash = "f16c0aee630caa27af20322a8f638c7cafdcc960"
+
+[update]
+[update.modrinth]
+mod-id = "wHm7Bneo"
+version = "iS9lkvQ5"
