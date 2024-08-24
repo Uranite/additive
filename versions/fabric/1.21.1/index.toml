@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
+hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
+hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
 
 [[files]]
