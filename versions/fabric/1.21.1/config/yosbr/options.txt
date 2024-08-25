@@ -1,11 +1,11 @@
-version:3953
+version:3955
 operatorItemsTab:true
 enableVsync:false
 fullscreen:true
 toggleSprint:true
 darkMojangStudiosBackground:true
 fov:0.75
-renderDistance:16
+renderDistance:32
 simulationDistance:5
 guiScale:2
 maxFps:260

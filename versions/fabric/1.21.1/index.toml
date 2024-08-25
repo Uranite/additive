@@ -78,7 +78,7 @@ hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "495c6675428b622ffd1dc18854a2c065a424cf2dbb248661d02951b9d4d70a82"
+hash = "45e0d6070b0304bb9e42f2431c3307f692660b8febd6d55485514ba467d79fbf"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -197,17 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f01e3bf3ac19d148390509cc99c2df982439a619701a2a392101a6f4d3c250db"
+hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
 metafile = true
 
 [[files]]
@@ -223,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "4eb184113cffec2a4a3f8c50b1dac81e29865c0a6a5cffc5a8435d614be257d0"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
@@ -257,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/resolutioncontrol3.pw.toml"
-hash = "dc90005d1e5b3bf38102596d8c7cb4708738f5b3d67c43383d9fe559076d7a79"
+hash = "f84395512fc979564fcb02066a66f62c58a54cc1baf9b80bc8befef2dbcae813"
 metafile = true
 
 [[files]]
