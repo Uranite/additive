@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "08299db05a1ed8b7192c485da07b458095d6876b8bba30c4e5d132726c1fff99"
+hash = "3467f0652adfc2f20ec3215057e09a05cecbc962ecd76ffb5f7514ad023a6574"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
+hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fd0ee9e018a4e817cd5f872b4cd2958b83156022ec75f1560aaf1f8f09de7e29"
+hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
