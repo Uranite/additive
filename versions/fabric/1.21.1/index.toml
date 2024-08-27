@@ -116,9 +116,8 @@ hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
-metafile = true
+file = "mods/enhancedblockentities-0.10.1+1.21.jar"
+hash = "9f90646ea78ff784473b32834cbdf03409ae6d95dc35283b92791efa53a4119a"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
@@ -132,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3467f0652adfc2f20ec3215057e09a05cecbc962ecd76ffb5f7514ad023a6574"
+hash = "7fb9ddfaa3daf99294cc4262d292392b955d942a50d38a82cc6b75b2f21698c2"
 metafile = true
 
 [[files]]
@@ -232,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6e90ff8eb584db6a95ab4bfe0aca99c4a53e38aa4aad1dc270d450b41b50095b"
+hash = "f26ea67a60ff613351a2584194917fb9746edd103f01957f0279e8d7e47b2214"
 metafile = true
 
 [[files]]
