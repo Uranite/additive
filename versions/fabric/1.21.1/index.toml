@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "218786ae392251f942fd7f76fa881787264748d97c986ba0cae95d2087e44460"
+hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ hash = "9f90646ea78ff784473b32834cbdf03409ae6d95dc35283b92791efa53a4119a"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5d10a8d02b2d75dd08df479ec8e74c8ca036ebfd3c3280d6882c3c20026290ac"
+hash = "9c23da975032c3d0ff571d05988fb555bbec7e321791872688ba27a353195f1b"
 metafile = true
 
 [[files]]
@@ -230,6 +230,11 @@ hash = "4eb184113cffec2a4a3f8c50b1dac81e29865c0a6a5cffc5a8435d614be257d0"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "3776494f811e3e5f07a68a6811950fc4a936f41bb1fea10b26bfefcbe87dd880"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
 metafile = true
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "75d54cfa3d322caf6748be4a7bd40f24c26f0818f2b7f4243af61ae42cde2694"
+hash = "06e89cfb3415357e9b148c65e5c0b3fce92431f9a85880a53a591b0a4690514a"
 metafile = true
 
 [[files]]
