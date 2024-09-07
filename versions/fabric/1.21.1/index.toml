@@ -126,7 +126,7 @@ hash = "9f90646ea78ff784473b32834cbdf03409ae6d95dc35283b92791efa53a4119a"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9c23da975032c3d0ff571d05988fb555bbec7e321791872688ba27a353195f1b"
+hash = "250aebe98c4961d1050335a4fe2d367fd0aeb8ab07d795f27be59fbf9387a177"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7fb9ddfaa3daf99294cc4262d292392b955d942a50d38a82cc6b75b2f21698c2"
+hash = "9e0bd3a3c417f808319accedffc8ffa475befae97312b1bf132f2b550e3b4f0f"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "b36d95833b8ec416f259a52e367f9e31e5f2b770be844f08abec6553335205c2"
+hash = "bd8bce6d875a0cdb5a793202a9da9d715164bc9c88ee144aa4bf9b44fec0aa56"
 metafile = true
 
 [[files]]
