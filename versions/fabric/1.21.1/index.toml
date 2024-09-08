@@ -6,7 +6,7 @@ hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "07c583fe051293bd0e475a49f60c08d8d458f8989ad77b44c1ac72aa80f47964"
+hash = "a479c8d63d5e955ad0358d7300e47a8ce769ddd01de7d5cfa09455b08cf5252a"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -30,7 +30,7 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
@@ -38,7 +38,7 @@ hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
@@ -70,15 +70,15 @@ hash = "e3927c55ce0508a6328e373e1811191836fe56933f73d1fb320a1df21154081d"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "5445a0d00ce212f75b2650bd8128ac2d136c0962f32619a27b4854d965a611f0"
+hash = "95dbb4a00493ff97cf2afda1a466ad80e88c78cd2ed44538e9794b5e5c8d0520"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
-hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
+hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "45e0d6070b0304bb9e42f2431c3307f692660b8febd6d55485514ba467d79fbf"
+hash = "2e2b91db0114338a2ac907397dedd52515835fee368cd161a6b436a3041454e2"
 
 [[files]]
 file = "mods/animatica.pw.toml"
