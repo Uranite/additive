@@ -91,6 +91,11 @@ hash = "df21d4923d61c8d9199e602cca45695b7d17295fa8555f072d8d83045946ef3e"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "4349683af0ac961b433c4c61fb200055057e578ca2d9c399db86787a9cc3d481"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
 metafile = true
@@ -146,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
+hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
 metafile = true
 
 [[files]]
