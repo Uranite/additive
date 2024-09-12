@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "9e0bd3a3c417f808319accedffc8ffa475befae97312b1bf132f2b550e3b4f0f"
+hash = "168e4d47e8dbcf12746c3db975ca1e336b8963650e4070bbb3f327e9c111c5e5"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6a9f00e7e11968aa14553c348e7071b55a6c5823f1842e9ca6044c0c712fa551"
+hash = "0123b4e260d5603ea95dddae33c58eb545826b8ce9c9d41041a54742b9f6397c"
 metafile = true
 
 [[files]]
