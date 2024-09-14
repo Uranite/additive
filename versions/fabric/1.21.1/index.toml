@@ -131,7 +131,7 @@ hash = "9f90646ea78ff784473b32834cbdf03409ae6d95dc35283b92791efa53a4119a"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "250aebe98c4961d1050335a4fe2d367fd0aeb8ab07d795f27be59fbf9387a177"
+hash = "338b0ccbd406fb5a45f5acd90626c7f32e6057f57075da502cf0df973d45e339"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0123b4e260d5603ea95dddae33c58eb545826b8ce9c9d41041a54742b9f6397c"
+hash = "36268eb18499a2ef4ce8b7b4a0a46281b352b7081637b427f73c3df8bfc5b846"
 metafile = true
 
 [[files]]
