@@ -77,6 +77,10 @@ file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "aabe6953332b8b3a17a04152fbfe505f9c981b975d399d27a486c06f4fb1dcdd"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "2e2b91db0114338a2ac907397dedd52515835fee368cd161a6b436a3041454e2"
 
@@ -190,8 +194,23 @@ hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "fea164dda1332d54afd1365311ba0a548fb11a475a6490026a1f00a7aa70400d"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "87d16fb355306f86a437eaeb3b3674ec7b56f72ac90ee71300772f4920fe1b10"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "80ec786a43f9a126979ef102ebf1ea3e92d86ec8d3226d35659b7abab525c017"
 metafile = true
 
 [[files]]
@@ -282,6 +301,16 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "057a44637ba9a921d1c773bc1e6d561692501b1b620e6d5e50aef84c961a44ea"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c06ffc9de8c8b6c1e9099c05fcfa94d9ae9bff768ff138798ab3a2da545995d5"
 metafile = true
 
 [[files]]
