@@ -65,6 +65,10 @@ file = "config/yosbr/config/ryoamiclights.toml"
 hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "e3927c55ce0508a6328e373e1811191836fe56933f73d1fb320a1df21154081d"
 
@@ -75,6 +79,10 @@ hash = "95dbb4a00493ff97cf2afda1a466ad80e88c78cd2ed44538e9794b5e5c8d0520"
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -90,6 +98,16 @@ hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "bc2da5271c996f970d255cd7acabd622a8e666ac82a3a0d297c54c6399a21034"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "eeec057d3fb7f0c076d271a1c3608b67d88895e59a18bb9b5a5fe604b65fc6e6"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "df21d4923d61c8d9199e602cca45695b7d17295fa8555f072d8d83045946ef3e"
 metafile = true
@@ -101,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
@@ -131,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhancedblockentities-0.10.1+1.21.jar"
-hash = "9f90646ea78ff784473b32834cbdf03409ae6d95dc35283b92791efa53a4119a"
+hash = "bb8500024f2fd5f6ab09b6c48661d80783eb25f9c8b41bade242f84e21432b75"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
@@ -161,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+metafile = true
+
+[[files]]
+file = "mods/fabricbettergrass.pw.toml"
+hash = "7cf76ad38da38198941dade3050b1d48973a01a66ef7054e844d252fea05d002"
 metafile = true
 
 [[files]]
@@ -201,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e16a6442391c1989dccdcbe100e13063a043caef70b13ab4e37a11a7861cb497"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
 
 [[files]]
@@ -284,6 +312,11 @@ hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "cfbcb74eec1633a4941c2295cefdf6d1767cd9635494d5e2ec4351728468a3ab"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "6db5630aba9b540b81f9892d91fd26c1a1a9b988e3c475fdad553cfe6a2fedd4"
 metafile = true
@@ -294,8 +327,18 @@ hash = "32183306d7fd027a408716bc1d40b66f50fdeb5ecb5ad5ee3309f7c89bd00da4"
 metafile = true
 
 [[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "330500fd14bbd1cec3f48b103422d2535b7d68a38a32c1557817b341e19c6451"
 metafile = true
 
 [[files]]
