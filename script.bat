@@ -7,11 +7,11 @@ if "%1" == "export" goto export
 if "%1" == "update" goto update
 if "%1" == "update-loader" goto update-loader
 if "%1" == "refresh" goto refresh
+if "%1" == "add" goto add
 goto end
 
 :update-packwiz
 	go install github.com/packwiz/packwiz@latest
-	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@main
 	::cls
 	echo Packwiz has been Updated
 	goto end
@@ -20,10 +20,10 @@ goto end
 	if not exist build\fabric\ mkdir build\fabric\
 	::for /d %%d in (versions\fabric\*) do (
 	::    cd %%d
-	::    pw mr export
+	::    packwiz mr export
 	::    cd ..\..\..
 	::)
-	cd versions\fabric\1.21.3 && pw mr export
+	cd versions\fabric\1.21.3 && packwiz mr export
 	cd ..\..\..
 	::for /R versions\fabric %%f in (*.mrpack) do move "%%f" build\fabric\
 	move versions\fabric\1.21.3\*.mrpack build\fabric
@@ -32,28 +32,37 @@ goto end
 :update
 	::for /d %%d in (versions\fabric\*) do (
 	::    cd %%d
-	::    pw update --all
+	::    packwiz update --all
 	::    cd ..\..\..
 	::)
-	cd versions\fabric\1.21.3 && pw update --all
+	cd versions\fabric\1.21.3 && packwiz update --all
 	goto end
 
 :update-loader
 	::for /d %%d in (versions\fabric\*) do (
 	::    cd %%d
-	::    pw migrate loader latest
+	::    packwiz migrate loader latest
 	::    cd ..\..\..
 	::)
-	cd versions\fabric\1.21.3 && pw migrate loader latest
+	cd versions\fabric\1.21.3 && packwiz migrate loader latest
 	goto end
 
 :refresh
 	::for /d %%d in (versions\fabric\*) do (
 	::    cd %%d
-	::    pw refresh
+	::    packwiz refresh
 	::    cd ..\..\..
 	::)
-	cd versions\fabric\1.21.3 && pw refresh
+	cd versions\fabric\1.21.3 && packwiz refresh
+	goto end
+
+:add
+	::for /d %%d in (versions\fabric\*) do (
+	::    cd %%d
+	::    packwiz refresh
+	::    cd ..\..\..
+	::)
+	cd versions\fabric\1.21.3 && packwiz mr add "%2"
 	goto end
 
 :end
