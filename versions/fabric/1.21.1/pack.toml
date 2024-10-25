@@ -1,12 +1,12 @@
-name = "Additive Fork"
-author = "Uranite"
-version = "1.0.0+1.21.1.fabric"
+name = "Additive"
+author = "SkywardMC"
+version = "1.30.0+1.21.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c47dfe21643a6c9b03a8465526f990b20298e316088932eab9c34816f2666ac2"
+hash = "e53a16406b878a6765cb483703e6b89e92f55201a48b054e20206bac46d2a0c6"
 
 [versions]
 fabric = "0.16.5"

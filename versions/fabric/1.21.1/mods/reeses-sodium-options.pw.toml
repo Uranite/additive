@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/wnRbkR4U/reeses-sodium-options-fabric-1.8.0-beta.3%2Bmc1.21.1.jar"
-hash-format = "sha1"
-hash = "ff7070b46c13f5e133f5a25727e3508251a94ced"
+hash-format = "sha512"
+hash = "1ae4a8d60089f77083d5b693defecd1cc89453f2fc10f011e661bd46a4ec3ebb4fa509ceb33e780b7a08a99001fc39b36ef5c254ac428ee50cbd0964fc0ace75"
 
 [update]
 [update.modrinth]
