@@ -1,3 +1,30 @@
+version:4438
+operatorItemsTab:true
+advancedItemTooltips:true
+darkMojangStudiosBackground:true
+fov:0.75
+enableVsync:false
+fullscreen:true
+gamma:1.0
+toggleSprint:true
+guiScale:2
+joinedFirstServer:true
+maxFps:260
+onboardAccessibility:false
+operatorItemsTab:true
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip"]
+incompatibleResourcePacks:["badoptimizations","entityculling","modernfix","renderscale","trender","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+renderClouds:"false"
+renderDistance:12
 simulationDistance:8
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
-onboardAccessibility:true
+skipMultiplayerWarning:true
+tutorialStep:none
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.i
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.optigui.inspect:key.keyboard.unknown
+key_key.resolutioncontrol.settings:key.keyboard.g
+key_key.resolutioncontrol.screenshot:key.keyboard.f9
+key_gui.xaero_open_map:key.keyboard.n

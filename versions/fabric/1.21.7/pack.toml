@@ -1,12 +1,12 @@
-name = "Additive"
-author = "SkywardMC"
-version = "1.36.0+1.21.7.fabric"
+name = "Badly Optimized"
+author = "Uranite"
+version = "2.0.0+1.21.7.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1f7e70f8b6eb1e6cd02714b9db243e25d7e9dfb74f7b29b44aaa095efe611214"
+hash = "09b51a4e598f5457aeca8b1c13b38569a3306642da4187e4da92d1ea1a614aa6"
 
 [versions]
 fabric = "0.16.14"

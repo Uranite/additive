@@ -1,5 +1,5 @@
 {
-  "performance": {
-    "leaf_culling_quality": "SOLID"
+  "quality": {
+    "enable_vignette": false
   }
 }
