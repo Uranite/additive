@@ -5,24 +5,20 @@ file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
-
-[[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "1e673e5c776fc34a35e2df497d76d9081ad0f0b5c89ded17d2fd57fe1969272f"
+hash = "4aac6511acf56adebb6daecd42c795087a46d825e02e1c57507cb7d5be15ef4c"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
-hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
+hash = "356428e4509d1cd1b5ce836e43a8670484a16db803d4ea896d155fece398f91d"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
+hash = "d78d9b6682b416855e3eb65eec563d027066e3b175026659a346c402a8712f34"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
+hash = "8eee8d02db942201c59e85a373513a7b906c4c417462374172b9c2d1b7f2997f"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -31,10 +27,6 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 [[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
-
-[[files]]
-file = "config/yosbr/config/fastquit-config.txt"
-hash = "51737ea18619d5d6f55a8c7aff5ac0375ab8387a68698baa650d4732c8e38df6"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -54,7 +46,7 @@ hash = "0f806c27a6cd4b9d8a982e53cddf8a0fb39303c0dd25ea095da649822714b8eb"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+hash = "4c618f6f163f726aa145b46252a5d4e273141357f2fc2ec2efb5f5e0766b368d"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -66,7 +58,7 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "e7f5cb8b5450435a699981707db0a3a58bbc8a802fb744a1c8b8e666948daf78"
+hash = "63492d89a9d9f708e50417efb11b157232f360afca79890530d7e4b831f8d80c"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
@@ -79,11 +71,6 @@ hash = "c170169c201e19dfc6cebc272e553afb07e02a127b2949671ba65f0c6d80d640"
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "471190b2467d200f034d7f8b38ac932cb76082724439fa500dce4041a431b1f2"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "61e83f271c7e16618b26ee427e87d9ced073c2e8edcc94dbdff76aed3f5a8069"
 metafile = true
 
 [[files]]
@@ -107,23 +94,18 @@ hash = "d807461a67a231feb0e1a23929aeec7117f6260a565a6010e6cb45b386debdb3"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "ccc13c4b25faafdcedb57996fca33327c3f5c2e2f3f152eb364b932c45400af5"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "14570562df4a740a014f71e13da3a228b93826dbd34e91024622bc45f3a840a8"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "076281ce0d9300fe5b3eac95680435a3afd2e30a7b4b34cef731ddc66cabb25a"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
-hash = "2440a3dbb326c4993cb00d5619581017cc783981f8cbaf8ab53bd400d1e5bbf5"
+hash = "bea1d0d108d827902569b107767d8afd055909fcbbf587d31ff33888bae7dff1"
 metafile = true
 
 [[files]]
@@ -133,17 +115,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f9e8f6a385b36b14815e328dba4d414dc71997f68a626614dee969c26403d395"
+hash = "1369de4c7ec390bcd3ed843fb23a9a054d71a2364ce37e5bd64638a617794404"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e4368d03d9745fa609d706cac8f595f061af10fdd0833c17e4e027c2d607e1fa"
+hash = "ec6d0bc25af0056fc407f8378a514d3c037561333b51699569e857d71bb24855"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8f15aa9a92e72966ba564c129c71cc57293dbf976ff871ad957f6604cba4f0ff"
+hash = "97678d166374bc3ea29bd2797683149c6775a67fbab164e78ed89a3326e5b61f"
 metafile = true
 
 [[files]]
@@ -153,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -164,11 +146,6 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "f2591d950351aedab7ee4d59d492f5e5570dafd071dba3b390d5a7cafa89ab85"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "112b6225f1559851e105b5b9b407d2a626579f443419b26386f26d0d06cc7267"
 metafile = true
 
 [[files]]
