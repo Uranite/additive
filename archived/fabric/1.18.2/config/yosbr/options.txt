@@ -1,9 +1,18 @@
 version:2975
 autoJump:false
+enableVsync:false
+fullscreen:true
+toggleSprint:true
 darkMojangStudiosBackground:true
-simulationDistance:5
+fov:0.75
+gamma:1.0
+simulationDistance:8
+guiScale:2
+maxFps:260
 resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","lambdabettergrass/default"]
+incompatibleResourcePacks:[]
 advancedItemTooltips:true
+heldItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true

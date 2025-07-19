@@ -1,7 +1,10 @@
-version = 1
+enableSodiumMenu = true
+useBlockStateCulling = true
+useCustomItemFrameRenderer = true
+useItemFrameLOD = true
 itemFrameLODRange = 16
+useItemFrame3FaceCulling = true
 itemFrame3FaceCullingRange = 2.0
 leavesCullingMode = "DEPTH"
-leavesCullingAmount = 3
-includeMangroveRoots = true
-endGatewayCulling = true
+leavesCullingDepth = 2
+powderSnowCulling = true

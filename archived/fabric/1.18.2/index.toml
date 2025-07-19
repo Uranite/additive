@@ -50,15 +50,19 @@ hash = "4c618f6f163f726aa145b46252a5d4e273141357f2fc2ec2efb5f5e0766b368d"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "940d32b3de72db24bd0c6c164f72fc2cde1e4b9e712516d4cba243180804fc45"
+hash = "5cd1a76d9df6bd5dce0a3a295e6813696476f5f96a3a98db5aef3ad25e7b6e77"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "c46e7b6763610fa67209ef519dc601f9a1b6d7bb58daa9e3a6c362fca213a579"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "63492d89a9d9f708e50417efb11b157232f360afca79890530d7e4b831f8d80c"
+hash = "78c3c549419c6a85e7384660a7be7768e95136d75301667bf17cdf9ad19b6326"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
@@ -66,7 +70,7 @@ hash = "cc6f863a8e250641184bfcd3b59169491fe5414a036996401b66bc019ebeedd8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c170169c201e19dfc6cebc272e553afb07e02a127b2949671ba65f0c6d80d640"
+hash = "b7ab5e7761f1ab91fb94f9ef75ab88ce6c2f44a479382b3670983fc4be5011c5"
 
 [[files]]
 file = "mods/animatica.pw.toml"
