@@ -30,7 +30,7 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "c22393b32a7fc1787aeecf5d0e623cd9f011dd350888fa2b4a2681948b2d5e04"
+hash = "2d8d8c7b824959ca2af42fff11b26642b83e5af707c82c12312dfde1c9477144"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -90,7 +90,7 @@ hash = "8627b3553cbc1ae4e5556e7132991abc45d5a7b604f593e75f1389091278e0a5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a55d3af7aff1ff944b4f8d2f49fa59cb3c2408d9db371ce88e34833dd67150bb"
+hash = "c7833a5b0bfb62530c7745e4fec752fdffa46c3533e4e814c22e2a54a360ee2e"
 
 [[files]]
 file = "mods/DistantHorizons-fabric-2.3.4-b-dev-1.21.7.jar"
