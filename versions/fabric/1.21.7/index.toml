@@ -108,12 +108,12 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "b142575f02e92313bbf70fa85b0a3ae18b23d5da7bb8811b0012dbe5d5fe597a"
+hash = "fe9c77327c94f4a60632f3a56a7a9496f9f2f00e12ab42541eb433266a423b16"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2f98d008f5f3ed8b423c6d30db4a9cb25f0a11b6b1f73f921639e37c145f4eb7"
+hash = "35d406429da19637e78ad5b38e700556a8ded404c534df1f5295adc0d2e444da"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "ce8a4af0934ae003631284c145795f6da1e08e151c36a90e7df74e2804ad0765"
+hash = "fdb180262edcdd6d7df6ff64556d09d38588c92ef0851479941b9d68a6f04eeb"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/renderscale.pw.toml"
-hash = "054b7edfe1c9ef143fae7c3d90bdaa1c997633e17ccf30b28d3dced35d6ff528"
+hash = "0f2304985a05c62f033b0d189433a940229540c1552359d08ca045bd867b5bde"
 metafile = true
 
 [[files]]
