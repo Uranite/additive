@@ -93,10 +93,6 @@ file = "config/yosbr/options.txt"
 hash = "c7833a5b0bfb62530c7745e4fec752fdffa46c3533e4e814c22e2a54a360ee2e"
 
 [[files]]
-file = "mods/DistantHorizons-fabric-2.3.4-b-dev-1.21.7.jar"
-hash = "5c695723e1536d5c5c88877e9cd6117b44db221232f32d790d882205a86c3ae6"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
@@ -139,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "03d1bbd443c88f2948a7295a49fb7114e07b61bb777188630718eae3635ce1a8"
 metafile = true
 
 [[files]]
