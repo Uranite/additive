@@ -1,6 +1,6 @@
 name = "Badly Optimized"
 author = "Uranite"
-version = "2.0.0+1.21.7.fabric"
+version = "1.0.0+1.21.7.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
