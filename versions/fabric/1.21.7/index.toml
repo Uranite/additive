@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "0fc0d37841ccb880e89c108287287452a240f3beafa6511e02aa996cbfc02791"
+hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
+hash = "f4360b358a2607a715e0a361872b4d08c85e872f2f86c6ddf4c531fa6ff7cd25"
 metafile = true
 
 [[files]]
