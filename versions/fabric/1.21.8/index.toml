@@ -66,7 +66,7 @@ hash = "ad9502638dfc64191c82e28efeede417bd4ab32b6276e60117bc978e41b936bd"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
+hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cf0b694687c823b69ebb1cc78f72fdd83cc86c106354b30a7c157f4ca534c9ef"
+hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
 
 [[files]]
@@ -215,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "fdb180262edcdd6d7df6ff64556d09d38588c92ef0851479941b9d68a6f04eeb"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "7574aa27b75aa2fd4dd3fee056dbc95f733d6457408ab883e67ca8f0509ee67c"
 metafile = true
 
 [[files]]
