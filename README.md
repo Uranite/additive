@@ -20,6 +20,8 @@
 
 Additive is a modpack designed as an **alternative to OptiFine**. It includes the majority of OptiFine's features, such as built-in shader support, a vast improvement in rendering and logic performance, extra features for resource packs to utilize, a zoom feature, OptiFine and custom capes support, and [much more](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine). It also includes a small amount of [extra features](https://github.com/intergrav/Additive/wiki/Extra-features), such as input fixes for MacOS and Linux along with a free and easy-to-use world hosting feature. This modpack is built and kept in sync with my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline), a lighter alternative without the quality-of-life mods. Want your own mods that aren't included in Additive? Don't worry! You can easily add your favorite mods after installation.
 
+This fork has a big performance difference, probably because of Distant Horizons, and Xaero's Minimap, this is expected.
+
 # 📥 Installation Guide
 
 **Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) section on the wiki before installing Additive. It contains some important instructions on preventing crashes and other performance issues.**
