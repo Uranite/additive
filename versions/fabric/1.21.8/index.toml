@@ -54,7 +54,7 @@ hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
+hash = "bc332b1facffca70b11671969d365fae5debf13e026c470f8b60e06f8fe403a2"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "aaf408ff01774a3980d400677c307ddbb885bd8305cccbe23392ae4f2c4ee3d1"
+hash = "71333425ffb371be4317887fe77f51fff6b01d6e69bf6a52bf5fdb0acb78bb4f"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e27164b011d0fdd2c60313e0fd7b33ff88c340c03d36a6f03ec1e9cdfd975456"
+hash = "59acfaf613f3df57ed4934a25e991e7f74751c19494be2e53d5eb86f6c659ced"
 metafile = true
 
 [[files]]
