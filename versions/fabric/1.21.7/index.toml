@@ -54,7 +54,7 @@ hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
+hash = "4970516ba046c3a460e5b44ca13e22d10171227debd6faa92a920a02efbbf5e5"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -66,7 +66,7 @@ hash = "ad9502638dfc64191c82e28efeede417bd4ab32b6276e60117bc978e41b936bd"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
+hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
