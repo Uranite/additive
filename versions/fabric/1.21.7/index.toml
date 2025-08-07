@@ -183,6 +183,11 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "f0b705b810fc48523a67a90f218ae8085206b08421e2a006561169bf2847a907"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "c4fe9b4bf32bfab724bc66e1ced3bcb127082b98e7affe0b333d6185c7bc5e2a"
 metafile = true
@@ -215,11 +220,6 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "fdb180262edcdd6d7df6ff64556d09d38588c92ef0851479941b9d68a6f04eeb"
-metafile = true
-
-[[files]]
-file = "mods/litematica.pw.toml"
-hash = "235885512246b8d57a15433a7762db916a11ff45908c51504b8d716092c96319"
 metafile = true
 
 [[files]]
