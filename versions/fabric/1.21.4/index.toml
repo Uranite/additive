@@ -140,6 +140,11 @@ hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "20bd4cbff43edcff50312e24802538df9c264507fa35c8c8713f35401c03bbf8"
 metafile = true
@@ -157,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/esf.pw.toml"
 hash = "a97c934ea59dc0ae8667409437fa9f3063af1946cfb22bf7ceb6f8c8eb9f0bca"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "bf072ed0f2963e23b67de686d4b650e7f2d88fd593de65d0cb0c661b9c441662"
 metafile = true
 
 [[files]]
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "3cb97d58f79a67c25030c905aa7d50934b6a961540f956c18644313d0b1bc777"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "0f7f066cbccb9fcdb21bc77884aaeb05402f192aaa0c6dd2c9f3ab22c7425ce4"
 metafile = true
 
 [[files]]
@@ -319,8 +334,13 @@ hash = "8b38e90307136d19ac80c496511e498bed6b02d7c3261d1dd1f0fdd3f1a3cd94"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "d5a6f65c0a04360a54bf687bcdc429d5ff9399c15e832e9f6a43efcbfba2ec01"
+file = "mods/viabackwards.pw.toml"
+hash = "8b6c1f40ced372468e27f4b9b803debf23aa76f37b5d92fd5579352a1e212363"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "8d00fe3bcf53811e5f6efd412ea54d7d40027177fc2a1ffbf95bc184550ef924"
 metafile = true
 
 [[files]]
