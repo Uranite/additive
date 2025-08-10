@@ -89,11 +89,6 @@ file = "config/yosbr/options.txt"
 hash = "c7833a5b0bfb62530c7745e4fec752fdffa46c3533e4e814c22e2a54a360ee2e"
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
 metafile = true
@@ -144,23 +139,8 @@ hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "b4be0699d273d219eb7148fb0f1ac7891184c5f94a629d8db8845c39c92764f4"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "75bf514894ca996890c872726ecd620e34f72b7c0a71a58641a83080b7678e96"
-metafile = true
-
-[[files]]
-file = "mods/esf.pw.toml"
-hash = "b485baa8463264b932f798974a17f3edd963f5abe1c65da425529124a10a411a"
 metafile = true
 
 [[files]]
@@ -260,11 +240,6 @@ metafile = true
 [[files]]
 file = "mods/nvidium-0.4.1-beta9-1.21.6-1.21.8.jar"
 hash = "cb1733ddcc5fbb2053670c296271cd9a41242ec5da120121c97d956fc3ae55ab"
-
-[[files]]
-file = "mods/optigui.pw.toml"
-hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
-metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
