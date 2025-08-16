@@ -6,7 +6,7 @@ hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "08c57833492728a7a84b4b52fcce578e51c6a1bdf76e57162cf75d38082c0774"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -30,7 +30,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
+hash = "52676c32fa8db48a4010253bb35cc132c1cb57c68eb9c40643713aacdd0f2ce3"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -42,7 +42,7 @@ hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "4970516ba046c3a460e5b44ca13e22d10171227debd6faa92a920a02efbbf5e5"
+hash = "e46272cc1db3b1f8c7d6bdc0c89d0b2e336a8d30ad0081e645f76c427be3cbec"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -62,11 +62,11 @@ hash = "e3927c55ce0508a6328e373e1811191836fe56933f73d1fb320a1df21154081d"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "997db8650dee0a54493351af6fadeaa3ff29847079e03c0cad400e9688ffcade"
+hash = "297c357e65cf72d496bb38c16222a260b2d38256e139df0bc19bfb4d52fdd735"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
-hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
