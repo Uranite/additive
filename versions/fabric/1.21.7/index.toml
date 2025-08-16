@@ -30,7 +30,7 @@ hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "52676c32fa8db48a4010253bb35cc132c1cb57c68eb9c40643713aacdd0f2ce3"
+hash = "eb455656c3e3e8effa1e9c085b96894b469aa545807e3f621dde74a1c3a0833f"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"

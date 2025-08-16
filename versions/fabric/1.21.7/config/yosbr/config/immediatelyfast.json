@@ -1,7 +1,5 @@
 {
   "experimental_disable_error_checking": true,
-  "experimental_screen_batching": true,
-  "experimental_sign_text_buffering": true,
   "experimental_disable_resource_pack_conflict_handling": true,
-  "experimental_universal_hud_batching": true
+  "experimental_sign_text_buffering": true
 }
