@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty-fabric-3.0.2+1.21.6.jar"
-hash = "b3ec3d504b0678ecd993003d40c62c09c44dbb5ddf2e5652390665e61725f481"
+hash = "b7c3ee48a6aaee8b374c62485ec7066e2a6ef17c379a9e2612d89e336641811e"
 
 [[files]]
 file = "mods/lithium.pw.toml"
