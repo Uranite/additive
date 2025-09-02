@@ -1,7 +1,5 @@
 {
   "showNCRButton": false,
   "showReloadButton": false,
-  "verifiedIconEnabled": false,
-  "disableTelemetry": true,
-  "removeTelemetryButton": true
+  "verifiedIconEnabled": false
 }
