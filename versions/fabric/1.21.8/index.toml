@@ -14,7 +14,7 @@ hash = "a47ef2a99eee3632074b8c2869e1ce3182f7348eaf916a2045e06b2a47e58cd4"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "7b3cbb030caca6489fb9f3b3d2c76f7695c7fe45de2af4c7914e452b8404aefa"
+hash = "3dbb5d599a6f326c71bcd93f08b4378be0b63935fcfa53bc8eda5d8e989021d8"
 
 [[files]]
 file = "config/yosbr/config/cape-provider.json5"
