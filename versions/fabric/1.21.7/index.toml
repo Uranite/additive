@@ -147,12 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "fb3264e527dcd4834b3d26404d09e9229f3a0d2dd1cb5ad16b1599cbd6a3a7ec"
-metafile = true
-
-[[files]]
-file = "mods/esf.pw.toml"
-hash = "b485baa8463264b932f798974a17f3edd963f5abe1c65da425529124a10a411a"
+hash = "52b635a2d4c1325708f7bd76af25c7a786c1cfa788f1567ce212bd2edb22a0c7"
 metafile = true
 
 [[files]]
@@ -225,8 +220,8 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.20.4-beta.51+mc1.21.7.a724.jar"
-hash = "bf3e764c6e607ff5ee14ce66d0406eb6d8b5a1bd902fbaf982a91fdaefa7eff8"
+file = "mods/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
+hash = "37c29703f8d75a0b13d104a012b71fd0b1e0d62a9eeeda9c1bb5ec70ad07a56d"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -279,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
+hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
 metafile = true
 
 [[files]]
