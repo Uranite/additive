@@ -121,11 +121,6 @@ hash = "b36098ad4d52f44a3e077847792af2cb9562560c3fd85ad25788d32ecb051830"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
 metafile = true
@@ -203,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/lighty-fabric-3.0.2+1.21.6.jar"
 hash = "b7c3ee48a6aaee8b374c62485ec7066e2a6ef17c379a9e2612d89e336641811e"
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "cc1314e3543a221118835b789aa11a588e752f43fe73689630b6633a724ed4f9"
+metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
