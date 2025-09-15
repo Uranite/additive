@@ -1,6 +1,6 @@
-version:4438
+version:4440
 enableVsync:false
-fov:0.75
+fov:0.5
 fullscreen:true
 gamma:1.0
 guiScale:2
@@ -11,8 +11,8 @@ simulationDistance:8
 operatorItemsTab:true
 toggleSprint:true
 darkMojangStudiosBackground:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip"]
-incompatibleResourcePacks:["badoptimizations","entityculling","modernfix","renderscale","trender","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip","$polymer-resources","axolotlbuckets:axolotl-buckets-small","file/Better Lanterns v1.2 - 1.21.7.zip","file/Fancy Crops v1.2.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/§l3D§f+Ladders+v1.2 - 1.21.7.zip","file/FreshAnimations_v1.10.1.zip"]
+incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true

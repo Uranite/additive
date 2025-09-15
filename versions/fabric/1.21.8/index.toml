@@ -78,7 +78,7 @@ hash = "8627b3553cbc1ae4e5556e7132991abc45d5a7b604f593e75f1389091278e0a5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c7833a5b0bfb62530c7745e4fec752fdffa46c3533e4e814c22e2a54a360ee2e"
+hash = "8c313b8bbddb68a5b57aee8c68f23157a2d04c12e2a94f0f55d2fc4e5bed0c12"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -515,6 +515,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "afa473edadc952a010fd50dd39763e66f477eaa06f5740a4f593a19a419bf61f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
