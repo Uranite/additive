@@ -1,0 +1,13 @@
+name = "Subtle Effects"
+filename = "SubtleEffects-fabric-1.21.6-1.12.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4q8UOK1d/versions/EAzsjckM/SubtleEffects-fabric-1.21.6-1.12.1.jar"
+hash-format = "sha512"
+hash = "8cb7545d019743f24b34ccdd588f80bb605a923b9ec42129de16797a80cbf38f180ea1b3293fd74a0540989d5c3b34972cb3f7975ae7f62c0c99d05ee7ddd6ff"
+
+[update]
+[update.modrinth]
+mod-id = "4q8UOK1d"
+version = "EAzsjckM"
