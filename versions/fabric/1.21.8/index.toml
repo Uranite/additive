@@ -13,16 +13,12 @@ file = "config/yosbr/config/badoptimizations.txt"
 hash = "a47ef2a99eee3632074b8c2869e1ce3182f7348eaf916a2045e06b2a47e58cd4"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "3dbb5d599a6f326c71bcd93f08b4378be0b63935fcfa53bc8eda5d8e989021d8"
-
-[[files]]
 file = "config/yosbr/config/cape-provider.json5"
 hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+hash = "583b6bc5546b97241c72b4e27db0d7f8e30c8a1454451abdd1a3ec2e3e112460"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -74,7 +70,7 @@ hash = "5445a0d00ce212f75b2650bd8128ac2d136c0962f32619a27b4854d965a611f0"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
-hash = "b4c1cc5fc213225d64e685a3b632092e909386ab41bd9925f9cf7efd53d1ad46"
+hash = "b62170fe95e8e89ffd5a4b11de9b084685234fa32644db2c3e3ade8c7a8fb12c"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
