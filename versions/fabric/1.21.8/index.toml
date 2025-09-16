@@ -289,8 +289,9 @@ hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
 metafile = true
 
 [[files]]
-file = "mods/lighty-fabric-3.0.2+1.21.6.jar"
-hash = "b7c3ee48a6aaee8b374c62485ec7066e2a6ef17c379a9e2612d89e336641811e"
+file = "mods/lighty.pw.toml"
+hash = "e272c03ee9f508fb87884e93f049d62a495a338130a1f183373cca5cc8d04edc"
+metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
