@@ -81,6 +81,10 @@ file = "config/yosbr/config/xaerominimap.txt"
 hash = "8627b3553cbc1ae4e5556e7132991abc45d5a7b604f593e75f1389091278e0a5"
 
 [[files]]
+file = "config/yosbr/config/xaeroplus.txt"
+hash = "8b400926fa2c106000afe3609286259d69491bd725ca2dc7d0a27a3d9ea6dd08"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "8e1b3cc7a3b6c763b4543766df5b650c3c46997bb6363320bad20edba343e14d"
 
