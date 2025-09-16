@@ -66,7 +66,7 @@ hash = "e3927c55ce0508a6328e373e1811191836fe56933f73d1fb320a1df21154081d"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "5445a0d00ce212f75b2650bd8128ac2d136c0962f32619a27b4854d965a611f0"
+hash = "5358a572a26d8008c6c49e00ab3a0fe65dd89761cb86a235496900b587b9526c"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
