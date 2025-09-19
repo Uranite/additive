@@ -352,6 +352,11 @@ file = "mods/nvidium-0.4.1-beta9-1.21.6-1.21.8.jar"
 hash = "cb1733ddcc5fbb2053670c296271cd9a41242ec5da120121c97d956fc3ae55ab"
 
 [[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "7e89ff5c7bab024cfe9331d474bcb676950d27e9d69842c9ea78aafadbb64450"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
 metafile = true
