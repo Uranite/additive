@@ -38,7 +38,7 @@ hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
 file = "config/yosbr/config/litematica.json"
-hash = "edcc6bd6fe058e0daa23f7b0ff31d1288eb30aeeaad5c32cff71096993c3786b"
+hash = "68322256c1240f38496d80e3e6df017a936cec6d9d965b7f815a4966c5873f5d"
 
 [[files]]
 file = "config/yosbr/config/malilib.json"
