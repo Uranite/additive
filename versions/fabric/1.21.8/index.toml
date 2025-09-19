@@ -229,6 +229,11 @@ hash = "52b635a2d4c1325708f7bd76af25c7a786c1cfa788f1567ce212bd2edb22a0c7"
 metafile = true
 
 [[files]]
+file = "mods/esf.pw.toml"
+hash = "e56fa453beca9926d55a91b3687c814dfdce651419a455797cc3469e7c3ad7b1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
