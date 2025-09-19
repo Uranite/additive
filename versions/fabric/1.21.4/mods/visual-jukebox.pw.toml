@@ -1,0 +1,13 @@
+name = "Visual Jukebox"
+filename = "visualjukebox-1.0.1+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ySkO3WJP/versions/TAu0pRP3/visualjukebox-1.0.1%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "2cc621803772007958448b1d54659786c600623172e45139a4070ba5af89778f24d74269998c49b6aa3f52c78c811aef9a4478b4b12b58f0eb4c38db43fdd1ee"
+
+[update]
+[update.modrinth]
+mod-id = "ySkO3WJP"
+version = "TAu0pRP3"

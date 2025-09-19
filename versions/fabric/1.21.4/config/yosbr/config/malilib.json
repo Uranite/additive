@@ -1,0 +1,10 @@
+{
+  "Generic": {
+    "enableConfigSwitcher": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  }
+}
