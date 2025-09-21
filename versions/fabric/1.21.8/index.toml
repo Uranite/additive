@@ -1,92 +1,88 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "a47ef2a99eee3632074b8c2869e1ce3182f7348eaf916a2045e06b2a47e58cd4"
+
+[[files]]
+file = "config/cape-provider.json5"
+hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "583b6bc5546b97241c72b4e27db0d7f8e30c8a1454451abdd1a3ec2e3e112460"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
-
-[[files]]
-file = "config/yosbr/config/badoptimizations.txt"
-hash = "a47ef2a99eee3632074b8c2869e1ce3182f7348eaf916a2045e06b2a47e58cd4"
-
-[[files]]
-file = "config/yosbr/config/cape-provider.json5"
-hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
-
-[[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "583b6bc5546b97241c72b4e27db0d7f8e30c8a1454451abdd1a3ec2e3e112460"
-
-[[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
+file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
+file = "config/immediatelyfast.json"
 hash = "eb455656c3e3e8effa1e9c085b96894b469aa545807e3f621dde74a1c3a0833f"
 
 [[files]]
-file = "config/yosbr/config/iris.properties"
+file = "config/iris.properties"
 hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
 
 [[files]]
-file = "config/yosbr/config/lambdynlights.toml"
+file = "config/lambdynlights.toml"
 hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
-file = "config/yosbr/config/litematica.json"
+file = "config/litematica.json"
 hash = "68322256c1240f38496d80e3e6df017a936cec6d9d965b7f815a4966c5873f5d"
 
 [[files]]
-file = "config/yosbr/config/malilib.json"
+file = "config/malilib.json"
 hash = "c7acba3f6019a96750b90508685939ab0801876a9d6f40475e9310eb05d620ed"
 
 [[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
+file = "config/modernfix-mixins.properties"
 hash = "e46272cc1db3b1f8c7d6bdc0c89d0b2e336a8d30ad0081e645f76c427be3cbec"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
+file = "config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
-file = "config/yosbr/config/moreculling.toml"
+file = "config/moreculling.toml"
 hash = "ad9502638dfc64191c82e28efeede417bd4ab32b6276e60117bc978e41b936bd"
 
 [[files]]
-file = "config/yosbr/config/puzzle.json"
+file = "config/puzzle.json"
 hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
 
 [[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
+file = "config/sodium-extra-options.json"
 hash = "e3927c55ce0508a6328e373e1811191836fe56933f73d1fb320a1df21154081d"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "config/sodium-options.json"
 hash = "5358a572a26d8008c6c49e00ab3a0fe65dd89761cb86a235496900b587b9526c"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
+file = "config/threadtweak.json"
 hash = "b62170fe95e8e89ffd5a4b11de9b084685234fa32644db2c3e3ade8c7a8fb12c"
 
 [[files]]
-file = "config/yosbr/config/vmp.properties"
+file = "config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
-file = "config/yosbr/config/xaerominimap.txt"
+file = "config/xaerominimap.txt"
 hash = "8627b3553cbc1ae4e5556e7132991abc45d5a7b604f593e75f1389091278e0a5"
 
 [[files]]
-file = "config/yosbr/config/xaeroplus.txt"
+file = "config/xaeroplus.txt"
 hash = "8b400926fa2c106000afe3609286259d69491bd725ca2dc7d0a27a3d9ea6dd08"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "8e1b3cc7a3b6c763b4543766df5b650c3c46997bb6363320bad20edba343e14d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -512,14 +508,13 @@ hash = "2b5d3c348ca65dc07ae8d9796ab4609588788dcad0ea6501f342b0086e5a1fdc"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8e1b3cc7a3b6c763b4543766df5b650c3c46997bb6363320bad20edba343e14d"
 
 [[files]]
 file = "resourcepacks/3d-ladders.pw.toml"
