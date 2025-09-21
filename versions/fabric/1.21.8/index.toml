@@ -150,12 +150,12 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "f21ea6cf6fe04c881b3ba33336d031f7c328599a90d64aeb109688819cd842b1"
+hash = "4029a12cef55921139fd0a0504bd5967ef9daeb3a4aba6798e321eb0b917a4c0"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
+hash = "ade1b7e69863b637fce80130baba133817cf8eaf49d60f39bb86039b917c41bb"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "86b4e3d19ce37366e8c197ecf90647250c0debb65bb05c64e02ec86684e56a8e"
+hash = "9f351fd00f843bcc2d6aa30d5e43e737b90e4a9b3b2345594aa0efd5f6a13b10"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "67644682da40a0544280729c66d54e6a0e4b6814807c717a19e5ce26b6b9afec"
+hash = "fe112716d0da39a5f27510f6e722c2b3cea58dca84bf08f69d3f50d4e6bab839"
 metafile = true
 
 [[files]]
