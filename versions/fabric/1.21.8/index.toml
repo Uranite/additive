@@ -14,7 +14,7 @@ hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
 
 [[files]]
 file = "config/dynamic_fps.json"
-hash = "583b6bc5546b97241c72b4e27db0d7f8e30c8a1454451abdd1a3ec2e3e112460"
+hash = "ad5e5518bd6ea36955d1970ad9fc200571e371ad540c68b021e1bb3aec1f7947"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
