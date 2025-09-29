@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8e1b3cc7a3b6c763b4543766df5b650c3c46997bb6363320bad20edba343e14d"
+hash = "46ce01d25d98e97a0d51fc694b04920e5e7ceee0c1071b592b98da00ce98fcc3"
 
 [[files]]
 file = "resourcepacks/3d-ladders.pw.toml"
@@ -549,4 +549,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
 hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
 metafile = true
