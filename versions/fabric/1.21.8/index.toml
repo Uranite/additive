@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "4029a12cef55921139fd0a0504bd5967ef9daeb3a4aba6798e321eb0b917a4c0"
+hash = "474d386d2f747bc1573f969cdd69363c0554a38bf5a60e5f80331d4baf3a0273"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9c9d1ded21c11cd419fbba9e39381605f23358d640aac24d7d604ed8f3e00f7c"
+hash = "77275b7ea13ad85567db5dfc2ed7e77ce7f1730d50641a33e41320e6030f424b"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ hash = "cb1733ddcc5fbb2053670c296271cd9a41242ec5da120121c97d956fc3ae55ab"
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "7e89ff5c7bab024cfe9331d474bcb676950d27e9d69842c9ea78aafadbb64450"
+hash = "2e7338d237403eaf8256729347fabfac08d64d5d1bc8c994f1361ef8f1421d9c"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "1e49559c88355148f1f8eabc43cd974b385a28b03205978869ce69a2eb7ed084"
+hash = "5c0923600d08edff1f15ec69c4ab5b2cd96c69024483fa6793147f94ded98315"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "fe112716d0da39a5f27510f6e722c2b3cea58dca84bf08f69d3f50d4e6bab839"
+hash = "e3bf85b01d699aa30929f63f0f6cb90ec46ac443e244ba4bf704f92b3c9a0dbf"
 metafile = true
 
 [[files]]
