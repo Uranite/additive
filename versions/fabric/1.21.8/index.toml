@@ -54,7 +54,7 @@ hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "ad9502638dfc64191c82e28efeede417bd4ab32b6276e60117bc978e41b936bd"
+hash = "47c90ca85fa6733e7b4fb652760b91506957ae19a830c02caa72d20df405819a"
 
 [[files]]
 file = "config/puzzle.json"
