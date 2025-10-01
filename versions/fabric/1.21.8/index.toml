@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "b1aa32235b6d929f8ac67bea98b72e907bd8548d3c6e60bb27cd733d7ca03283"
+hash = "5f6bf5dda325e57eeeb77ddc5c683734724acf47a5181eb25dea4e6f6af066db"
 metafile = true
 
 [[files]]
@@ -357,10 +357,6 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "b521c8ea3afe47d24a2acb56dbb63452f7940d120d829649bab0efada2e25983"
 metafile = true
-
-[[files]]
-file = "mods/nvidium-0.4.1-beta9-1.21.6-1.21.8.jar"
-hash = "cb1733ddcc5fbb2053670c296271cd9a41242ec5da120121c97d956fc3ae55ab"
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
