@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "46ce01d25d98e97a0d51fc694b04920e5e7ceee0c1071b592b98da00ce98fcc3"
+hash = "1295a8bbc5d60a7e604db9712c1ba773b9320c9747ae1b79c892d58d2b4b4527"
 
 [[files]]
 file = "resourcepacks/3d-ladders.pw.toml"
