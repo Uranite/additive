@@ -339,9 +339,8 @@ hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
-metafile = true
+file = "mods/moreculling-fabric-1.21.6-1.4.0-beta.1.jar"
+hash = "6f9a2373b388eb0983af8f77760466e76b78c87e95fcc90384600c49ba778714"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
