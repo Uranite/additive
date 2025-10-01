@@ -13,10 +13,6 @@ file = "config/cape-provider.json5"
 hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "ad5e5518bd6ea36955d1970ad9fc200571e371ad540c68b021e1bb3aec1f7947"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
 
@@ -197,11 +193,6 @@ metafile = true
 [[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "4e230e35117c08a4f63428b6b1d62b1e6d14542ccf91396dc4fbc98527c51db4"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
 
 [[files]]
