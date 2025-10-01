@@ -409,11 +409,6 @@ hash = "0f2304985a05c62f033b0d189433a940229540c1552359d08ca045bd867b5bde"
 metafile = true
 
 [[files]]
-file = "mods/roadarchitect.pw.toml"
-hash = "17b6abb285db215e4f9d6b05b100a05d9bdbe584c4ae82bad7aa9fe9dc8ffd48"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
 metafile = true
