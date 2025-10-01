@@ -1,13 +1,13 @@
 name = "Optiboxes"
-filename = "optiboxes-1.5+1.21.8-fabric.jar"
+filename = "optiboxes-1.6+1.21.8-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/UnNhLKl1/optiboxes-1.5%2B1.21.8-fabric.jar"
+url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/CBrQhBEo/optiboxes-1.6%2B1.21.8-fabric.jar"
 hash-format = "sha512"
-hash = "71630e6681f0ba0ece806bcb2e3fcee5b1bef32674cc09ad3bb1dee47830e311f538740abd3d5d9e2acf56256b69fb46d98bac33605aebeeebed22433797def3"
+hash = "2d6fb546f2ae027d66d319a68446b13dc903f9a8bac9fe029806f7edf67619473b4b3cf8052919e7f0ef858baeb41354128d7015b1da2756f0a6343fef3e0da8"
 
 [update]
 [update.modrinth]
 mod-id = "DWuwk8aA"
-version = "UnNhLKl1"
+version = "CBrQhBEo"
