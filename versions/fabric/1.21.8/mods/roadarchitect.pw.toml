@@ -1,0 +1,13 @@
+name = "RoadArchitect"
+filename = "roadarchitect-1.5.0-fabric+1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dLRvLyY3/versions/8femxeJA/roadarchitect-1.5.0-fabric%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "6cc9bfaef5f27ee8ea73b780d3c7405a74830032761e0080108e25ca358db6f147f4240b57359f4f7d666858a34c9f10b612a8e6902661e85c0b8484e7687c9f"
+
+[update]
+[update.modrinth]
+mod-id = "dLRvLyY3"
+version = "8femxeJA"

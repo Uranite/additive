@@ -215,6 +215,11 @@ hash = "50270233308c217307efe8e6333287f17caca78b4eaf6f12504d2d4940ce3c78"
 metafile = true
 
 [[files]]
+file = "mods/entity-pin-cushions.pw.toml"
+hash = "20decc1555e38e3aaecf3b2b41e29119a75d6de4ef112259b079fe607a9c677c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
 metafile = true
@@ -302,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "b1aa32235b6d929f8ac67bea98b72e907bd8548d3c6e60bb27cd733d7ca03283"
 metafile = true
 
 [[files]]
@@ -400,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/renderscale.pw.toml"
 hash = "0f2304985a05c62f033b0d189433a940229540c1552359d08ca045bd867b5bde"
+metafile = true
+
+[[files]]
+file = "mods/roadarchitect.pw.toml"
+hash = "17b6abb285db215e4f9d6b05b100a05d9bdbe584c4ae82bad7aa9fe9dc8ffd48"
 metafile = true
 
 [[files]]
@@ -544,6 +559,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gentler-weather-sounds.pw.toml"
+hash = "9164c7d742c4e3272081c48a9559b00a16c918ce7ed27857a252fc7db18d3cdd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/human-era-villagers-illagers.pw.toml"
+hash = "bed2afd482584a281f0b9a2d1daebb193d35fa9cc746b6beb6e443687b1384e4"
 metafile = true
 
 [[files]]
