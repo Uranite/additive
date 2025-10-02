@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
+hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
+hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "50e1d92bab9ca08df95a96523c419092ba1a6983d07b5b1223c86158113c5915"
+hash = "21d1f2ab406de7c0427bd25bdfc1f8099a75c2c31bb78928309aea26111aa8dc"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "c95de2fa145b9a3f173fde463515b6b2d38e0ed4f5c853b1a68c4f2ca3bad208"
+hash = "b33036850e44c6a79c3995027144a1758ca16e0f46c36bc068870575e2f4fe26"
 metafile = true
 
 [[files]]
