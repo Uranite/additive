@@ -97,23 +97,8 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "f0b705b810fc48523a67a90f218ae8085206b08421e2a006561169bf2847a907"
-metafile = true
-
-[[files]]
-file = "mods/freecam.pw.toml"
-hash = "c4fe9b4bf32bfab724bc66e1ced3bcb127082b98e7affe0b333d6185c7bc5e2a"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
 metafile = true
 
 [[files]]
@@ -127,28 +112,8 @@ hash = "21d1f2ab406de7c0427bd25bdfc1f8099a75c2c31bb78928309aea26111aa8dc"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
-metafile = true
-
-[[files]]
-file = "mods/lighty.pw.toml"
-hash = "e272c03ee9f508fb87884e93f049d62a495a338130a1f183373cca5cc8d04edc"
-metafile = true
-
-[[files]]
-file = "mods/litematica.pw.toml"
-hash = "cc1314e3543a221118835b789aa11a588e752f43fe73689630b6633a724ed4f9"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
-metafile = true
-
-[[files]]
-file = "mods/malilib.pw.toml"
-hash = "e211f2d9ee543b916ac3e6492ee362deabb2534851c70faa3002b40a24bbd72b"
 metafile = true
 
 [[files]]
@@ -183,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
-metafile = true
-
-[[files]]
-file = "mods/serverpingerfixer.pw.toml"
-hash = "480117bbfe84aa4d902cd1f45053ed4df0738f12daf163d83436e5a1ac2804e2"
 metafile = true
 
 [[files]]
