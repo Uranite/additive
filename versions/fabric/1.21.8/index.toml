@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "49351bef33477e92df2cd2c7daa905f7c31cd764a18d2f67289cb99bcf98e80c"
+hash = "5ca21a25e8d91728b229a70df61eab9d31aa0806572a317f7364963ddaa3d409"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"

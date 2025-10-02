@@ -3,5 +3,4 @@ _version = 3
 [common]
 
 	[common.lodBuilding]
-		#
 		showGenerationProgress = "DISABLED"
