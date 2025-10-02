@@ -68,6 +68,11 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "b36098ad4d52f44a3e077847792af2cb9562560c3fd85ad25788d32ecb051830"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
 metafile = true
@@ -78,13 +83,33 @@ hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "f0b705b810fc48523a67a90f218ae8085206b08421e2a006561169bf2847a907"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "c4fe9b4bf32bfab724bc66e1ced3bcb127082b98e7affe0b333d6185c7bc5e2a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
 metafile = true
 
 [[files]]
@@ -95,6 +120,16 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "21d1f2ab406de7c0427bd25bdfc1f8099a75c2c31bb78928309aea26111aa8dc"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "e272c03ee9f508fb87884e93f049d62a495a338130a1f183373cca5cc8d04edc"
 metafile = true
 
 [[files]]
@@ -111,6 +146,10 @@ metafile = true
 file = "mods/malilib.pw.toml"
 hash = "e211f2d9ee543b916ac3e6492ee362deabb2534851c70faa3002b40a24bbd72b"
 metafile = true
+
+[[files]]
+file = "mods/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
+hash = "37c29703f8d75a0b13d104a012b71fd0b1e0d62a9eeeda9c1bb5ec70ad07a56d"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -143,6 +182,11 @@ hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
 metafile = true
 
 [[files]]
+file = "mods/serverpingerfixer.pw.toml"
+hash = "480117bbfe84aa4d902cd1f45053ed4df0738f12daf163d83436e5a1ac2804e2"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b182456aefe4b8f37cc3dd34fdccbd07fcd0a2e9a6c175d5e39cd6d5190388dc"
 metafile = true
@@ -153,8 +197,23 @@ hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "9d01184b05012d5b4c04d44ec3e7251aeb3b98fd0d7bb9e9ea28cd6024fbdc1f"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "989b6c4ff3dc08d7994667b4dfc9931a3b15876eabe4f9de7be8939153bb1fdc"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "59e45ade7176229ff9750ae85356ba4a92b5124592dd09b0244c861cfda08575"
 metafile = true
 
 [[files]]
