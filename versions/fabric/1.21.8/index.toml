@@ -13,10 +13,6 @@ file = "config/cape-provider.json5"
 hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "5287b32edcac91203df51c442436bab5ed42e3add3303406f9cdd832a912249a"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
@@ -42,11 +38,7 @@ hash = "c7acba3f6019a96750b90508685939ab0801876a9d6f40475e9310eb05d620ed"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "e46272cc1db3b1f8c7d6bdc0c89d0b2e336a8d30ad0081e645f76c427be3cbec"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+hash = "e2eb04a63314ed1e8e43f05ae6f9716908f5389e0a0fd747169bdb04c27408ed"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -63,10 +55,6 @@ hash = "e3927c55ce0508a6328e373e1811191836fe56933f73d1fb320a1df21154081d"
 [[files]]
 file = "config/sodium-options.json"
 hash = "5358a572a26d8008c6c49e00ab3a0fe65dd89761cb86a235496900b587b9526c"
-
-[[files]]
-file = "config/threadtweak.json"
-hash = "b62170fe95e8e89ffd5a4b11de9b084685234fa32644db2c3e3ade8c7a8fb12c"
 
 [[files]]
 file = "config/vmp.properties"
@@ -330,17 +318,13 @@ hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
 
 [[files]]
-file = "mods/moreculling-fabric-1.21.6-1.4.0-beta.1.jar"
-hash = "6f9a2373b388eb0983af8f77760466e76b78c87e95fcc90384600c49ba778714"
+file = "mods/moreculling.pw.toml"
+hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
+metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "4e1dd52be6541751029a370a02c83cc663a8be8b62187a4aa273ca02a154fc37"
 metafile = true
 
 [[files]]
@@ -446,11 +430,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "4875fd101e678cdc5d71e6bda6bfb7d60b0d0b7683f6d9f704ebfcfac9ccb0a5"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
