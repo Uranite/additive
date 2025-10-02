@@ -218,49 +218,9 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1295a8bbc5d60a7e604db9712c1ba773b9320c9747ae1b79c892d58d2b4b4527"
-
-[[files]]
-file = "resourcepacks/3d-ladders.pw.toml"
-hash = "068c55a81cecc5a54b0272c75576807f2dc0ec95efcd6ccac28c62450f955340"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-lanterns.pw.toml"
-hash = "994113fe036aac3d0a238acf90fb1af9941e6ddc5082b7f620f4c95220d5a4cf"
-metafile = true
+hash = "e4253d54bbb801d7ad199d2c3b79c80aeb4ae45c2b1ac5967f1cfebc51a23320"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "c95de2fa145b9a3f173fde463515b6b2d38e0ed4f5c853b1a68c4f2ca3bad208"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fancy-crops.pw.toml"
-hash = "afa473edadc952a010fd50dd39763e66f477eaa06f5740a4f593a19a419bf61f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gentler-weather-sounds.pw.toml"
-hash = "9164c7d742c4e3272081c48a9559b00a16c918ce7ed27857a252fc7db18d3cdd"
-metafile = true
-
-[[files]]
-file = "resourcepacks/human-era-villagers-illagers.pw.toml"
-hash = "bed2afd482584a281f0b9a2d1daebb193d35fa9cc746b6beb6e443687b1384e4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rays-3d-rails.pw.toml"
-hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tras-fresh-player.pw.toml"
-hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
 metafile = true
