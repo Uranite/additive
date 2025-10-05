@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "541e364f570cfbaadcc177073cb085efe8a050ae2c08ae8529762ba81601041e"
+hash = "56fc22a9f3dc3eb2aa598aad649071f84c43c17d8618a39f52aede94d29c0a1f"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "df6bd40c17e1d41acb88646d0335de236840d9b4e4747ee4551eb0ea82b305f5"
+hash = "4c7f77ca2fe8053f78aed1c4a648cefbc7b51c4ade578ac29d24e3397b101b67"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "8a7149d0745b2ebcf5d4e50b099889de298b295c5056f239125601dfbb4550b5"
+hash = "f7e97f10067775f4f6d84666875324de38aee74691681117fbfb4b480d36b5b7"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "7e00a3009c931c51cc45b23f66c40a8da93ccd21854e854be96033eeec21d13f"
+hash = "a259aff78abbf2e05b4260e5d1b24ceebab9994770d2b771842cdcf05f075088"
 metafile = true
 
 [[files]]
