@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "6caf62e1f20ab47ff6c33173655092a0fa4a95455fac6f6fbeea3cfa65294d2d"
+hash = "2108a3f7ff334130bc04e57cb19d56a6f0c1b403e89c120402e06dfb6c973412"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "b7be421610494c41ac98451dccc77a58c54446d2521bef8e358d936a64d6fd0f"
+hash = "6685f10edcc37f4b78c13c08b82ab8ee0920a3b41cb832a5483682987dd1697d"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
+hash = "bde1e584be6e389eb05cd4c113741f50798fe70e08cfb5c8cf487db6a6559dcb"
 metafile = true
 
 [[files]]
