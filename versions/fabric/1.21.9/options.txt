@@ -1,11 +1,10 @@
-version:4440
+version:4554
 enableVsync:false
 fov:0.5
 fullscreen:true
 gamma:1.0
 guiScale:2
 maxFps:260
-renderClouds:"false"
 renderDistance:12
 simulationDistance:8
 operatorItemsTab:true
