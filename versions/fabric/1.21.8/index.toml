@@ -104,11 +104,6 @@ hash = "841012fc0e455651bb637434bce2b0d66f74e4cd16e35a055c6ce3b655f72a74"
 metafile = true
 
 [[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "fe9c77327c94f4a60632f3a56a7a9496f9f2f00e12ab42541eb433266a423b16"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "bdbe4914b751f7afd129eb94a133cf7223663c0cc0c5a8e273ce4b3867d61777"
 metafile = true
@@ -150,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "2108a3f7ff334130bc04e57cb19d56a6f0c1b403e89c120402e06dfb6c973412"
+hash = "fc8f618e117304b23590a78be09359023cfda786595497618c4ebb743f3d911b"
 metafile = true
 
 [[files]]
@@ -265,12 +260,17 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "6685f10edcc37f4b78c13c08b82ab8ee0920a3b41cb832a5483682987dd1697d"
+hash = "0504913b5580ac69dd769698bc6c0bc2fd57fd2e71fa7fc34d52b1cacdbe6d79"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "9956538040762161a154ff7b3e462703c2ae42f40be16a8624f75afc4a85338b"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "ee670964d05fa692dfd3033bf9f0268af9ea62bda9daf09f802da0e22a1facf6"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "bde1e584be6e389eb05cd4c113741f50798fe70e08cfb5c8cf487db6a6559dcb"
+hash = "46dd3e74c5479632edcefee8718098ec0f633cf4304c49f0df60ae062fe1789a"
 metafile = true
 
 [[files]]
