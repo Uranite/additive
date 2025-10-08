@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9956538040762161a154ff7b3e462703c2ae42f40be16a8624f75afc4a85338b"
+hash = "096a2214274f74daa501b52c48505d453563bd98a83ae2deae0c05c27833a612"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "5c0923600d08edff1f15ec69c4ab5b2cd96c69024483fa6793147f94ded98315"
+hash = "e6b86268f99b885decaea5d62c21737e66672eb060d2e7df3cd31995f3d8e52f"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "4875fd101e678cdc5d71e6bda6bfb7d60b0d0b7683f6d9f704ebfcfac9ccb0a5"
+hash = "9ea5f9586dd9b209a0fb475268e210df5418d6d717cee4d6cfa5cd011dcadcec"
 metafile = true
 
 [[files]]
@@ -484,12 +484,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "c497dbba63c5984ac7c437db98fd881c22fa3693dda7ebf3861559b90ecf17f3"
+hash = "ecf463c7b5a79f86bde6e5d3fb27ae7470a54120422fcd54094117e318b812ee"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d67badb4e995bc340548af8cb784af656bf9ec4b56778056747b207fe521f4ae"
+hash = "5225445ef0a0a168b3e578094d023e729f734f23a93a5b596f7404e8a4a238b1"
 metafile = true
 
 [[files]]
