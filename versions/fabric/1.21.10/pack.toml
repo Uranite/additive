@@ -1,0 +1,13 @@
+name = "Badly Optimized"
+author = "Uranite"
+version = "2.0.0+1.21.8.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e05d3c28795fe3ba53836262fefb43a4da8718a9534fef3742b9b3001ffdba58"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.10"
