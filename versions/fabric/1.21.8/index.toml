@@ -70,7 +70,7 @@ hash = "8b400926fa2c106000afe3609286259d69491bd725ca2dc7d0a27a3d9ea6dd08"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
+hash = "4b1f2d6f56ba1ed1487e199e48fd5bce91059beaff096759109d8448930df54f"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "9d01184b05012d5b4c04d44ec3e7251aeb3b98fd0d7bb9e9ea28cd6024fbdc1f"
+hash = "11e0e78a74c2525277aeae9b7b10b68c0c56681dcf31dc83cdf33cda66456a15"
 metafile = true
 
 [[files]]
@@ -484,12 +484,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "c497dbba63c5984ac7c437db98fd881c22fa3693dda7ebf3861559b90ecf17f3"
+hash = "8b290713d3efc82ddc21c04048aee6596ef85fe84c91a2377830b2f50fa3e325"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "72ddbc276a2fd7aca5443c0501a59ec96d0d6090917a99a30dc71abd0dd3785d"
+hash = "d72a8ffcacdd19e6d71eccb4b112cf763bf75b2c438506e01ab0aa76e91c6325"
 metafile = true
 
 [[files]]
