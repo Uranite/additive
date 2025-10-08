@@ -22,7 +22,7 @@ hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "e2eb04a63314ed1e8e43f05ae6f9716908f5389e0a0fd747169bdb04c27408ed"
+hash = "e46272cc1db3b1f8c7d6bdc0c89d0b2e336a8d30ad0081e645f76c427be3cbec"
 
 [[files]]
 file = "config/moreculling.toml"

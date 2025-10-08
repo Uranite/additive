@@ -37,6 +37,11 @@ file = "config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "134239bf414c7d225e6c504de957981545f15b55aee9cd62680ee67571a4eafe"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "3ac090b5b125fd45af150a82a95323c3854722d3c5c1f40feb4500eae13e76f5"
 metafile = true
@@ -102,8 +107,8 @@ hash = "79f7117fb42542dbe90ac62f98e893e85ba1c1860e5caf7fc1d2accba79ff846"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "b2484dbeb2eb2fbdefa2497f2061c98438aab667d90e802194d23db1b1c51931"
+file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
