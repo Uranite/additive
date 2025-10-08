@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "058cc1595af8525f99ef777de3976429e53fe4bb902ad12a37bb77eb78640b62"
+hash = "cc6214db776bf19e920ba42ff6add6a9e61ea1e37dc8445607d40af90525c8eb"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "3c29d8c06cdc938be3e1197dd9c2034485baca3e83235fd21079b96cebc5be2b"
+hash = "8ec6163b55eb8103772d0fb2959837ccf1192b6d5536d14c0d418c232d511244"
 metafile = true
 
 [[files]]
@@ -73,12 +73,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ac9c6e202635d1ceccdf7171efd671196f02c1710ab99b2014e0139fdfaedfaa"
+hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "70dc9abe83d7c369d9c349f8b5a188984de24d1e98d282fdb173bf06b845a76b"
+hash = "03436f3158e885ebe51f15a98e0afe611bd3391ad21f92b8ac7a185afb9d36c9"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "4841870d9dc8524426411f1b2033b6419c441d8e7b00a44077da6eaeef0c75c6"
+hash = "c4d548eff5cc51d1d183b00553fd0b7fe17ea744d9f6532d1f88c42a8afcbb64"
 metafile = true
 
 [[files]]
