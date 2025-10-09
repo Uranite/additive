@@ -1,4 +1,4 @@
-name = "Badly Optimized Test"
+name = "Badly Optimized"
 author = "Uranite"
 version = "2.0.0+1.21.8.fabric"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2e5094cd835567b44529901f73405cf02fa6520408b5745c6b35dc31d9d761a6"
+hash = "e5e7df6277af42868fd34d5314dbc2eb74a92bcae16f32b358721d6423915af5"
 
 [versions]
 fabric = "0.17.2"

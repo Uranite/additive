@@ -134,6 +134,11 @@ hash = "474d386d2f747bc1573f969cdd69363c0554a38bf5a60e5f80331d4baf3a0273"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "e35cfde6ff15ff840e5a66ffc8cae03038815967b0036ade39ae1c4ad61f4619"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "56fc22a9f3dc3eb2aa598aad649071f84c43c17d8618a39f52aede94d29c0a1f"
 metafile = true
@@ -150,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "fc8f618e117304b23590a78be09359023cfda786595497618c4ebb743f3d911b"
+hash = "2108a3f7ff334130bc04e57cb19d56a6f0c1b403e89c120402e06dfb6c973412"
 metafile = true
 
 [[files]]
@@ -265,12 +270,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "0504913b5580ac69dd769698bc6c0bc2fd57fd2e71fa7fc34d52b1cacdbe6d79"
+hash = "6685f10edcc37f4b78c13c08b82ab8ee0920a3b41cb832a5483682987dd1697d"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "096a2214274f74daa501b52c48505d453563bd98a83ae2deae0c05c27833a612"
+hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
 metafile = true
 
 [[files]]
@@ -285,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "46dd3e74c5479632edcefee8718098ec0f633cf4304c49f0df60ae062fe1789a"
+hash = "bde1e584be6e389eb05cd4c113741f50798fe70e08cfb5c8cf487db6a6559dcb"
 metafile = true
 
 [[files]]
@@ -358,6 +363,11 @@ hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
 metafile = true
 
 [[files]]
+file = "mods/particle-interactions.pw.toml"
+hash = "f010524a71e9bba4c6d282e431aa4ce23c18f3a980b29d8a66ed9d63077aa39d"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "f7e97f10067775f4f6d84666875324de38aee74691681117fbfb4b480d36b5b7"
 metafile = true
@@ -409,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "e6b86268f99b885decaea5d62c21737e66672eb060d2e7df3cd31995f3d8e52f"
+hash = "b1f6b652c98f6b02f2f3435be7b51f999ab96a125fe482057a32aaefa0a1ee88"
 metafile = true
 
 [[files]]
@@ -444,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "9ea5f9586dd9b209a0fb475268e210df5418d6d717cee4d6cfa5cd011dcadcec"
+hash = "e60e7e2ab30499196b6e30c9250380a11e4507641ecd9bd1dbd9ab2c072f0ada"
 metafile = true
 
 [[files]]
@@ -480,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "e55c90ed7bbc257b1eeb89e790c8eb12ce56fa752347649f8a2387fd39bfc8b8"
+metafile = true
+
+[[files]]
+file = "mods/world-play-time.pw.toml"
+hash = "2fe01cc073d9601542b8bb8e177764d5eb26bda15bdae42c88ffe94489125171"
 metafile = true
 
 [[files]]
