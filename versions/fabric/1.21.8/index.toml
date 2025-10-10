@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
+hash = "bc4f9441d69eefd3d48ed921338fbad1d24d0ecc671f755a83de0ad9f6418d3c"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
+hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "21d1f2ab406de7c0427bd25bdfc1f8099a75c2c31bb78928309aea26111aa8dc"
+hash = "0a86f505e9c1069da708679ece1742253ad38f61d9cd6538e862978e5d7cea81"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b521c8ea3afe47d24a2acb56dbb63452f7940d120d829649bab0efada2e25983"
+hash = "92f64b12518b796bc846725c9143dc91237e42e0d5ffc6aba779e0d93f9f77b4"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "8b290713d3efc82ddc21c04048aee6596ef85fe84c91a2377830b2f50fa3e325"
+hash = "f92e17c358b6d687c1aaccc816d879478e9c179cd55682896cea36e88e5f90fa"
 metafile = true
 
 [[files]]
