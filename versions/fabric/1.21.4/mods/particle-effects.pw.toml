@@ -1,0 +1,13 @@
+name = "Particle Effects"
+filename = "ParticleEffects-1.0.8+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PLAGcSFJ/versions/t5niVm6U/ParticleEffects-1.0.8%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "7e5158621ee0bbded9cb6f6e54cc0d6dbb1ffeec28dc314d079efe69f2b41e5d1dd88aab6c6d45a019058949f0f12874e075f3a8536584c40c1b769fea8a0f73"
+
+[update]
+[update.modrinth]
+mod-id = "PLAGcSFJ"
+version = "t5niVm6U"

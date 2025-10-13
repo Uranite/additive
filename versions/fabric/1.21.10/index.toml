@@ -180,6 +180,11 @@ hash = "8ec6163b55eb8103772d0fb2959837ccf1192b6d5536d14c0d418c232d511244"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "654a1bfba4f854eeef95bb20da494e5acb4da4dc761aa8545df3d2f932f5d905"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "10fa57330bad3b0f12bdbaa5e0abf75b1b515ae7937fa18fcaabb51f3abc762a"
 metafile = true

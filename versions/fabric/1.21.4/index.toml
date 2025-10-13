@@ -188,6 +188,11 @@ hash = "6f316e96a75086f503688561ab2d6ec3a4ef43b614646bce7c30a7edb0bd7d54"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "23f8b6848fac2f5dff3fca19118ae8bab15129707df6f0e76866db394e937e20"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d23e88eddc056910fbe6a02c8921a1a5487f472635e571c32fa66b656e10e85a"
 metafile = true
@@ -379,6 +384,11 @@ hash = "b5b6fd60175683971b5dafb55e0f03003ae628c1de924370758fb360accda20e"
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "3033ea653f49eef17c526fbc6475cdc32ebfc3b3d984f4205b3ed1cd4a08dc0c"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "32fefa11e008a3ba05073eda2f4f653132405be82f55e4b62ac74b9f8514f638"
 metafile = true
 
 [[files]]
