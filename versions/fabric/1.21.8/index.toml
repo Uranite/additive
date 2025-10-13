@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-jukebox.pw.toml"
-hash = "1b7f14db1cd5be3d20c304860d92ab419902ba7fe6d1045b925720830bc7c79e"
+hash = "0aa0399f171d11cb5b7334799a2a4b14b2f5a5f665601b0b5ad19aec68d8d7ba"
 metafile = true
 
 [[files]]

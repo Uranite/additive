@@ -1,6 +1,6 @@
 name = "Visual Jukebox"
 filename = "visualjukebox-1.0.1+1.21.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ySkO3WJP/versions/TAu0pRP3/visualjukebox-1.0.1%2B1.21.4.jar"
