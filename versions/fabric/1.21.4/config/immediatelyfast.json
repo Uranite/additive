@@ -1,0 +1,5 @@
+{
+  "experimental_disable_error_checking": true,
+  "experimental_disable_resource_pack_conflict_handling": true,
+  "experimental_sign_text_buffering": true
+}

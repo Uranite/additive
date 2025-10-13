@@ -1,0 +1,13 @@
+name = "Sit"
+filename = "sit-1.21.3-29.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VKXzIykF/versions/VpJc0iPk/sit-1.21.3-29.jar"
+hash-format = "sha512"
+hash = "f6b24b2d9c0e5fe106374bb9b21165bd64251eae834b687eee625f97f98b3fd8a63e2dfd4afbe42c786ae7dacb8e4227f422fcdda1f0cb413abfb076d4d89196"
+
+[update]
+[update.modrinth]
+mod-id = "VKXzIykF"
+version = "VpJc0iPk"

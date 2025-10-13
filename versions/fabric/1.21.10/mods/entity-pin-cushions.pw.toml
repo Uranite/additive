@@ -1,0 +1,13 @@
+name = "Entity Pin Cushions"
+filename = "entity_pin_cushions-fabric-1.21.4-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YtDL53HG/versions/bqTUFFgL/entity_pin_cushions-fabric-1.21.4-1.1.jar"
+hash-format = "sha512"
+hash = "03e4ad1221dd422f454ead25cfbec284aefb5d8e33ad7f62908484a52e574bd4d97fdf048ff089f53eaa11b75251289eff428123d4559f31d3ded0db8d3071b0"
+
+[update]
+[update.modrinth]
+mod-id = "YtDL53HG"
+version = "bqTUFFgL"
