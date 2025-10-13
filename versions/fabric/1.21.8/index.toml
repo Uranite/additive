@@ -363,6 +363,11 @@ hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
 metafile = true
 
 [[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "e5ee165e7d32ba21edfe39f408dd78e2023101b501787b91e52bd10bc91887c2"
+metafile = true
+
+[[files]]
 file = "mods/particle-interactions.pw.toml"
 hash = "f010524a71e9bba4c6d282e431aa4ce23c18f3a980b29d8a66ed9d63077aa39d"
 metafile = true
