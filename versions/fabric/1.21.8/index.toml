@@ -383,6 +383,11 @@ hash = "c8cc1d7e91aa70a842dad55a649bab3b0f899aa5a2fd191a3a4a44fc6e4e3005"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "e69fb1ebd3dc77fe4e68c5a3cfbd67e42f70cb6a8c6e67cb21a02988bab01e9b"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "5dff8bca658ae787c75fd2a37a40c8512a5fbc8a2421d106f94e08c8640b9075"
 metafile = true
