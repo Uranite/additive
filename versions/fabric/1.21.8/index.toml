@@ -54,7 +54,7 @@ hash = "5358a572a26d8008c6c49e00ab3a0fe65dd89761cb86a235496900b587b9526c"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "bc0d585b4477e79209b3834690020ab829e670346b421d474e66a84e1339d439"
+hash = "96911064afde34aadcea96b343e20fa8101ffd843306760558851145ba0dcd85"
 
 [[files]]
 file = "config/vmp.properties"
