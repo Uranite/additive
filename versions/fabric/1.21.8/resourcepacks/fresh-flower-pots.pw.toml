@@ -1,0 +1,13 @@
+name = "Fresh Flower Pots"
+filename = "§3Fresh §bFlower Pots.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CmEN0T1m/versions/aIgJFnuz/%C2%A73Fresh%20%C2%A7bFlower%20Pots.zip"
+hash-format = "sha512"
+hash = "e37d0d2cd57052acd12fa129cc47b85fd28699ed7decd88c845b61e656b254d3fd9fe1d54950ce042db5c18d845524a91af67295c3469504c51a24efad007da6"
+
+[update]
+[update.modrinth]
+mod-id = "CmEN0T1m"
+version = "aIgJFnuz"

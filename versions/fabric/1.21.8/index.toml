@@ -89,6 +89,11 @@ hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
 metafile = true
 
 [[files]]
+file = "mods/armor-stand-arms.pw.toml"
+hash = "aa3a2e99793cd7a2fda31d02d49505ecae49bd626d2b6336bc42f4bfb0e7ed0c"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "0caf363401ca978fb314a16bbee158c83be45b4e054fcac1a648560bd1a059da"
 metafile = true
@@ -189,6 +194,11 @@ hash = "654a1bfba4f854eeef95bb20da494e5acb4da4dc761aa8545df3d2f932f5d905"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "0d07adf7d0d94bb683d412849b363f0e770d77ce0808414e2080e4ae773dde7d"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "547fcb6481c2cf682b9de98f0a719d27f0ba896d7b06076f2135f2abd470aea6"
 metafile = true
@@ -206,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "e9ad96ae7b32042d96272b2ea803c260e49b274e919ee42ea3cb850fb263c29b"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "70fba83f43f5613a88476e6018d05bcdb1092aa2775bd4a2d738cd7b1f765689"
 metafile = true
 
 [[files]]
@@ -269,6 +284,11 @@ hash = "bc4f9441d69eefd3d48ed921338fbad1d24d0ecc671f755a83de0ad9f6418d3c"
 metafile = true
 
 [[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "ccb3d1521889193b1ecc9f1b483d7a74a6fe3b94572606c71caff41397190e14"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
@@ -296,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "bde1e584be6e389eb05cd4c113741f50798fe70e08cfb5c8cf487db6a6559dcb"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "143c142b7ff72c55425156edac3c7328b664d99dda2f1c6a1dee399d7f51a833"
 metafile = true
 
 [[files]]
@@ -348,6 +373,11 @@ hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
 metafile = true
 
 [[files]]
+file = "mods/naturally-trimmed.pw.toml"
+hash = "96d0d1add3add622a92c00e7b2be49ea0f22c0b6a33f60c804cc8e48e5400848"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "18360f497689d81ce5b4a58571c099bf5a7f66e085ccd7196cd129158b328f15"
 metafile = true
@@ -380,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "f7e97f10067775f4f6d84666875324de38aee74691681117fbfb4b480d36b5b7"
+metafile = true
+
+[[files]]
+file = "mods/pickup-notifications.pw.toml"
+hash = "c7ae842dd7e53e0712de5a1ca5ba277df2e2e587b39d23570fee8f1b5f598343"
 metafile = true
 
 [[files]]
@@ -418,6 +453,11 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "a798fe73c6b08201687d4cd067a5617624cf743145fca8fea579b65949944cae"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
 metafile = true
@@ -448,6 +488,11 @@ hash = "e3bf85b01d699aa30929f63f0f6cb90ec46ac443e244ba4bf704f92b3c9a0dbf"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "a259aff78abbf2e05b4260e5d1b24ceebab9994770d2b771842cdcf05f075088"
 metafile = true
@@ -465,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "e60e7e2ab30499196b6e30c9250380a11e4507641ecd9bd1dbd9ab2c072f0ada"
+metafile = true
+
+[[files]]
+file = "mods/text-formatting-everywhere.pw.toml"
+hash = "7e08e4f76649a2fba00bb6eae7b59af18513c01140b50cd94299c70232c597c9"
 metafile = true
 
 [[files]]
@@ -552,6 +602,21 @@ hash = "b33036850e44c6a79c3995027144a1758ca16e0f46c36bc068870575e2f4fe26"
 metafile = true
 
 [[files]]
+file = "resourcepacks/drodis-blazes-x-fresh-animations.pw.toml"
+hash = "91f7a158fceebf18437f09bd156ac6a64d5cdb903830d7c1fe401e4551fc3bd4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "5720b84ac67aa87c1cc800645f8a3c7574780d901c7f60349ffc99cc3eadf1cc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "f02b95d21e78b75d1a1c93296e1dd90dc5d03439958fd1596cb77bbce864663f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
@@ -559,6 +624,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-flower-pots.pw.toml"
+hash = "5d4fe3331ad330221b29de0e6cea703334445fd1cadbc096d613b1b5f6534ed4"
 metafile = true
 
 [[files]]
@@ -577,6 +647,26 @@ hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
 metafile = true
 
 [[files]]
+file = "resourcepacks/recolourful-containers-gui.pw.toml"
+hash = "6037502a86ee0c1579c7aa8f6a2f4a59a8e8201021c06a39c6591ef4f2c842dc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shaderpanorama1216.pw.toml"
+hash = "44fb3671f9763b0521f73f25571be60c25bbc8be9ef36674a9d3c166ffa77038"
+metafile = true
+
+[[files]]
+file = "resourcepacks/theones-eating-animation-pack.pw.toml"
+hash = "4de101c76fdb36e502852b74de62b64b6221f65819ba1a0de7ac074f3f450e0a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-armor-trims.pw.toml"
+hash = "79b6048871040b57be573e600edd1e4b47c0127e89c28a7a7e0f404bdf3e54a7"
 metafile = true
