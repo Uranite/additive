@@ -453,11 +453,6 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
-file = "mods/respackopts.pw.toml"
-hash = "a798fe73c6b08201687d4cd067a5617624cf743145fca8fea579b65949944cae"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
 metafile = true
