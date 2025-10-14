@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "192fcf50ff44dee01b4053041667a779b8998d5f31425e2fb18d1a990d81d456"
+hash = "547fcb6481c2cf682b9de98f0a719d27f0ba896d7b06076f2135f2abd470aea6"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "0a86f505e9c1069da708679ece1742253ad38f61d9cd6538e862978e5d7cea81"
+hash = "e0b20477323201d97bec4ead3dc6d86201e7a75f594569484daee469ff553106"
 metafile = true
 
 [[files]]
