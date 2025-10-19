@@ -1,13 +1,13 @@
 name = "Drodi's Blazes x Fresh Animations"
-filename = "§4Drodi's Blazes FA [V1.1].zip"
+filename = "§4Drodi's Blazes FA [V1.2].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VAUIRQKk/versions/NccomMVe/%C2%A74Drodi%27s%20Blazes%20FA%20%5BV1.1%5D.zip"
+url = "https://cdn.modrinth.com/data/VAUIRQKk/versions/hfYkrm0t/%C2%A74Drodi%27s%20Blazes%20FA%20%5BV1.2%5D.zip"
 hash-format = "sha512"
-hash = "3c9c4ede6e7c6d6d75f3f1894c0ec49df842b5a35cbd55fa6efdb1b583563185266ba7ddfb098817e3ec4c15d00e2fbe882653b4919ad3e9a000fb47bc9f4f8e"
+hash = "1d5da3e2e06b2b44fcaec136bc81df8bcbbdb3a60652dac6de960d04ef5a910dca5e6edbe24f766c7cc8f774666e4b39220b2efe6d91835c58b3b091072a9b6e"
 
 [update]
 [update.modrinth]
 mod-id = "VAUIRQKk"
-version = "NccomMVe"
+version = "hfYkrm0t"

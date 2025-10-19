@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "0caf363401ca978fb314a16bbee158c83be45b4e054fcac1a648560bd1a059da"
+hash = "a1aee1a390e64a3c5cd7ba20fad7c451f00daba64b8bda0060635eca4b00f5d5"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4c7f77ca2fe8053f78aed1c4a648cefbc7b51c4ade578ac29d24e3397b101b67"
+hash = "f25e018f4d038d229c707b2869d25328257014096d1088368b0414ecf6684855"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a7827d679e99475712dae370b836344b901524ff8ff0a7930aaf448303792113"
+hash = "f4803f468da3dc0c469bed07e4fbac01377a8f0fe7646a08f92271e23aa96175"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
+hash = "dae294bc7e60c5052b3c705bc15e4b2ebc1af7465e294c4f9824a4b63719475b"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/drodis-blazes-x-fresh-animations.pw.toml"
-hash = "91f7a158fceebf18437f09bd156ac6a64d5cdb903830d7c1fe401e4551fc3bd4"
+hash = "df3860935e4d3a6aa0bd3a7aa1aa6e9d0703204db231a37f60f983bfe0ed05f7"
 metafile = true
 
 [[files]]
