@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f25e018f4d038d229c707b2869d25328257014096d1088368b0414ecf6684855"
+hash = "71a28f3d54e0f7fbeec1a48bcaee5ee5ca9257939e8bfd8973721b9843b22f1d"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "0926006c2425cf35ed65e86a1172afa481f4983a826b1190d758157296ca1c8d"
+hash = "db9eab696bdf9bcd22d3c2a61d8d862a6362a9fa3948acbccbc5be96a015bff2"
 metafile = true
 
 [[files]]
