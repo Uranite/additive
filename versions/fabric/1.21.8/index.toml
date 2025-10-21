@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "4de89746f41405854ba54d7f16c71949f620282087aa3ee3233440086f1e081e"
+hash = "019fc8e13fe0484aa3375d19bda35d66dec469a620bed432c3042d71ab9ad836"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "db9eab696bdf9bcd22d3c2a61d8d862a6362a9fa3948acbccbc5be96a015bff2"
+hash = "1b4530e79094030db3fcf262af621e5ebfb5036f70dfc39c3a2c9010357ceb0d"
 metafile = true
 
 [[files]]
