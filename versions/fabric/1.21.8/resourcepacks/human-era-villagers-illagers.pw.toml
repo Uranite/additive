@@ -1,13 +1,13 @@
 name = "Human Era: Villagers & Illagers X Fresh Animations"
-filename = "HumanEraVillagersIllagers[3.7].zip"
+filename = "HumanEraVillagersIllagers[3.8].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/u69nu00u/versions/4RMtxhf8/HumanEraVillagersIllagers%5B3.7%5D.zip"
+url = "https://cdn.modrinth.com/data/u69nu00u/versions/UH95DAiy/HumanEraVillagersIllagers%5B3.8%5D.zip"
 hash-format = "sha512"
-hash = "149be84c9004e9ae348ad711d03231b7e562f1fa2b34a31781c16d3553360d2396288a10dbe7a3396e5d101ba2be1973ff92b4bbcdecc22b7e2603e9514b258f"
+hash = "e406cca680b5ec3889bc3403f277bda9e92f05adb5ae34540aade1eecc00637399e83c60bdcc0097c8ec9e68586fae8a6d91b3eca18dadda316311319a43c163"
 
 [update]
 [update.modrinth]
 mod-id = "u69nu00u"
-version = "4RMtxhf8"
+version = "UH95DAiy"

@@ -185,12 +185,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "b36098ad4d52f44a3e077847792af2cb9562560c3fd85ad25788d32ecb051830"
+hash = "e5cf907d7bc2c5154e007185f305e575acd9faec6718d30e61a77fa81b92d3b5"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "019fc8e13fe0484aa3375d19bda35d66dec469a620bed432c3042d71ab9ad836"
+hash = "5be2f72c79f3543aa3646c060fd5ac2e652818b53a71ac5f55fdcadb86c99532"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
+hash = "9af4574f848b49a2b11822e81500aebacdb77c416dbcf4502be5feaabfb5f66f"
 metafile = true
 
 [[files]]
@@ -404,12 +404,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-interactions.pw.toml"
-hash = "c9ca36f1dff237665188409f155fa65cd0656484135e3920966671d05cac20ab"
+hash = "02a673a6f41036f0e1d4078c1ffa179a49d04c61c00c06b2c36d1bd2d7f66048"
 metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "f7e97f10067775f4f6d84666875324de38aee74691681117fbfb4b480d36b5b7"
+hash = "bbcf3ad28288df3009f28bc2a3ecfcdb8f6d161c2679eaa6a79575c9619e897f"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "d47c73ae52d88b862864a9d8387c93cbeffe2513abff18c3c3c3c450eb4cbdd2"
+hash = "4019dc9d377028099ae87ffc5b03bd09deb284057a1e3b8910171837b2966266"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "a259aff78abbf2e05b4260e5d1b24ceebab9994770d2b771842cdcf05f075088"
+hash = "54bae783911f39a0f4e181086f3e1f1ec1a466c9fc4125e6b6a9db95d5efe154"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "11e0e78a74c2525277aeae9b7b10b68c0c56681dcf31dc83cdf33cda66456a15"
+hash = "db3322e6f547044afc3f1ee13c49245244e080e29d128c6e6f6b1df613c8020c"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-flower-pots.pw.toml"
-hash = "5d4fe3331ad330221b29de0e6cea703334445fd1cadbc096d613b1b5f6534ed4"
+hash = "6ea70716dbbdddf6bdbeb137208a38380159048813accecb225ca6d19ce37e97"
 metafile = true
 
 [[files]]
@@ -633,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
-hash = "bed2afd482584a281f0b9a2d1daebb193d35fa9cc746b6beb6e443687b1384e4"
+hash = "c3a40eb78034c9c013928db9a02a814070d8041e9648c8bd7b5fefbd5f5ba9ef"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "6037502a86ee0c1579c7aa8f6a2f4a59a8e8201021c06a39c6591ef4f2c842dc"
+hash = "76ff5ae9354174e01cbf0f8eadbaabb13a7091805cfbc7c1901227c71bfe9017"
 metafile = true
 
 [[files]]
