@@ -1,0 +1,13 @@
+name = "Shader Panorama For 1.21.6~8：Chase the Skies"
+filename = "ShaderPanoramaFor1.21.6-8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MV9tGg0w/versions/8uonAIfv/ShaderPanoramaFor1.21.6-8.zip"
+hash-format = "sha512"
+hash = "4f6dc5d2d827591c1a59df28f0bbc652eb1487e9d4f3be834b13844e22fe39ab13857909947ed270f906a2a8f63476df352e1793652a9961a157bb27f0010429"
+
+[update]
+[update.modrinth]
+mod-id = "MV9tGg0w"
+version = "8uonAIfv"

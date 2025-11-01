@@ -11,8 +11,8 @@ simulationDistance:8
 operatorItemsTab:true
 toggleSprint:true
 darkMojangStudiosBackground:true
-resourcePacks:["vanilla","fabric","$polymer-resources","continuity:default","continuity:glass_pane_culling_fix","file/Chat Reporting Helper.zip","file/Gentler Weather Sounds 2.0.0.zip","file/FreshAnimations_v1.10.1.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip","file/HumanEraVillagersIllagers[3.7].zip","file/Better Lanterns v1.2 - 1.21.7.zip","file/Fancy Crops v1.2.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/§l3D§f+Ladders+v1.2 - 1.21.7.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","$polymer-resources","continuity:default","continuity:glass_pane_culling_fix","lambdabettergrass:default","file/Chat Reporting Helper.zip","file/Gentler Weather Sounds 2.0.0.zip","file/ShaderPanoramaFor1.21.6-8.zip","file/Theone\u0027s Eating Animation Pack v1.0.zip","file/Recolourful Containers 2.1.2 (1.19.4+).zip","file/Re-covered.zip","file/visual_armor_trims_4.0_1.21.5+.zip","file/enchant icons 1.21.5 v1.3.zip","file/§3Fresh §bFlower Pots.zip","file/§9RAY\u0027s §f3D §6Rails§8§o§k.zip","file/§l3D§f+Ladders+v1.2 - 1.21.7.zip","file/Better Lanterns v1.2 - 1.21.7.zip","file/Fancy Crops v1.3.zip","file/FreshAnimations_v1.10.1.zip","file/+1.21.3 Fresh Moves v3.1.1 (With Animated Eyes).zip","file/§4Drodi\u0027s Blazes FA [V1.1].zip","file/HumanEraVillagersIllagers[3.7].zip"]
+incompatibleResourcePacks:["file/enchant icons 1.21.5 v1.3.zip"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
@@ -22,5 +22,5 @@ key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.unknown
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.shaderPackSelection:key.keyboard.i
+key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
