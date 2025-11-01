@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f4803f468da3dc0c469bed07e4fbac01377a8f0fe7646a08f92271e23aa96175"
+hash = "ff166f6f205e4ce227da6fd173e45a8277730137f75f13fa0c47559745105637"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "96d0d1add3add622a92c00e7b2be49ea0f22c0b6a33f60c804cc8e48e5400848"
+hash = "2ff1882e4ec06c16880d6cbbf216ef528ca36b6fe43f52df57a16091137c81c5"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "ccadf231e75cee7fcc4721f075c548d9e6d960bf4a8b6fe87f4a837d0e96cae2"
+hash = "94a718b1a3695c96b0df5857e43aa3b911507eee3060e2bcdddb7d2bab367dba"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e55c90ed7bbc257b1eeb89e790c8eb12ce56fa752347649f8a2387fd39bfc8b8"
+hash = "efb53ee30ff1787aa0df29e88ce867478d8ea1f0fafbdafe29223560e0179cd5"
 metafile = true
 
 [[files]]
