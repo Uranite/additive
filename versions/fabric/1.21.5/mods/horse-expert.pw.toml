@@ -1,0 +1,13 @@
+name = "Horse Expert"
+filename = "HorseExpert-v21.5.0-1.21.5-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/24CSPS1E/versions/f06PWnVG/HorseExpert-v21.5.0-1.21.5-Fabric.jar"
+hash-format = "sha512"
+hash = "635df83be6e8ed602ae228a9b31206bb13b9aba0bc662911b72d117f4e70f59d7b3afec0931b26cf4c50fd081daa2290dd016b00f8e258256978e8be048d1857"
+
+[update]
+[update.modrinth]
+mod-id = "24CSPS1E"
+version = "f06PWnVG"

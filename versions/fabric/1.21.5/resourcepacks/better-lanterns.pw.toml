@@ -1,0 +1,13 @@
+name = "Better Lanterns"
+filename = "Better Lanterns v1.2 - 1.21.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PGGrfcvL/versions/utWEvy53/Better%20Lanterns%20v1.2%20-%201.21.5.zip"
+hash-format = "sha512"
+hash = "c6348d5af25ad0afb5cabc2746ff7fd3382b17ed6be748906cf31eb4a7ec2e839409ba17a9221db64354ff3babbe397f7525c943d9e9d484faf7584fe41ac509"
+
+[update]
+[update.modrinth]
+mod-id = "PGGrfcvL"
+version = "utWEvy53"

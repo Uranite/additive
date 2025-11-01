@@ -1,0 +1,13 @@
+name = "Polymer"
+filename = "polymer-bundled-0.12.6+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xGdtZczs/versions/dqiMdAQo/polymer-bundled-0.12.6%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "cb59aed83e899feac07a7d14dea635e5e28ed486f383c89fb59f778bbd7e481d016875004804e7a6c3c9e01e60929174708d40dce8a30bd69093c24fa9d837a1"
+
+[update]
+[update.modrinth]
+mod-id = "xGdtZczs"
+version = "dqiMdAQo"

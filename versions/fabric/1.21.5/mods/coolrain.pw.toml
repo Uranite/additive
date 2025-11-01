@@ -1,0 +1,13 @@
+name = "Cool Rain"
+filename = "coolrain-1.2.0-1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iDyqnQLT/versions/JOaiQRgE/coolrain-1.2.0-1.21.5.jar"
+hash-format = "sha512"
+hash = "0dbf8c7510da55f0c8fda65e1de9e796a5ef07375fea147d6b05b3f7e0bef03dec47bc893f9a6df5bb7349bdd0da89287488b012c143b210a59fd30b990bd9a8"
+
+[update]
+[update.modrinth]
+mod-id = "iDyqnQLT"
+version = "JOaiQRgE"

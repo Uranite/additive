@@ -1,0 +1,13 @@
+name = "3D Ladders"
+filename = "§l3D§f Ladders v1.2 - 1.21.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ti9eZ3CP/versions/5mD0KTaw/%C2%A7l3D%C2%A7f%20Ladders%20v1.2%20-%201.21.5.zip"
+hash-format = "sha512"
+hash = "73ec734a30ae5bf03d43f6d52dbd23c1fd2b2cd694ca710ac9e57ebd548cd29254fa704a45bb2f0de2e7d7e0f2eba5de428320683d932bf45608ad5e621c0f99"
+
+[update]
+[update.modrinth]
+mod-id = "ti9eZ3CP"
+version = "5mD0KTaw"

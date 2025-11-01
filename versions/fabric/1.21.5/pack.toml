@@ -1,13 +1,13 @@
-name = "Additive"
-author = "SkywardMC"
-version = "1.37.0+1.21.5.fabric"
+name = "Badly Optimized"
+author = "Uranite"
+version = "2.0.0+1.21.5.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "15a5c534f8a0e8fd352412764459ac75099e759eafff2184e53268104fa01757"
+hash = "2a7bee9a062afba5c014c4eb83d0e922f108b44f3ef405b6007ef2a4edeb2439"
 
 [versions]
-fabric = "0.17.2"
+fabric = "0.17.3"
 minecraft = "1.21.5"
