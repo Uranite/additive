@@ -3,3 +3,6 @@ version = 0
 
 [dustClouds]
 playerRunning = false
+
+[splashes]
+splashEffects = false

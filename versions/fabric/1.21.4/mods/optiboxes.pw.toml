@@ -1,0 +1,13 @@
+name = "Optiboxes"
+filename = "optiboxes-1.7+1.21.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/DadYaEYV/optiboxes-1.7%2B1.21.4-fabric.jar"
+hash-format = "sha512"
+hash = "a8617c1cf79f9784f39ea6ee542bf2005781480b6f599bb9e967d4b36c4f17234d37d503632c2e93d9b1bc90291b0545182788e873522a2e47bb6bea2e4975d4"
+
+[update]
+[update.modrinth]
+mod-id = "DWuwk8aA"
+version = "DadYaEYV"

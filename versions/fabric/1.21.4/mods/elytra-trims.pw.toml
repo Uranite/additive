@@ -1,0 +1,13 @@
+name = "Elytra Trims"
+filename = "elytratrims-4.0.0-alpha.3+1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/fwYUzPXg/elytratrims-4.0.0-alpha.3%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "e9b6c0669fbf6256ee46eddcf831729411e718e13d59938aaddb42f5c8269e61b5ae496042d9310e14d10518c952e470c3e3dc8402a66dc9884c8484e8e8b005"
+
+[update]
+[update.modrinth]
+mod-id = "XpzGz7KD"
+version = "fwYUzPXg"
