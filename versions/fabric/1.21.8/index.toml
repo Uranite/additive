@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "5be2f72c79f3543aa3646c060fd5ac2e652818b53a71ac5f55fdcadb86c99532"
+hash = "a43936e5b4a25e67a89b8889f9a50e7f2d61c6b85be37c56a556971f31d30340"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "6685f10edcc37f4b78c13c08b82ab8ee0920a3b41cb832a5483682987dd1697d"
+hash = "27019526e6b3cc5da5ad5e2db50caa2a14dc815cf48e0a91c7cf1fe610f1bc53"
 metafile = true
 
 [[files]]
@@ -310,12 +310,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "edad218cc48e1fb4c78878ff4a7aec2810d6d647e59eefa1e86477f553f5d8c0"
+hash = "6f9c68611856f909c3233239cdb428f92153a5624abbccc2403ac2bbbb5e9fed"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "bde1e584be6e389eb05cd4c113741f50798fe70e08cfb5c8cf487db6a6559dcb"
+hash = "57c94f1e4e7953f963ad9e055a634161d7a4fabbb472e235b6aff96b25728fb5"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "2ff1882e4ec06c16880d6cbbf216ef528ca36b6fe43f52df57a16091137c81c5"
+hash = "a6053361914edb8f7760d2c0b39181a8f7a0e697d0401f23a981d45d7f1fabd1"
 metafile = true
 
 [[files]]
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "b1f6b652c98f6b02f2f3435be7b51f999ab96a125fe482057a32aaefa0a1ee88"
+hash = "5106847bd76f1cb69d9c88fe1a907f9f58b740edf59e7c660c18e11e95b34cb0"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "44e71ba421c365f719649bfdfe5b7ae7b235d468cd6e9a5cabaa4572a9c1326a"
+hash = "2552da4284288224f39d6f5989c281727eb1d913ca11b72ec4b4cf949a445346"
 metafile = true
 
 [[files]]
