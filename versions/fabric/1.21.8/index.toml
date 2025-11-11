@@ -388,8 +388,8 @@ hash = "1b4530e79094030db3fcf262af621e5ebfb5036f70dfc39c3a2c9010357ceb0d"
 metafile = true
 
 [[files]]
-file = "mods/nvidium-0.4.2-beta1-1.21.6-1.21.8.jar"
-hash = "e2fba2de00fb5b4be8f4442bbe3206a880994e6937fc0e3cc5d55d3819e27f2b"
+file = "mods/nvidium-0.4.2-beta2-1.21.6-1.21.8.jar"
+hash = "56b2ca079550bac0f424872e9cddae18a8fab30b524c0e88d8b2b29525fb9be1"
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
