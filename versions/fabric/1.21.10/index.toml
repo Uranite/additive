@@ -53,10 +53,6 @@ file = "config/sodium-options.json"
 hash = "5358a572a26d8008c6c49e00ab3a0fe65dd89761cb86a235496900b587b9526c"
 
 [[files]]
-file = "config/subtle_effects/entities.toml"
-hash = "96911064afde34aadcea96b343e20fa8101ffd843306760558851145ba0dcd85"
-
-[[files]]
 file = "config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
@@ -71,11 +67,6 @@ hash = "8b400926fa2c106000afe3609286259d69491bd725ca2dc7d0a27a3d9ea6dd08"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7467a101c890769c5d0796e1a4d646074ef8f96c9c1d2995dbb0f3972ea49916"
-metafile = true
-
-[[files]]
-file = "mods/animatica.pw.toml"
-hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
 
 [[files]]
@@ -136,11 +127,6 @@ metafile = true
 [[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "d720c72a64b4a6c15472c55d6c55cf1652c0627a76a9d18d3db91dc705217b46"
-metafile = true
-
-[[files]]
-file = "mods/cave-dust.pw.toml"
-hash = "e35cfde6ff15ff840e5a66ffc8cae03038815967b0036ade39ae1c4ad61f4619"
 metafile = true
 
 [[files]]
@@ -209,11 +195,6 @@ hash = "79c4a37c879341488dcbcaba8a945b45e44a351bd9f7040cd87152c58a0f134f"
 metafile = true
 
 [[files]]
-file = "mods/dripsounds.pw.toml"
-hash = "4e230e35117c08a4f63428b6b1d62b1e6d14542ccf91396dc4fbc98527c51db4"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "79f4f099a798c128e978388f33d0826ea17e4a06bee8cce02e06aea8b38dfe0c"
 metafile = true
@@ -226,11 +207,6 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "a6f7f4ac2bb2e379099cf3e8c3dc193c6e7e43c23185825610fd809d6e4c825c"
-metafile = true
-
-[[files]]
-file = "mods/entity-pin-cushions.pw.toml"
-hash = "20decc1555e38e3aaecf3b2b41e29119a75d6de4ef112259b079fe607a9c677c"
 metafile = true
 
 [[files]]
@@ -432,11 +408,6 @@ hash = "22a83a04b4df87ab4bbea18228c3cc695551610c66cc79ccc315d783d3f7848f"
 metafile = true
 
 [[files]]
-file = "mods/polytone.pw.toml"
-hash = "e69fb1ebd3dc77fe4e68c5a3cfbd67e42f70cb6a8c6e67cb21a02988bab01e9b"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "1d0b4cb5d19919e7c63ece2bda6e312ca80f266880e6472182cda993d70ed8fb"
 metafile = true
@@ -489,11 +460,6 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "54bae783911f39a0f4e181086f3e1f1ec1a466c9fc4125e6b6a9db95d5efe154"
 metafile = true
 
 [[files]]
@@ -648,11 +614,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/recolourful-containers-gui.pw.toml"
 hash = "76ff5ae9354174e01cbf0f8eadbaabb13a7091805cfbc7c1901227c71bfe9017"
-metafile = true
-
-[[files]]
-file = "resourcepacks/shaderpanorama1216.pw.toml"
-hash = "44fb3671f9763b0521f73f25571be60c25bbc8be9ef36674a9d3c166ffa77038"
 metafile = true
 
 [[files]]
