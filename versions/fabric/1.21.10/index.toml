@@ -145,6 +145,11 @@ hash = "9d07c9ba99c427bc750413e68552dcb497c6aec4f2483bf4a46bd93a19e886a3"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "551d9247d8cbba099f84e416ac50fe322f82401eef6800d3bfa159be521acb9b"
 metafile = true
@@ -182,11 +187,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "519c2c0f4836fc357a813bd6ab9aa0ac38e84e5584dc98d59df20104e7be252b"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
 metafile = true
 
 [[files]]
@@ -510,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "90df8d95fcd836373dd1b26dd8f3fbc6ca8ac55f797e09562796aa0aeb0576c0"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "bf28e86461c3432453a76380c44dd3c79e5c7a0644c897c3c0d984f711f351ed"
 metafile = true
 
 [[files]]

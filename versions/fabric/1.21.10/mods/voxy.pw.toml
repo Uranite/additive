@@ -1,0 +1,13 @@
+name = "voxy"
+filename = "voxy-0.2.6-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fxxUqruK/versions/agZsxLao/voxy-0.2.6-alpha.jar"
+hash-format = "sha512"
+hash = "68f919ecfeea553dfd799fd4d849a823ab81ddba53d3fe568225259e24123b88e84d1986ffdb75050e010249a5d63125010ed3f09e39b7ad84078c291dd929b3"
+
+[update]
+[update.modrinth]
+mod-id = "fxxUqruK"
+version = "agZsxLao"
