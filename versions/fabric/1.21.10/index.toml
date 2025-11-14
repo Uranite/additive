@@ -335,8 +335,9 @@ hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.20.5-1.21.10.jar"
-hash = "d56164f507c4a2c1040384db1245de559bec56557cadfc2874a196b84d2e94c3"
+file = "mods/modernfix-mvus.pw.toml"
+hash = "d50b7be11b0ef674f0f5b7b4307dc4919683fa63bdc72703912258a528398e61"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -362,10 +363,6 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
 metafile = true
-
-[[files]]
-file = "mods/nvidium-0.4.2-beta2-1.21.9-1.21.10.jar"
-hash = "099752812218f0373ef3872f2a607f8cebfa4f0eb93318c24594bc4dd2337d47"
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
