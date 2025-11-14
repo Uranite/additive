@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "ddec1890704528e72700fadabe505ae0a4d4d15b7ce45c1026fb4088c3d1a674"
+hash = "36cd95d46f6cf8fe027293599609ed9dc847ca245d59e085a5bd0fd87c0efe7d"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a43936e5b4a25e67a89b8889f9a50e7f2d61c6b85be37c56a556971f31d30340"
+hash = "62a6c4667f4ccf7dba7eedd114456148347d19b384e9eea94a4b846360418aa7"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9a8c273d0efcf679d04d77ab37521c05978caff642a6c2b867d2fa2cdc8b168e"
+hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "4bf3b4e6ce176f34d70fa961fee580956567b0a79e25e3be58e020b7e9f42e32"
+hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "90df8d95fcd836373dd1b26dd8f3fbc6ca8ac55f797e09562796aa0aeb0576c0"
+hash = "1750b72e8ece77b5676ed18ffce81d0fd4df89e8bbde63ef8cc328df87bb9277"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "06785e8c6e0a8c1d7e62ce8520b1af957f28a6a18454a6aa116fdf16bb106ead"
+hash = "45d1f440945a61fd298d497725a3b2aa8fac958102d0ec5797f7c2f2a4a3d5e9"
 metafile = true
 
 [[files]]
@@ -557,6 +557,10 @@ hash = "1ad11db31f44bee821bae9bfa030cf06396007c17be4695dfd69ef849e8a3571"
 file = "resourcepacks/3d-ladders.pw.toml"
 hash = "0858c31e38cb01f431a663d96dca9d9f16e44fdb7e6e3b14e693c769cb63244e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/HEVI FreshAni Activator.zip"
+hash = "0b6d8f08e3d428cdf2bcbe685e2e0523f569268b8b63cb30f74fcf2276e7cbc5"
 
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
