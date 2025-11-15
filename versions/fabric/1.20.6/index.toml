@@ -135,6 +135,11 @@ hash = "abc387a020c7ed360eae2841609ad0a69f0df06c668fbb27776e232bbc1c30d9"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "177b482b2fa380214799c4edd086d2b9155ac076a62497ed6d38bf722b0fd708"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "6f4c01dc2a28a2c74ccdd5ba7f5566d6302a6e4e994edb01ed9cd1eba701c1ed"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "faca62babb2eb5104279b4a55cb4066b8f111989e8dc2575826b162668c2a1fd"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds.pw.toml"
+hash = "518180314697dadfd8a159a53fd9ab37d8cf54092086e913eae45f5fd7603af4"
 metafile = true
 
 [[files]]
