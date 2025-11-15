@@ -1,0 +1,13 @@
+name = "Drodi's Blazes x Fresh Animations"
+filename = "§4Drodi's Blazes FA [V1.2].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VAUIRQKk/versions/hfYkrm0t/%C2%A74Drodi%27s%20Blazes%20FA%20%5BV1.2%5D.zip"
+hash-format = "sha512"
+hash = "1d5da3e2e06b2b44fcaec136bc81df8bcbbdb3a60652dac6de960d04ef5a910dca5e6edbe24f766c7cc8f774666e4b39220b2efe6d91835c58b3b091072a9b6e"
+
+[update]
+[update.modrinth]
+mod-id = "VAUIRQKk"
+version = "hfYkrm0t"

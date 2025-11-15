@@ -1,0 +1,13 @@
+name = "Easy Anvils"
+filename = "EasyAnvils-v21.10.0+mc1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/RRPRJ01x/EasyAnvils-v21.10.0%2Bmc1.21.10-Fabric.jar"
+hash-format = "sha512"
+hash = "0b1d987ed8354222453e200d791c5a7139ffa909c9226999b34cd02d7c61a72e5bc129bc4eb662d0dfcf436f2e9a58028eab9a51c9a59d42dac6b6741cfc8cfb"
+
+[update]
+[update.modrinth]
+mod-id = "OZBR5JT5"
+version = "RRPRJ01x"
