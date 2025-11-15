@@ -350,6 +350,16 @@ hash = "150cbda6112791a4db5f3591482256cbd12f9c146008f8f6130cc51fed23bb80"
 metafile = true
 
 [[files]]
+file = "mods/nuit-interop.pw.toml"
+hash = "bc1e9aadb3118b7835eb12bbeb1d9fa089114e0b703543aa93af7e8db1e7527b"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "0fa17f36e80b3c8417be0070ab44358b1aa06b513f76975110841014513504f0"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "4aeeec36ae800bcda13f61688ed82396f532e9ed6421daf9b45e997770fd03db"
 metafile = true
@@ -382,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "dc6a3bb89fbc1455fb8cb87bc2518f5a9cb6d8e483d87d302b808bc6188d55c3"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "3f0788aedf032f4a7e8c1c5684e35cc4c3070205f50137144d7526dd45120633"
 metafile = true
 
 [[files]]
