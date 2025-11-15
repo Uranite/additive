@@ -485,6 +485,11 @@ hash = "449a43968994ad44e9f8a36401bede9885e109231e31c8e22b72c55c68e56531"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "97da8aa107b5934bc6a37756a8ff3458565666c4433dce7f7021db6d238e8100"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "8cd9cfc9000cde17d56cebb2c3f19e3a106428c082436d53f72fc478ecc10037"
 metafile = true
