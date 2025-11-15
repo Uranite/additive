@@ -138,8 +138,8 @@ hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
 
 [[files]]
-file = "mods/cape-provider.pw.toml"
-hash = "c5c6fa0deffa311658ca3225c54f94a71686b66134bfad1e3bf819e2ba977c2c"
+file = "mods/capes.pw.toml"
+hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
 metafile = true
 
 [[files]]
@@ -195,11 +195,6 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "60eab6ec5f29fc035ece627513e61cdacebcba6a7f7c0406ce977c802832e865"
-metafile = true
-
-[[files]]
-file = "mods/detail-armor-bar-reconstructed.pw.toml"
-hash = "0d07adf7d0d94bb683d412849b363f0e770d77ce0808414e2080e4ae773dde7d"
 metafile = true
 
 [[files]]
