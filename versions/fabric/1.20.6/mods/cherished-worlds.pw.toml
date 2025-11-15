@@ -1,13 +1,13 @@
 name = "Cherished Worlds"
-filename = "cherishedworlds-fabric-14.0.0+1.21.10.jar"
+filename = "cherishedworlds-fabric-9.0.0+1.20.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/4Yu1yyZW/cherishedworlds-fabric-14.0.0%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/b49VRqRK/cherishedworlds-fabric-9.0.0%2B1.20.6.jar"
 hash-format = "sha512"
-hash = "65c10db65b70428f245d3c48e4bb3a029b00bf828e5fa689f474628de164e7dfa92b6562d2e996ac13b8555ac9107b9966a81fb4a55eb26b6792c2402d75426c"
+hash = "2f43ea56f231c7c5677e85e93b971575a2abf3568049d8dc8f1e7e30c53c368207a186e836c603430b5557881bdda3dca9b0b983f7df2d9c020115935154dded"
 
 [update]
 [update.modrinth]
 mod-id = "3azQ6p0W"
-version = "4Yu1yyZW"
+version = "b49VRqRK"

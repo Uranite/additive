@@ -1,13 +1,13 @@
 name = "3D Ladders"
-filename = "§l3D§f+Ladders+v1.2.1 - 1.21.9.zip"
+filename = "§l3D§f+Ladders+v1.2(mc-1.20.5).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ti9eZ3CP/versions/V5eo7dZK/%C2%A7l3D%C2%A7f%2BLadders%2Bv1.2.1%20-%201.21.9.zip"
+url = "https://cdn.modrinth.com/data/ti9eZ3CP/versions/HQbMgMOG/%C2%A7l3D%C2%A7f%2BLadders%2Bv1.2%28mc-1.20.5%29.zip"
 hash-format = "sha512"
-hash = "e09d55c1b8be4a84c01409ec14e90ae68dc86e779fe05c6be3fead983cf2ffd26a1de253084ab0ec89aec7823b4505d7309556a33420994938365e00fc0f1e31"
+hash = "b5c3ddaefa9348db9882e09039455d1a53faf8bb67cbeb22f18846f5c7f9d27d3b343400d0278cc343455aea141c7583b3b74822960c2f02fd3696c055a4ff79"
 
 [update]
 [update.modrinth]
 mod-id = "ti9eZ3CP"
-version = "V5eo7dZK"
+version = "HQbMgMOG"

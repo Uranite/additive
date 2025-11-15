@@ -1,13 +1,13 @@
 name = "Armor Stand Arms"
-filename = "armor-stand-arms-v2.5.3.jar"
+filename = "armor-stand-arms-v.2.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GWFnD2zx/versions/IzSBQUgQ/armor-stand-arms-v2.5.3.jar"
+url = "https://cdn.modrinth.com/data/GWFnD2zx/versions/pkbG4wpr/armor-stand-arms-v.2.4.0.jar"
 hash-format = "sha512"
-hash = "c8d12fc238d489803075273de0f03e6bc1a093400f9741fe59eb94fe85ea2b494b1dd3ba6e1d90c74927c591a21987d55fe62c2d128089bd07762afab638a79a"
+hash = "7956dba209575053e97b2269a17912f2983577aec9bc1427d6d75abf354e3ab11fd4e677b4753d935e930beee778576b202c95f4c7b5829a63d8c0ec7da6fc7c"
 
 [update]
 [update.modrinth]
 mod-id = "GWFnD2zx"
-version = "IzSBQUgQ"
+version = "pkbG4wpr"
