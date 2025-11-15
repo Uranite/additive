@@ -22,10 +22,10 @@ goto :EOF
     ::    packwiz mr export
     ::    cd ..\..\..
     ::)
-    cd versions\fabric\1.21.10 && packwiz mr export
+    cd versions\fabric\1.21.8 && packwiz mr export
     cd ..\..\..
     ::for /R versions\fabric %%f in (*.mrpack) do move "%%f" build\fabric\
-    move versions\fabric\1.21.10\*.mrpack build\fabric
+    move versions\fabric\1.21.8\*.mrpack build\fabric
     goto :EOF
 
 :update
@@ -34,7 +34,7 @@ goto :EOF
     ::    packwiz update --all
     ::    cd ..\..\..
     ::)
-    cd versions\fabric\1.21.10 && packwiz update --all
+    cd versions\fabric\1.21.8 && packwiz update --all
     goto :EOF
 
 :update-loader
@@ -43,7 +43,7 @@ goto :EOF
     ::    packwiz migrate loader latest
     ::    cd ..\..\..
     ::)
-    cd versions\fabric\1.21.10 && packwiz migrate loader latest
+    cd versions\fabric\1.21.8 && packwiz migrate loader latest
     goto :EOF
 
 :refresh
@@ -60,5 +60,5 @@ goto :EOF
     ::    packwiz refresh
     ::    cd ..\..\..
     ::)
-    cd versions\fabric\1.21.10 && packwiz mr add "%2"
+    cd versions\fabric\1.21.8 && packwiz mr add "%2"
     goto :EOF
