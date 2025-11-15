@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "56fc22a9f3dc3eb2aa598aad649071f84c43c17d8618a39f52aede94d29c0a1f"
+hash = "5e24aecf5e741668943ef5b796566222395272ded0d9d25716980726459445c6"
 metafile = true
 
 [[files]]
@@ -156,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "04be2a0471d1e25db46586b30de5268c50f6046d657bcdf96b4a3c88946a6d08"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
 metafile = true
 
 [[files]]
@@ -190,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a43936e5b4a25e67a89b8889f9a50e7f2d61c6b85be37c56a556971f31d30340"
+hash = "62a6c4667f4ccf7dba7eedd114456148347d19b384e9eea94a4b846360418aa7"
 metafile = true
 
 [[files]]
@@ -270,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "2df76fcc5bacce682495502f342be0c1f74a33bf0835d80dd0d3d5fc0d2f3b19"
+hash = "ea40c2f09338485de8ed94ae09c84182e2544ff166e5d9a33b9be8ea13d3f750"
 metafile = true
 
 [[files]]
@@ -330,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "cc1314e3543a221118835b789aa11a588e752f43fe73689630b6633a724ed4f9"
+hash = "76e5afe777819136bdc78140baa629f4ca3c2db68c6713d5e336af125fb21595"
 metafile = true
 
 [[files]]
@@ -350,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "e211f2d9ee543b916ac3e6492ee362deabb2534851c70faa3002b40a24bbd72b"
+hash = "87c4d42219d3aea70af7aa016e0e4bdfac94d2a4ece9e719e8e84e9203735300"
 metafile = true
 
 [[files]]
@@ -359,8 +364,9 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
-hash = "37c29703f8d75a0b13d104a012b71fd0b1e0d62a9eeeda9c1bb5ec70ad07a56d"
+file = "mods/modernfix-mvus.pw.toml"
+hash = "ceab5807172e236916b8386d352aca46895480867f607c5be07ff37da7fc9c85"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -388,17 +394,13 @@ hash = "1b4530e79094030db3fcf262af621e5ebfb5036f70dfc39c3a2c9010357ceb0d"
 metafile = true
 
 [[files]]
-file = "mods/nvidium-0.4.2-beta2-1.21.6-1.21.8.jar"
-hash = "56b2ca079550bac0f424872e9cddae18a8fab30b524c0e88d8b2b29525fb9be1"
-
-[[files]]
 file = "mods/optiboxes.pw.toml"
 hash = "94a718b1a3695c96b0df5857e43aa3b911507eee3060e2bcdddb7d2bab367dba"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
+hash = "fd3e53ec7952cc61da0d7f57a49f6280b1b869b20772fe8e6dcd40cb8812e109"
 metafile = true
 
 [[files]]
@@ -522,6 +524,11 @@ hash = "db3322e6f547044afc3f1ee13c49245244e080e29d128c6e6f6b1df613c8020c"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "e78883e2313f914dd3f5ffe9e99880701e35304758a504d0fee92e12dda73c42"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "2f95b2e354e37ba4a5edc5983084458afb1265313623ac2a831ffbb1111cb837"
 metafile = true
@@ -548,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "efb53ee30ff1787aa0df29e88ce867478d8ea1f0fafbdafe29223560e0179cd5"
+hash = "d1d2efbe00e6bf4db535779f1531ea45c7ae3a5ce85690011de738c31f1233db"
 metafile = true
 
 [[files]]
