@@ -234,11 +234,6 @@ hash = "50270233308c217307efe8e6333287f17caca78b4eaf6f12504d2d4940ce3c78"
 metafile = true
 
 [[files]]
-file = "mods/entity-pin-cushions.pw.toml"
-hash = "20decc1555e38e3aaecf3b2b41e29119a75d6de4ef112259b079fe607a9c677c"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ff166f6f205e4ce227da6fd173e45a8277730137f75f13fa0c47559745105637"
 metafile = true
