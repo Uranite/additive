@@ -1,0 +1,13 @@
+name = "Hold My Items"
+filename = "HMI 5.0L4 1.21.6+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AP8rDDLS/versions/EpvSVHji/HMI%205.0L4%201.21.6%2B.jar"
+hash-format = "sha512"
+hash = "460527d5550c90b0113ee25059cf84bbfdfe8b607de0cc950ec0a0cbf8cf2cd33759117c9d6a50a5f3cc2f8641e046dce74997aa96c9fa60c873d36539799188"
+
+[update]
+[update.modrinth]
+mod-id = "AP8rDDLS"
+version = "EpvSVHji"

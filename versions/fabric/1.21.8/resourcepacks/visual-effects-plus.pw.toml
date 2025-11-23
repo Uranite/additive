@@ -1,0 +1,13 @@
+name = "Visual Effects+"
+filename = "Visual Effects+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZyZknBVG/versions/GlZaJQhW/Visual%20Effects%2B.zip"
+hash-format = "sha512"
+hash = "0bcddd093d7c198d8bd5b2c8afebd5456f0270c9457524c703f9ab595591de2e69a381561450ba9db3e7beb535c5e2da8b8347e8a488ca8c8dd8da28f68023d3"
+
+[update]
+[update.modrinth]
+mod-id = "ZyZknBVG"
+version = "GlZaJQhW"

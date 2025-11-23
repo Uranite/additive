@@ -109,6 +109,10 @@ hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
 
 [[files]]
+file = "mods/bbe-1.2.0.jar"
+hash = "0675b4499d7fabbffcffc5c4574feeadb511db3362191e97534bc41626900454"
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "841012fc0e455651bb637434bce2b0d66f74e4cd16e35a055c6ce3b655f72a74"
 metafile = true
@@ -156,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "04be2a0471d1e25db46586b30de5268c50f6046d657bcdf96b4a3c88946a6d08"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "0810d697b48175318501ee8faa65fa5c2e9fa49361b70e5949ffecea4ab94da4"
 metafile = true
 
 [[files]]
@@ -211,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "44859714889ef327ac90990bf35a47e66c6b9b9f92ee4036044d20d592d3c8a0"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "1cf5864e44b2323036f2b5b088e57b29d2c782053a23f97ae65e485e6b77e725"
 metafile = true
 
 [[files]]
@@ -284,6 +298,11 @@ hash = "bc4f9441d69eefd3d48ed921338fbad1d24d0ecc671f755a83de0ad9f6418d3c"
 metafile = true
 
 [[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "fef36bc11e5747a8feac327138e0d4f5ce20634d173e9d40b78abe7d84948b57"
+metafile = true
+
+[[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "ccb3d1521889193b1ecc9f1b483d7a74a6fe3b94572606c71caff41397190e14"
 metafile = true
@@ -301,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
+metafile = true
+
+[[files]]
+file = "mods/ismah.pw.toml"
+hash = "a49efdca6c7778cc5353b695eef75576290ff96ee841d4a7854c1763392ce83a"
 metafile = true
 
 [[files]]
@@ -389,6 +413,11 @@ hash = "1b4530e79094030db3fcf262af621e5ebfb5036f70dfc39c3a2c9010357ceb0d"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "27bf21267ffb04d59ff52404aad040bd5cf95ca90701ede8f240ce033dafa927"
+metafile = true
+
+[[files]]
 file = "mods/optiboxes.pw.toml"
 hash = "94a718b1a3695c96b0df5857e43aa3b911507eee3060e2bcdddb7d2bab367dba"
 metafile = true
@@ -411,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "bbcf3ad28288df3009f28bc2a3ecfcdb8f6d161c2679eaa6a79575c9619e897f"
+metafile = true
+
+[[files]]
+file = "mods/perception.pw.toml"
+hash = "f2fc56843bfd8788da8f410c21018197ed9932319ec6eebcb3eafa6eb35a81e0"
 metafile = true
 
 [[files]]
@@ -449,8 +483,18 @@ hash = "4019dc9d377028099ae87ffc5b03bd09deb284057a1e3b8910171837b2966266"
 metafile = true
 
 [[files]]
+file = "mods/real-arrow-tip.pw.toml"
+hash = "426f585565aad4e89a397a2958cfb8e2d841be78cf253a3430bbfb5a27952e5f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "a798fe73c6b08201687d4cd067a5617624cf743145fca8fea579b65949944cae"
 metafile = true
 
 [[files]]
@@ -464,8 +508,18 @@ hash = "480117bbfe84aa4d902cd1f45053ed4df0738f12daf163d83436e5a1ac2804e2"
 metafile = true
 
 [[files]]
+file = "mods/smooth-gui.pw.toml"
+hash = "0b7531dae7df8e5845b3a3407630ef4d278a5d1c4ffeb57420fc717ae2aeb851"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "5106847bd76f1cb69d9c88fe1a907f9f58b740edf59e7c660c18e11e95b34cb0"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "f94fc13407e9ac22079ce9eeec7966993b4412a813ee4573756fcd3b0a35aead"
 metafile = true
 
 [[files]]
@@ -511,6 +565,11 @@ metafile = true
 [[files]]
 file = "mods/text-formatting-everywhere.pw.toml"
 hash = "7e08e4f76649a2fba00bb6eae7b59af18513c01140b50cd94299c70232c597c9"
+metafile = true
+
+[[files]]
+file = "mods/twod_projectiles.pw.toml"
+hash = "68c6d56f08f9f7dbb01420aed90d5b0bf5ecad921ab3502a60639a80dc5b3ccc"
 metafile = true
 
 [[files]]
@@ -598,8 +657,28 @@ hash = "994113fe036aac3d0a238acf90fb1af9941e6ddc5082b7f620f4c95220d5a4cf"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-trident.pw.toml"
+hash = "cce40d714a616432aec1e5ea090ada2503b9de6db17381c2b5780b4386ecc9cf"
+metafile = true
+
+[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "b33036850e44c6a79c3995027144a1758ca16e0f46c36bc068870575e2f4fe26"
+metafile = true
+
+[[files]]
+file = "resourcepacks/classic-tools-fusion.pw.toml"
+hash = "8e3ab0c16c2c3b94fe042fc16c6c4ba26dd2c78f37732778566ee1aa7d83b5fe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cute-pumpkin.pw.toml"
+hash = "253ec763acc588de216b8d9305551b148f56c43d519f6c736c571e8efbbc3800"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detailed-animations.pw.toml"
+hash = "0c270ee0cddead03263f41f49b824d9c799b9964d5e6b9b381777033600663a5"
 metafile = true
 
 [[files]]
@@ -623,13 +702,43 @@ hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations-details.pw.toml"
+hash = "595e82727529453141a910c99f27302a908b5488ca782a9a1d99809276630786"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "dcd0431bf5f45761e679ed20cae3e913e02e6eb06e572d3d37e81d002ac47f5e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-objects.pw.toml"
+hash = "a91bf9ed0c2ff42ceafdea4e94eb4378bc54d807b60fd5486bfb6ffdbfc6ed2e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-x-baby-animals-remastered.pw.toml"
+hash = "7b2a92323e43e906d7dd52629f79f386f192d3867e3d1ce3ecce5beb92d9bf8a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-buckets.pw.toml"
+hash = "58fb926ddcfb9afa04dba55851a0e96bbb3abfa067e1817ad8f32c2bdcafb629"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-flower-pots.pw.toml"
 hash = "6ea70716dbbdddf6bdbeb137208a38380159048813accecb225ca6d19ce37e97"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-music-discs.pw.toml"
+hash = "7bd37014eee957ac08e5e46be4b623b0cd7dcc8fec1ca4a999373781a9bda2e7"
 metafile = true
 
 [[files]]
@@ -640,6 +749,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
 hash = "c3a40eb78034c9c013928db9a02a814070d8041e9648c8bd7b5fefbd5f5ba9ef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lively-turtle-helmet.pw.toml"
+hash = "7994b4e0e6a3e39bad7b960df260c8c9116bff270a5915f38a5e938c3199c481"
 metafile = true
 
 [[files]]
@@ -658,6 +772,11 @@ hash = "44fb3671f9763b0521f73f25571be60c25bbc8be9ef36674a9d3c166ffa77038"
 metafile = true
 
 [[files]]
+file = "resourcepacks/tears-and-cheers.pw.toml"
+hash = "3d8c3db1ee996efe9bc5fdabc59320ad91ff14c295fc30e7b2c2e0ed901ccace"
+metafile = true
+
+[[files]]
 file = "resourcepacks/theones-eating-animation-pack.pw.toml"
 hash = "4de101c76fdb36e502852b74de62b64b6221f65819ba1a0de7ac074f3f450e0a"
 metafile = true
@@ -670,4 +789,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/visual-armor-trims.pw.toml"
 hash = "79b6048871040b57be573e600edd1e4b47c0127e89c28a7a7e0f404bdf3e54a7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-effects-plus.pw.toml"
+hash = "99f436a826adba9cd1f24ed03a64f06e79572946096794216bfbc6cc19342672"
 metafile = true

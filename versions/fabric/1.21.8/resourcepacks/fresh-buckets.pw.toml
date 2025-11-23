@@ -1,0 +1,13 @@
+name = "Fresh Buckets"
+filename = "Fresh Buckets 1.1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sb5mtr2w/versions/UODz88q7/Fresh%20Buckets%201.1.2.zip"
+hash-format = "sha512"
+hash = "c293763a31dddd88c7c1923943fe16b349ae0fe382497a2113d8a6b644d445ea192e971eb8f5168cd92181266ef13adf8f167d56bb98eb2a9136c4b26cf64407"
+
+[update]
+[update.modrinth]
+mod-id = "Sb5mtr2w"
+version = "UODz88q7"

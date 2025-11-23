@@ -1,0 +1,13 @@
+name = "Fresh Animations: Objects"
+filename = "FA+Objects-v2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/23O9JVMV/versions/75biIxsj/FA%2BObjects-v2.0.zip"
+hash-format = "sha512"
+hash = "ca0063ffde14085ecc3a2ae4d75f2deb1ea65962de808f49d4192ebfb7eac8e63eae59ab438efc8b233b8196714014178756463997a1c49496901688cb3050c0"
+
+[update]
+[update.modrinth]
+mod-id = "23O9JVMV"
+version = "75biIxsj"

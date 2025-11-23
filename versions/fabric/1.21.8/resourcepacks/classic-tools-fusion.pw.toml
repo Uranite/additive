@@ -1,0 +1,13 @@
+name = "Classic Tools Fusion"
+filename = "Classic Tools Fusion v2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nl1e71KM/versions/Xu1YIeXX/Classic%20Tools%20Fusion%20v2.1.zip"
+hash-format = "sha512"
+hash = "a1d74bcb0d96223fedd2592ae45735245ffe52a8059d74023e807dc88729957837ffc1bd73a606c4feabaaf7c50b2a46195d62ed34745858de0de0e775b269c2"
+
+[update]
+[update.modrinth]
+mod-id = "Nl1e71KM"
+version = "Xu1YIeXX"
