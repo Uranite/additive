@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "5049f3b8515cf52b7096cf3ac5d3f899d92cddde0ef89693763deea6cc59d328"
+hash = "006181c8d6265ba5faa0f1b57873260d990e57f0682c317e7ac15e0734161909"
 metafile = true
 
 [[files]]
@@ -229,17 +229,17 @@ metafile = true
 
 [[files]]
 file = "mods/dripsounds.pw.toml"
-hash = "4e230e35117c08a4f63428b6b1d62b1e6d14542ccf91396dc4fbc98527c51db4"
+hash = "8cd1bcb8bd326f6a659d28ca8c0795febc84fbc79eec8ef2b85ee15344f30302"
 metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "70fba83f43f5613a88476e6018d05bcdb1092aa2775bd4a2d738cd7b1f765689"
+hash = "a2b956506a1bfe1f4527c5ecb28d79f1957dba7c8b2356934b19e7cf27ddfc9d"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "50270233308c217307efe8e6333287f17caca78b4eaf6f12504d2d4940ce3c78"
+hash = "b42fa5914c1905aa2f50645f683550dc3be5cb02abd2280318508bc7ac67cf10"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "52b635a2d4c1325708f7bd76af25c7a786c1cfa788f1567ce212bd2edb22a0c7"
+hash = "2b5f89d4fe57400765a94259ee42078b5f59da0c41bdaa3609ec2585994465eb"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "2552da4284288224f39d6f5989c281727eb1d913ca11b72ec4b4cf949a445346"
+hash = "06900344c9edbc5a0fa132fe75409fd6d2044bdf0becb9209ffae12962683362"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
 metafile = true
 
 [[files]]
