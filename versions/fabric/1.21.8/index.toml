@@ -722,18 +722,8 @@ hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-buckets.pw.toml"
-hash = "58fb926ddcfb9afa04dba55851a0e96bbb3abfa067e1817ad8f32c2bdcafb629"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-flower-pots.pw.toml"
 hash = "6ea70716dbbdddf6bdbeb137208a38380159048813accecb225ca6d19ce37e97"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-music-discs.pw.toml"
-hash = "7bd37014eee957ac08e5e46be4b623b0cd7dcc8fec1ca4a999373781a9bda2e7"
 metafile = true
 
 [[files]]
@@ -754,11 +744,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
 hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
-metafile = true
-
-[[files]]
-file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "76ff5ae9354174e01cbf0f8eadbaabb13a7091805cfbc7c1901227c71bfe9017"
 metafile = true
 
 [[files]]
