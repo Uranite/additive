@@ -233,11 +233,6 @@ hash = "4e230e35117c08a4f63428b6b1d62b1e6d14542ccf91396dc4fbc98527c51db4"
 metafile = true
 
 [[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "e9ad96ae7b32042d96272b2ea803c260e49b274e919ee42ea3cb850fb263c29b"
-metafile = true
-
-[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "70fba83f43f5613a88476e6018d05bcdb1092aa2775bd4a2d738cd7b1f765689"
 metafile = true
@@ -590,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/visual-jukebox.pw.toml"
 hash = "0aa0399f171d11cb5b7334799a2a4b14b2f5a5f665601b0b5ad19aec68d8d7ba"
-metafile = true
-
-[[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "1af66f2ecdaffc6e058b2a60e0bdfa70d85e6abc83e8d6b6c2090ca4594c01a9"
 metafile = true
 
 [[files]]
