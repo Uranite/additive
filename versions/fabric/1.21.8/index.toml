@@ -762,11 +762,6 @@ hash = "4de101c76fdb36e502852b74de62b64b6221f65819ba1a0de7ac074f3f450e0a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/tras-fresh-player.pw.toml"
-hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
-metafile = true
-
-[[files]]
 file = "resourcepacks/visual-armor-trims.pw.toml"
 hash = "79b6048871040b57be573e600edd1e4b47c0127e89c28a7a7e0f404bdf3e54a7"
 metafile = true
