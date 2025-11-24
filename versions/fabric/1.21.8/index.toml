@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "0810d697b48175318501ee8faa65fa5c2e9fa49361b70e5949ffecea4ab94da4"
+hash = "6b85bfc6d6d4e911de31adb052b0514023ca1c9bacbc3617959e74ab069a29cb"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
+hash = "35487bfa37b15e79fc68f32b6e2575b1fc7d325b634fb54f1370e2ddff92408f"
 metafile = true
 
 [[files]]
@@ -659,11 +659,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "b33036850e44c6a79c3995027144a1758ca16e0f46c36bc068870575e2f4fe26"
-metafile = true
-
-[[files]]
-file = "resourcepacks/classic-tools-fusion.pw.toml"
-hash = "8e3ab0c16c2c3b94fe042fc16c6c4ba26dd2c78f37732778566ee1aa7d83b5fe"
 metafile = true
 
 [[files]]
