@@ -163,11 +163,6 @@ hash = "04be2a0471d1e25db46586b30de5268c50f6046d657bcdf96b4a3c88946a6d08"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
-metafile = true
-
-[[files]]
 file = "mods/cicada.pw.toml"
 hash = "2108a3f7ff334130bc04e57cb19d56a6f0c1b403e89c120402e06dfb6c973412"
 metafile = true
