@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
+hash = "2f89f8b5742252466694fa7826e2a28741a4bb6245302673ff94320b74950315"
 metafile = true
 
 [[files]]
@@ -229,12 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "a2b956506a1bfe1f4527c5ecb28d79f1957dba7c8b2356934b19e7cf27ddfc9d"
+hash = "66652e6f3fdc74b5a0fa562cf7627a35a14322b8f6a346d625762085f84bd684"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b42fa5914c1905aa2f50645f683550dc3be5cb02abd2280318508bc7ac67cf10"
+hash = "a9ab6b11520f816c3e7cce8be3bd673a751bd78f14e2b1da96a655a0a14a6765"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "e5ee165e7d32ba21edfe39f408dd78e2023101b501787b91e52bd10bc91887c2"
+hash = "dbd1daf4f2a4dbb604ac224fdbe2fdee0892401e85a828f18039490e31f83eb9"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "f94fc13407e9ac22079ce9eeec7966993b4412a813ee4573756fcd3b0a35aead"
+hash = "3b95e63a8350161ad4aafb8b6ee54f837723fac959dc78bafbd9a96c7ddb42c9"
 metafile = true
 
 [[files]]
