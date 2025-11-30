@@ -503,6 +503,11 @@ hash = "480117bbfe84aa4d902cd1f45053ed4df0738f12daf163d83436e5a1ac2804e2"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "c4a2847d98778be30fc2a8c1c5945c5e5cf25f78d12102268865cb268d38a07e"
+metafile = true
+
+[[files]]
 file = "mods/smooth-gui.pw.toml"
 hash = "0b7531dae7df8e5845b3a3407630ef4d278a5d1c4ffeb57420fc717ae2aeb851"
 metafile = true
