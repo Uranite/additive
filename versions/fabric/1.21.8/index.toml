@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
-hash = "5c21bc7913dcfeeebf37acd986bccac4dc93a9dc712cda3d7ea1be0ea868211a"
+hash = "ef26dede226cb459ded8f0a7c1ac6d7c862e6042b395d642f63199f2177f72c3"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "006181c8d6265ba5faa0f1b57873260d990e57f0682c317e7ac15e0734161909"
+hash = "bfb9e819b0ebd4f26843c91f6ba70312e0890ecda2744c95ec89620780b18d8e"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "66652e6f3fdc74b5a0fa562cf7627a35a14322b8f6a346d625762085f84bd684"
+hash = "b5dfd4dd7860a65d69672d8cd7fd3bfe9b896ad2a7f378e1c5c2a16ff2ec5ce0"
 metafile = true
 
 [[files]]
@@ -688,17 +688,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-details.pw.toml"
-hash = "595e82727529453141a910c99f27302a908b5488ca782a9a1d99809276630786"
+hash = "870f127871c2347f9c64006de03906d11655a5799af2a9862a7529bee8b8de1a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-emissive.pw.toml"
-hash = "dcd0431bf5f45761e679ed20cae3e913e02e6eb06e572d3d37e81d002ac47f5e"
+hash = "36f1f87cc258740fa9929f90a784ed91aaf211f75a3973b067d01ec4c12ce926"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "a91bf9ed0c2ff42ceafdea4e94eb4378bc54d807b60fd5486bfb6ffdbfc6ed2e"
+hash = "4a2a1d4fb13506f5011fa74e9ca441e766b6727cff54e5672a2cb945b6d3f17c"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gentler-weather-sounds.pw.toml"
-hash = "9164c7d742c4e3272081c48a9559b00a16c918ce7ed27857a252fc7db18d3cdd"
+hash = "907d76d306276636447fbb12f86d4771646278d35cf2bb24c44e015336713931"
 metafile = true
 
 [[files]]
