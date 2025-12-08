@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "bfb9e819b0ebd4f26843c91f6ba70312e0890ecda2744c95ec89620780b18d8e"
+hash = "ad3427888c13002883c1a0e7caaaec1feb639b6f56bebcf0eaa013ec78a164d6"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "6f9c68611856f909c3233239cdb428f92153a5624abbccc2403ac2bbbb5e9fed"
+hash = "bae1365442ca988c75f32f3faaae50a342aa29e2ee3b9dd69e82a10ec74173f8"
 metafile = true
 
 [[files]]
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2b5d3c348ca65dc07ae8d9796ab4609588788dcad0ea6501f342b0086e5a1fdc"
+hash = "032ca0667046cd2acdc7e4c99154e4f01b3bf353e4293ad24745672e01e296fb"
 metafile = true
 
 [[files]]
