@@ -697,11 +697,6 @@ hash = "36f1f87cc258740fa9929f90a784ed91aaf211f75a3973b067d01ec4c12ce926"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations-objects.pw.toml"
-hash = "4a2a1d4fb13506f5011fa74e9ca441e766b6727cff54e5672a2cb945b6d3f17c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations-x-baby-animals-remastered.pw.toml"
 hash = "7b2a92323e43e906d7dd52629f79f386f192d3867e3d1ce3ecce5beb92d9bf8a"
 metafile = true
@@ -709,11 +704,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-flower-pots.pw.toml"
-hash = "6ea70716dbbdddf6bdbeb137208a38380159048813accecb225ca6d19ce37e97"
 metafile = true
 
 [[files]]
