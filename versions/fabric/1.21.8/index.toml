@@ -717,11 +717,6 @@ hash = "c3a40eb78034c9c013928db9a02a814070d8041e9648c8bd7b5fefbd5f5ba9ef"
 metafile = true
 
 [[files]]
-file = "resourcepacks/lively-turtle-helmet.pw.toml"
-hash = "7994b4e0e6a3e39bad7b960df260c8c9116bff270a5915f38a5e938c3199c481"
-metafile = true
-
-[[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
 hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
 metafile = true
@@ -729,11 +724,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/shaderpanorama1216.pw.toml"
 hash = "44fb3671f9763b0521f73f25571be60c25bbc8be9ef36674a9d3c166ffa77038"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tears-and-cheers.pw.toml"
-hash = "3d8c3db1ee996efe9bc5fdabc59320ad91ff14c295fc30e7b2c2e0ed901ccace"
 metafile = true
 
 [[files]]
