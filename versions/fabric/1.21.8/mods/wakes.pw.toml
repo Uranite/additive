@@ -1,0 +1,13 @@
+name = "Wakes"
+filename = "wakes-0.4.3+1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/8dnFmgrT/wakes-0.4.3%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "24c3739084da541d20f2c32ce0b92150960fab9593979705f0a5f8c8b01a92c0bb91ef8000e39019920b731c558147c285ea20b143c43ab890ff1ec8670110f0"
+
+[update]
+[update.modrinth]
+mod-id = "dlNu0RQY"
+version = "8dnFmgrT"

@@ -138,6 +138,11 @@ hash = "01c5eb93a204f6b917b21aefd8e1c1268c8c0e63a9b6b34c4173bd7c8ff3dca5"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "ab1f565c907acb679036f34ee9a7601766a070a8663be9058936abe78f3c369d"
+metafile = true
+
+[[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "474d386d2f747bc1573f969cdd69363c0554a38bf5a60e5f80331d4baf3a0273"
 metafile = true
@@ -220,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "8cd1bcb8bd326f6a659d28ca8c0795febc84fbc79eec8ef2b85ee15344f30302"
+metafile = true
+
+[[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "aeb55f8c77cb7076cc695b0c8e1599c1bcf7bd95c563f83e6007ab08205b0e08"
 metafile = true
 
 [[files]]
@@ -595,6 +605,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "989b6c4ff3dc08d7994667b4dfc9931a3b15876eabe4f9de7be8939153bb1fdc"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "61bc4e174087e60bf35c8f4ea21763186be5fd21e4aa7d0041e6838fdef3288e"
 metafile = true
 
 [[files]]
