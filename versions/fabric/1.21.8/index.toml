@@ -70,7 +70,7 @@ hash = "8b400926fa2c106000afe3609286259d69491bd725ca2dc7d0a27a3d9ea6dd08"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c71213885593728467f9063ac63c1ba54912732a243a3d1c30f809bcc014d166"
+hash = "27d120cecb99b1dc056f5f2636d144941828f124637cb84667a0d0152d7f3f02"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "ad3427888c13002883c1a0e7caaaec1feb639b6f56bebcf0eaa013ec78a164d6"
+hash = "7db50b8cf17104e1fb7a0b4cc6332cfed473c6294c1bd8a80b16006834ef6f60"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ff166f6f205e4ce227da6fd173e45a8277730137f75f13fa0c47559745105637"
+hash = "77a4661471dbfc2088b017170a68fa0d60e3b7ef8b773d097fbee58e2cda5f3d"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9af4574f848b49a2b11822e81500aebacdb77c416dbcf4502be5feaabfb5f66f"
+hash = "e7e78f8163a6bf6dccf8a04d3ed36c431a824b23c0f797760d7d1ecf1ef4658f"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "1b4530e79094030db3fcf262af621e5ebfb5036f70dfc39c3a2c9010357ceb0d"
+hash = "7f2a6f17964f1bd96dfe189c79190e47cecdebab923d2cf917235d32fe9c6a24"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "94a718b1a3695c96b0df5857e43aa3b911507eee3060e2bcdddb7d2bab367dba"
+hash = "38fdb162f41bdd5604749be34fb21cead391897807428895115829d041fca4f1"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "35487bfa37b15e79fc68f32b6e2575b1fc7d325b634fb54f1370e2ddff92408f"
+hash = "7512cd21d38faca9e0b8b75538188f2e881a5526f128f5fe0ebfef492e1e123d"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "d1d2efbe00e6bf4db535779f1531ea45c7ae3a5ce85690011de738c31f1233db"
+hash = "be5093c096843931eb8dfaefd904043dd2ea6d763f8942fd8779a0fede7bfe1d"
 metafile = true
 
 [[files]]
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "b33036850e44c6a79c3995027144a1758ca16e0f46c36bc068870575e2f4fe26"
+hash = "1435829994c9fcd11b99b0d93ea7e2f78523d3eb9071063b2052bc316e40a7c5"
 metafile = true
 
 [[files]]
