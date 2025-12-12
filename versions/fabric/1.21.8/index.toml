@@ -109,8 +109,9 @@ hash = "2f89f8b5742252466694fa7826e2a28741a4bb6245302673ff94320b74950315"
 metafile = true
 
 [[files]]
-file = "mods/bbe-1.2.0.jar"
-hash = "0675b4499d7fabbffcffc5c4574feeadb511db3362191e97534bc41626900454"
+file = "mods/better-block-entities.pw.toml"
+hash = "0cd41edda7541ac376fcdf911aa7dfc7dec3448505b6c24059836fd6c284c3e0"
+metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
