@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-stand-arms.pw.toml"
-hash = "aa3a2e99793cd7a2fda31d02d49505ecae49bd626d2b6336bc42f4bfb0e7ed0c"
+hash = "51ca4a5cca10cef8a6ed1e12accd6f6a9b4c3331715de01fc47419dc22dd980e"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "2f89f8b5742252466694fa7826e2a28741a4bb6245302673ff94320b74950315"
+hash = "cea71ad36ac75bfd1c23bd2f0d6ec4cc84c857b8483a122eabe051492c775586"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul.pw.toml"
-hash = "ab1f565c907acb679036f34ee9a7601766a070a8663be9058936abe78f3c369d"
+hash = "9fe86c4cbddba128fccda434542b54af3d59e7a9ec7e0613c5a889f678fc7ae4"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "7db50b8cf17104e1fb7a0b4cc6332cfed473c6294c1bd8a80b16006834ef6f60"
+hash = "9e4b7af4e25273baee0d9f2bc9f337d3b71ee52bbdd3d470cdcbb6d7876b1a1e"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "547fcb6481c2cf682b9de98f0a719d27f0ba896d7b06076f2135f2abd470aea6"
+hash = "dc366d0928db32e9221aabf2fc3e39b0a250bff8ebcb6d41e1d7263a30fb5084"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "bc4f9441d69eefd3d48ed921338fbad1d24d0ecc671f755a83de0ad9f6418d3c"
+hash = "959457f4755ab57336e2e23628acb52cc90a72a6e8877294f2bdb21231f82569"
 metafile = true
 
 [[files]]
@@ -305,12 +305,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e7e78f8163a6bf6dccf8a04d3ed36c431a824b23c0f797760d7d1ecf1ef4658f"
+hash = "7aac72ca216e1811cfab54cbae47fae18138b4e358620455fbb1bf4b2ff31682"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "27019526e6b3cc5da5ad5e2db50caa2a14dc815cf48e0a91c7cf1fe610f1bc53"
+hash = "69447ce89ead9e7d4139d3b41112e308e6821f9d2028b4186a6af2024ca75997"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/ismah.pw.toml"
-hash = "a49efdca6c7778cc5353b695eef75576290ff96ee841d4a7854c1763392ce83a"
+hash = "b7d9c3bc562c7160d6bca21eb91ee4d8f1a8099ce54d0d75e5b3db08da262ae1"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "57c94f1e4e7953f963ad9e055a634161d7a4fabbb472e235b6aff96b25728fb5"
+hash = "d9365d6007d5ed93c22634d7a8c538c0615520f1b7ad6a7ed557fac9c787cb6e"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "87c4d42219d3aea70af7aa016e0e4bdfac94d2a4ece9e719e8e84e9203735300"
+hash = "b84cd432bfa63d97601bf6347aecb3395ba8aa6e81c0ec049a8852276b5d131a"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "a6053361914edb8f7760d2c0b39181a8f7a0e697d0401f23a981d45d7f1fabd1"
+hash = "2de9c233610851bc8647e9c0b65a197be3234958169b02ea542c675bc14db559"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7f2a6f17964f1bd96dfe189c79190e47cecdebab923d2cf917235d32fe9c6a24"
+hash = "7ed41c1c567ebd402f9aaef59fe5ccde43d41ab3848da635fd290cc76c5b70d9"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "38fdb162f41bdd5604749be34fb21cead391897807428895115829d041fca4f1"
+hash = "616df92ddb372b5c3f0f5b4718466b90cc906be2f76e1b2ac15a61125b7c7a21"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "bbcf3ad28288df3009f28bc2a3ecfcdb8f6d161c2679eaa6a79575c9619e897f"
+hash = "2647b2b500fd0c6bd135731c33b699e614adb71cc4189e854a81f9f6e744d444"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
-hash = "f02b95d21e78b75d1a1c93296e1dd90dc5d03439958fd1596cb77bbce864663f"
+hash = "ad058767e4c89ce0ca66168f4994ceb6e211da3a3192c3b51e7358a77a902d68"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
 metafile = true
 
 [[files]]
