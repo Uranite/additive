@@ -1,0 +1,13 @@
+name = "Fresh Animations x Baby Animals Remastered"
+filename = "Fresh Animations x Baby Animals Remastered v0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ncfJ93Yj/versions/rEuJGb8n/Fresh%20Animations%20x%20Baby%20Animals%20Remastered%20v0.1.zip"
+hash-format = "sha512"
+hash = "dbe860378e7f73a9131848de8f12186e949bdaf16831153f799bc7bbecc7665ed8ac537ec51fc1ba23cd03b7ce1412f6d48b3f8a752a746154aafb0b9e0c6428"
+
+[update]
+[update.modrinth]
+mod-id = "ncfJ93Yj"
+version = "rEuJGb8n"

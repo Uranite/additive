@@ -1,0 +1,13 @@
+name = "Armor Stand Arms"
+filename = "armor-stand-arms-v2.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GWFnD2zx/versions/eN72TfxM/armor-stand-arms-v2.5.4.jar"
+hash-format = "sha512"
+hash = "2cd3fabc32297f3ee98b1f9cc06b605ebc547c7f65d0fc4eb72e57066888e4240dfbad6ebc016fdba763b30b4930cec6e1858236d5c3ea1709da1ec631c0c751"
+
+[update]
+[update.modrinth]
+mod-id = "GWFnD2zx"
+version = "eN72TfxM"

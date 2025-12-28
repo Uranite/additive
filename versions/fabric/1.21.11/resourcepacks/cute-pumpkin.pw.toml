@@ -1,0 +1,13 @@
+name = "Cute Pumpkin"
+filename = "Cute Pumpkin 1.21.9.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EJtEdO0N/versions/gbdmNiVd/Cute%20Pumpkin%201.21.9.zip"
+hash-format = "sha512"
+hash = "5c5d14f22dda31fca1a0225a952513e2550527d1d59f5f97ed2d89e896cb9b0420ccbb11e0ac34ea28a9221128b7f2915a5b07ea21eab00dac9d35bc83c1afd5"
+
+[update]
+[update.modrinth]
+mod-id = "EJtEdO0N"
+version = "gbdmNiVd"

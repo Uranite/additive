@@ -1,0 +1,13 @@
+name = "Pickup Notifications"
+filename = "pickupnotifications-2.0.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wWiJfmyy/versions/C8Lp2yx9/pickupnotifications-2.0.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "dbf04b8e4c6e43b758adad85b37c2d6e9e70ab9df8310018f0770d7e3e9d417d36c48c3b71ea6bc34f625e4334bfa76ebc3b4ccc32d5bbdd463988a9f6ca5d89"
+
+[update]
+[update.modrinth]
+mod-id = "wWiJfmyy"
+version = "C8Lp2yx9"
