@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "34f57198f49251aa184ff63f1a875dd7287df5cf852be074073b19e680a787a1"
+hash = "1f89219b5c6efd42d7e001db9dca711d5dfcec5c6d050149aacab8a957da34f8"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2b5f89d4fe57400765a94259ee42078b5f59da0c41bdaa3609ec2585994465eb"
+hash = "b31d4cc0fad12c6dca29477d3f100b0d3f37c19c7b52170f92e92cd109440a30"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/ismah.pw.toml"
-hash = "b7d9c3bc562c7160d6bca21eb91ee4d8f1a8099ce54d0d75e5b3db08da262ae1"
+hash = "6f3aae9ad4860476c3114f30163574c9d3a23dc1e89084c9016b2ac6edcc5fbc"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "dbd1daf4f2a4dbb604ac224fdbe2fdee0892401e85a828f18039490e31f83eb9"
+hash = "59fb783a90faf3e21e9031af44b90a7516f4f0b8a12c1be5bf2a8d3432518d73"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "7512cd21d38faca9e0b8b75538188f2e881a5526f128f5fe0ebfef492e1e123d"
+hash = "33a21e0b5746735bddbf3431313e54dcdbda45e8fd796fb981b82ee9b3e7a109"
 metafile = true
 
 [[files]]
