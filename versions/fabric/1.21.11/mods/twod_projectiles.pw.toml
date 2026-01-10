@@ -3,11 +3,11 @@ filename = "twod_projectiles-fabric-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/W2K5WNdH/versions/VGlEFyTA/twod_projectiles-fabric-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/W2K5WNdH/versions/nBTztLJD/twod_projectiles-fabric-1.1.1.jar"
 hash-format = "sha512"
-hash = "807a6f9a3affce8fc824dd7ac5cdaa75703b62e008a1ec396feebdcbf2bc50ab815c0363055b727b0a4d6765bcd69e3725e59a72c3ee171971b095b326d3d264"
+hash = "a627766c04a6c8509f14feb3d774d0a5c04665cad45f86f4c0cb2c5c68869823f65bfd9e6593115c5e948009af42c0725c4ef15c08d2d602dd004458f97374cb"
 
 [update]
 [update.modrinth]
 mod-id = "W2K5WNdH"
-version = "VGlEFyTA"
+version = "nBTztLJD"
