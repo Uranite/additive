@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-stand-arms.pw.toml"
-hash = "51ca4a5cca10cef8a6ed1e12accd6f6a9b4c3331715de01fc47419dc22dd980e"
+hash = "7ab5d1cbf435ff9604022dbee9c506944ed0842325d5ec9f8e2c03d9cdc2de4d"
 metafile = true
 
 [[files]]
@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "cb1b225bb04b606ab22b2378048f2e040cff6ba9acdd1013daa054abd606b265"
+hash = "f25fe10d36c668ac9b4c564ade627cf42a5b6e7dccd01d5377be8e2033c75f5b"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "0053fa40707004c6c12761ae8e85e4b7ae892041062d74b700608486dad4ac7c"
+hash = "7b39ae9c766853820b9aca8685e451208012aec3ab4b560a22b54ec9fd3ba3f3"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "092508af534efeb380b9551663980ab1f701d88583a63227d02cb02843335f7a"
+hash = "3574ca8f34cf9e005046179d449af1abd0c7475d3889d2cb2bc187ff28b360d1"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
-hash = "4a4d1e1b5afdc1cf7f810321315e26662ff92b0c10abf85203174773d6075e14"
+hash = "7c8eb035d52e3110bf648302e834b2d999519d71ceca438619defa9b19b9cbb0"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "e909ee062fb34d4f2c749133117339281de6b910791369e566696b7d3a92c704"
+hash = "3ffdd9c3e396bebf6ae85e406ddc146424cd2c43e34e2cc46262ab0e0d0b34ab"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6f8f908c216a72efc2aab289578eeb4399a259eae29fbac8bcc88df840e3c0bf"
+hash = "b748f3c5782acd14bc088ab235b949bd3237a246c7221e06b7bc25d9310daa73"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "77fefae63ffcc1290c584c1b7d1be1a2725ae9ed2424c44c8b81f3640cb69ccb"
+hash = "61e1149d5642bb6bd3d2c718054107fa7a6f1b1044f5573d5ecbab3b94f9e281"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "c8da9df94366869dacc80807029f14edb4c583420b7b2d5193d6da06e85150ea"
+hash = "6324b634d5e464cf2606cce4e1d9b923701cad31764858d982fe0738129e0e4e"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
+hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
 
 [[files]]
@@ -436,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "b39ee5a28d5548d591e8f396d2407893affcc71470d7c058d3287039a960e55d"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "df86d48b2c34416f9370fef56570909258c142f3ce35e85878688c2c9ae65585"
 metafile = true
 
 [[files]]
@@ -555,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "111767e94eca83895f62cc4976223265dbdd8287e5736ca57ce3a9a68fe60dbe"
+hash = "26ef42ac859897c373a9b1556db154a0d227e2399a11cbcafde5e7ed8a7969b4"
 metafile = true
 
 [[files]]
@@ -575,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "158242203ca5ed82f7c2628f0c2ec05c94a93d6102a8fd88a21aa9fe30afee76"
+hash = "5aed63b141e338e9eace980e591b108312cb68d053b33eb54f2a2d749cc20514"
 metafile = true
 
 [[files]]
@@ -605,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "d74d244b3524bea2326becd2ceaa27b8e231156aba33448533cd29b12ed48318"
+hash = "671e1badbd1d6b1fe20851202a5328f0600534af609afb0b8b1a0840aa222246"
 metafile = true
 
 [[files]]
@@ -699,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/theones-eating-animation-pack.pw.toml"
-hash = "4de101c76fdb36e502852b74de62b64b6221f65819ba1a0de7ac074f3f450e0a"
+hash = "5eb0b934c1d51c723ee22536d0eb72f4f4094c8cd0988224473fb3b6d841e6e8"
 metafile = true
 
 [[files]]
