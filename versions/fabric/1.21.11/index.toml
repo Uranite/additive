@@ -94,11 +94,6 @@ hash = "7ab5d1cbf435ff9604022dbee9c506944ed0842325d5ec9f8e2c03d9cdc2de4d"
 metafile = true
 
 [[files]]
-file = "mods/axolotl-buckets.pw.toml"
-hash = "2a138f455ec59c5be9d421370d8e168279fb94833c62d76db06431e429377be4"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
@@ -106,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "f25fe10d36c668ac9b4c564ade627cf42a5b6e7dccd01d5377be8e2033c75f5b"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
 
 [[files]]
@@ -214,6 +214,11 @@ hash = "062a1e685f7993953886c40fdfdd4106726081da54e7e6cde014c946c7948475"
 metafile = true
 
 [[files]]
+file = "mods/effectual.pw.toml"
+hash = "787ed61e0521240eaa0a1e3b22269d947ba2f779d0f896be54641bb8a83cf3e7"
+metafile = true
+
+[[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "3375ef7b3bcce41933167417eecefd42e3330d4fec07b70864ac5b479de8aae7"
 metafile = true
@@ -284,11 +289,6 @@ hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
 metafile = true
 
 [[files]]
-file = "mods/horse-expert.pw.toml"
-hash = "0b1417614f01ffdb6608a56551b3cddd41138a2eda89c2ba464372e81f617e2a"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
 metafile = true
@@ -301,11 +301,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
-metafile = true
-
-[[files]]
-file = "mods/ismah.pw.toml"
-hash = "1b45f6fa66cd494b35ef5cf2b04359d41ac9b01554233706950e818d562d09a8"
 metafile = true
 
 [[files]]
@@ -394,6 +389,11 @@ hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
 
 [[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "d762a3e4156c8ce27be1fca0c8a1c095cfd29d321885eda24353a351ec1d9c80"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "4c4f8569adba682de05800e73690fec8ce64d9d86341862ac6d9315d9dec01eb"
 metafile = true
@@ -424,6 +424,11 @@ hash = "526836880e4bfb6f98fad732b2aa5a2b7d4ea6cbe9238be6a956f82472e9b934"
 metafile = true
 
 [[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "d2d2a0fb926dceccfa28b848ec2505a229ed06ae33c7f5409dc3c14a3cdfc854"
+metafile = true
+
+[[files]]
 file = "mods/pickup-notifications.pw.toml"
 hash = "044924de72e8b06af4ec1df640a5a7ad3e764fd53d4d4b54c81797b2f08c7b91"
 metafile = true
@@ -440,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "df86d48b2c34416f9370fef56570909258c142f3ce35e85878688c2c9ae65585"
+hash = "3c56d2ec987823fb6470e99b48ddc954d79d76d7f1a89a16dbb74d144a94211e"
 metafile = true
 
 [[files]]
@@ -549,6 +554,11 @@ hash = "7e08e4f76649a2fba00bb6eae7b59af18513c01140b50cd94299c70232c597c9"
 metafile = true
 
 [[files]]
+file = "mods/tightfire.pw.toml"
+hash = "231d70bed9db87db54bed289c9e6dbcf7bab7a702e6b0f1e82a26d783d3893cb"
+metafile = true
+
+[[files]]
 file = "mods/twod_projectiles.pw.toml"
 hash = "a3d355ab68c581b91d20b9aef9589170d68e392ad12eccd9aa812aaa10ff317b"
 metafile = true
@@ -633,11 +643,6 @@ hash = "1ddef5225c80f959a9a74e9f765dc2bcbd2979c87f75e34171223e2789a9e235"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-trident.pw.toml"
-hash = "cce40d714a616432aec1e5ea090ada2503b9de6db17381c2b5780b4386ecc9cf"
-metafile = true
-
-[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "e8a4a5ded3fd3ad71f8882d870541a3edf5d8286d9182e9fd8c5990e570e7463"
 metafile = true
@@ -648,16 +653,6 @@ hash = "91569b33d47e29cc8ac18b524443ea94432c3ee94d1f18e5c46691d55fb22cff"
 metafile = true
 
 [[files]]
-file = "resourcepacks/detailed-animations.pw.toml"
-hash = "906e24b906e3814053d3c83ee03722a14daffd139db9771c14aec6f086b7f40d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/drodis-blazes-x-fresh-animations.pw.toml"
-hash = "df3860935e4d3a6aa0bd3a7aa1aa6e9d0703204db231a37f60f983bfe0ed05f7"
-metafile = true
-
-[[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "5720b84ac67aa87c1cc800645f8a3c7574780d901c7f60349ffc99cc3eadf1cc"
 metafile = true
@@ -665,6 +660,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
 hash = "ad058767e4c89ce0ca66168f4994ceb6e211da3a3192c3b51e7358a77a902d68"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
 metafile = true
 
 [[files]]
@@ -713,11 +713,11 @@ hash = "5eb0b934c1d51c723ee22536d0eb72f4f4094c8cd0988224473fb3b6d841e6e8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/visual-armor-trims.pw.toml"
-hash = "02633679e746f2b298fc877690c0ae86d5c76b2c5a1f8b8a78e1560f788b8987"
+file = "resourcepacks/trabens-3d-arrow-models.pw.toml"
+hash = "05cd90ed0e5defd1385ea70771f7c4b704825b40246527ff36db2cca2e8b9199"
 metafile = true
 
 [[files]]
 file = "resourcepacks/visual-effects-plus.pw.toml"
-hash = "99f436a826adba9cd1f24ed03a64f06e79572946096794216bfbc6cc19342672"
+hash = "ab1ca40f37cf709d680ba1a47e4fa8d9edda3f2945ac2986cabc7f3cc46d396f"
 metafile = true

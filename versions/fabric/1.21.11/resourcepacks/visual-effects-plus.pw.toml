@@ -3,11 +3,11 @@ filename = "Visual Effects+.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZyZknBVG/versions/GlZaJQhW/Visual%20Effects%2B.zip"
+url = "https://cdn.modrinth.com/data/ZyZknBVG/versions/gIXEMDhD/Visual%20Effects%2B.zip"
 hash-format = "sha512"
-hash = "0bcddd093d7c198d8bd5b2c8afebd5456f0270c9457524c703f9ab595591de2e69a381561450ba9db3e7beb535c5e2da8b8347e8a488ca8c8dd8da28f68023d3"
+hash = "452991069d63cebd151c0e1cd2c01f44952985abc2d53b9a281408320bfe9ef5f606262669edc65c08ed1c11a8eef9c7fa4938589e3b2968fc6196375907f94e"
 
 [update]
 [update.modrinth]
 mod-id = "ZyZknBVG"
-version = "GlZaJQhW"
+version = "gIXEMDhD"
