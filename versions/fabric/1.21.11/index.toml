@@ -559,6 +559,11 @@ hash = "231d70bed9db87db54bed289c9e6dbcf7bab7a702e6b0f1e82a26d783d3893cb"
 metafile = true
 
 [[files]]
+file = "mods/tlib.pw.toml"
+hash = "d34e91d8cf3e7ae86e51bc52e2c40a86674925f2ade6a7392d1cea1f5ccf6146"
+metafile = true
+
+[[files]]
 file = "mods/twod_projectiles.pw.toml"
 hash = "a3d355ab68c581b91d20b9aef9589170d68e392ad12eccd9aa812aaa10ff317b"
 metafile = true
