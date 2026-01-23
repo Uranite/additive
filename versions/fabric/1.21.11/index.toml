@@ -34,7 +34,7 @@ hash = "c7acba3f6019a96750b90508685939ab0801876a9d6f40475e9310eb05d620ed"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "e46272cc1db3b1f8c7d6bdc0c89d0b2e336a8d30ad0081e645f76c427be3cbec"
+hash = "e2eb04a63314ed1e8e43f05ae6f9716908f5389e0a0fd747169bdb04c27408ed"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -626,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "941777ea339a9e6c10af302decfff1e5c590fa4c2f06ffb813fbaa22c674d970"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "e28ec610994a00e1ad98efdd43059cbad311bbd12762a402c2e512d781b9bed4"
 metafile = true
 
 [[files]]
