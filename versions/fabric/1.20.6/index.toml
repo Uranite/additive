@@ -539,10 +539,6 @@ hash = "e2b2a4efae8ee22c811a54c2eea8f593c11444e673036353ba972c6cd104f397"
 metafile = true
 
 [[files]]
-file = "resourcepacks/HEVI FreshAni Activator.zip"
-hash = "0b6d8f08e3d428cdf2bcbe685e2e0523f569268b8b63cb30f74fcf2276e7cbc5"
-
-[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "c72c4abb983e9c87f2b632dbe43b2ded33cc5d59987a80b2029492d31f534bb8"
 metafile = true
