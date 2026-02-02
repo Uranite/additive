@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7b39ae9c766853820b9aca8685e451208012aec3ab4b560a22b54ec9fd3ba3f3"
+hash = "8f5e0a869502481967d2863ecf637d77896505feb98bf0259d3f477e728d03a7"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4c4f8569adba682de05800e73690fec8ce64d9d86341862ac6d9315d9dec01eb"
+hash = "cda48efd057d3682a962ddc1149486500f394fb8f1be98f5101658795a2020e9"
 metafile = true
 
 [[files]]
@@ -430,12 +430,12 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+hash = "ab6def9d98d3f5bf12f78845bdb770a19d5ca590c571e60184e537ffa14dcbee"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "b39ee5a28d5548d591e8f396d2407893affcc71470d7c058d3287039a960e55d"
+hash = "62757d6d2b91ff8bc8e43d29a9b511724b07c45f72d60445f1c2341a5d2586c4"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "cf2a50560f03613b7356103544a1f11d38da73fc445b5ec0b5a29c10543c3cfd"
+hash = "3fcc0e1833d5ad122a623027acad67e5e3057066fec9974584995ac555d074f3"
 metafile = true
 
 [[files]]
