@@ -728,6 +728,11 @@ hash = "907d76d306276636447fbb12f86d4771646278d35cf2bb24c44e015336713931"
 metafile = true
 
 [[files]]
+file = "resourcepacks/glow-ores.pw.toml"
+hash = "e831b3072d7bda4f701f55970089d8ee3bd905b7ef92d94c4dfd85a1bb08f1d4"
+metafile = true
+
+[[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
 hash = "9ac51688a9bcc419943a29bea69507ab1ca5b2a7c8769f36fca520ff438eab58"
 metafile = true

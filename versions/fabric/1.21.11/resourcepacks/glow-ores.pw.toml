@@ -1,0 +1,13 @@
+name = "Glow Ores"
+filename = "Glow Ore (Border) 1.21+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JFwkTemi/versions/vyZ9dLBL/Glow%20Ore%20%28Border%29%201.21%2B.zip"
+hash-format = "sha512"
+hash = "6bec7746c4252e55c15efdd33b8202fd4a68bd61069d61dd9c323371276efc3b96ecfa0d83d058fbe0c0a16d72a7e4b00c6e33a51d7789b2a751b75981481555"
+
+[update]
+[update.modrinth]
+mod-id = "JFwkTemi"
+version = "vyZ9dLBL"
