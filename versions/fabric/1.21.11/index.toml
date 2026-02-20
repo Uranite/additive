@@ -209,6 +209,11 @@ hash = "062a1e685f7993953886c40fdfdd4106726081da54e7e6cde014c946c7948475"
 metafile = true
 
 [[files]]
+file = "mods/effectual.pw.toml"
+hash = "787ed61e0521240eaa0a1e3b22269d947ba2f779d0f896be54641bb8a83cf3e7"
+metafile = true
+
+[[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "3375ef7b3bcce41933167417eecefd42e3330d4fec07b70864ac5b479de8aae7"
 metafile = true
@@ -220,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0a5a6d284cc41f91edc2f383ecd97e02f3dc6ecd1e7c2277e6178bd47c69853f"
+hash = "602e3190ab8e4c3c188183a024a6efee2dedcca4df7df54fa318a20081454f56"
 metafile = true
 
 [[files]]
@@ -365,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0544fefc6f04f2b408b2c6b4dd3e4bf7d0a4048f1fad6ddf63357549d7446165"
+hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
 
 [[files]]
@@ -385,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "cda48efd057d3682a962ddc1149486500f394fb8f1be98f5101658795a2020e9"
+hash = "00bc3af6def79868e126ea53faf06bbad004f094fc26d60e7b4a1eda067e7311"
 metafile = true
 
 [[files]]
@@ -560,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "8216a46c6b22fd9918cf835b87f7ea7a26ef02496a5162de23db9474de9408f9"
+hash = "095c72f3e53174c217c4b6a8746e3e9ef51289ecb38ecb6e29db79800ff0c911"
 metafile = true
 
 [[files]]
@@ -615,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "c2024c4263e4d7a84563f1ea1bbd44c39cf3b46deac6be89d0c9b7a68165c60a"
+hash = "c1bcb09afe109ba11ff9751f7e6b30fdabc3679546c3ff12c2589ebdcbeda0d4"
 metafile = true
 
 [[files]]
