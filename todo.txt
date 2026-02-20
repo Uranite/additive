@@ -1,7 +1,10 @@
 1.21.11:
 Configure the visual effects
-FA+ player makes the hand too low (possible conflicts/incompatibility with 1.21.11)
+List of visual effect mods:
+particular reforged
+effectual
 Visual Effect+ doesn't work (remove?)
+check with 1.21.8 (the latest version without missing mods)
 
 Add this when it is updated to 1.21.11:
 Astrocraft

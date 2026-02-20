@@ -269,6 +269,11 @@ hash = "11c608b6ef3ca111e9bccd9c4aeb8c47cf0b1f5db48054abc89d6a5f1a978aac"
 metafile = true
 
 [[files]]
+file = "mods/fwa.pw.toml"
+hash = "f96d7aea4eaa2d0817ee73504127829b1783b0555569d95ef6c4d9a96d56a3d5"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
 metafile = true
@@ -411,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "526836880e4bfb6f98fad732b2aa5a2b7d4ea6cbe9238be6a956f82472e9b934"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "d2d2a0fb926dceccfa28b848ec2505a229ed06ae33c7f5409dc3c14a3cdfc854"
 metafile = true
 
 [[files]]
