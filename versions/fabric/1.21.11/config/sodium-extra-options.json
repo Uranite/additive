@@ -1,6 +1,7 @@
 {
   "extra_settings": {
     "show_fps": true,
+    "show_f_p_s_extended": true,
     "show_coords": true
   }
 }

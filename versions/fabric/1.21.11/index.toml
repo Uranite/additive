@@ -46,11 +46,7 @@ hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "e3927c55ce0508a6328e373e1811191836fe56933f73d1fb320a1df21154081d"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "5358a572a26d8008c6c49e00ab3a0fe65dd89761cb86a235496900b587b9526c"
+hash = "e656a98db23f811a5e6aaa9f6475b730d044444ee9763debbed985799466bc1f"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
@@ -660,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "234abc5f1b7418493ca61696fc7a0467361d987e8f02455d40e780717bfab29e"
+hash = "9d77846de5ca4c00fdfd08763b9e0af701bc1f4dba5fd964cc9b09e2b5255dce"
 
 [[files]]
 file = "resourcepacks/3d-ladders.pw.toml"
@@ -704,11 +700,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-details.pw.toml"
-hash = "870f127871c2347f9c64006de03906d11655a5799af2a9862a7529bee8b8de1a"
 metafile = true
 
 [[files]]
