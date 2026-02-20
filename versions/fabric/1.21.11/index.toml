@@ -668,6 +668,10 @@ hash = "9991bf0f439efc1eb2d7c0087315a460e32240f7a7f6fc4abe6f486d8352a391"
 metafile = true
 
 [[files]]
+file = "resourcepacks/HEVI FreshAni Activator.zip"
+hash = "344ad3e61444742186a0b2dd47c8ca8526b417cc11a82e6a9cdb0255ebb62301"
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "1ddef5225c80f959a9a74e9f765dc2bcbd2979c87f75e34171223e2789a9e235"
 metafile = true
@@ -729,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/glow-ores.pw.toml"
-hash = "e831b3072d7bda4f701f55970089d8ee3bd905b7ef92d94c4dfd85a1bb08f1d4"
+hash = "08b0b0730bbc4feeec42803736b4911e4315e8d210639a9563daa82a4930f14b"
 metafile = true
 
 [[files]]
