@@ -703,6 +703,11 @@ hash = "9ac51688a9bcc419943a29bea69507ab1ca5b2a7c8769f36fca520ff438eab58"
 metafile = true
 
 [[files]]
+file = "resourcepacks/joyful-motions.pw.toml"
+hash = "a121e7c899f9f7db4272f859d5fd5ee5eb3d83ea4b68e23898aa8b11fa4f1ffd"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
 hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
 metafile = true
