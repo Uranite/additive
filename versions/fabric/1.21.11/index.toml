@@ -354,6 +354,11 @@ hash = "ad1110e02639ce1dd8afd73ca567d44fbe592c662d656fee567b6c1f7ced308d"
 metafile = true
 
 [[files]]
+file = "mods/mas-effect-updated.pw.toml"
+hash = "ccbf402497df2238bfe8b191b24643b853b47499a2c2a3a240de8550bbf98953"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
 metafile = true
