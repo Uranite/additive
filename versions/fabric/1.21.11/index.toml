@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "1fbf9c1961191d7246387b0c95bf48242b595f999af0c64401cac6b15a11be22"
+hash = "e03153de5a73e99125c2910a480189eb4b1fa2cca3237c4be72fab248a82516f"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "3b8cb57ec1acea84e1b36def4bc82b3d71d229759cfa5f96e7480ed5f5a77f01"
+hash = "759944d7ca5c65bcb42515f56418f5201e942463bb5fe2904f05e98dba352041"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "c1bcb09afe109ba11ff9751f7e6b30fdabc3679546c3ff12c2589ebdcbeda0d4"
+hash = "c2024c4263e4d7a84563f1ea1bbd44c39cf3b46deac6be89d0c9b7a68165c60a"
 metafile = true
 
 [[files]]
