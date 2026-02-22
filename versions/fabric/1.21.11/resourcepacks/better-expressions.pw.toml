@@ -1,0 +1,13 @@
+name = "Better Expressions"
+filename = "Better_Expressions.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvcRMEKh/versions/UBEmMGFI/Better_Expressions.zip"
+hash-format = "sha512"
+hash = "cbd609111203f2b48b275f23ae6cd221c780a359cb6149b9cfeccd38058256211794b76eb1bf8cb9ae4602519ed21a16592c12113e19ac49ecdcede2590afe9f"
+
+[update]
+[update.modrinth]
+mod-id = "nvcRMEKh"
+version = "UBEmMGFI"

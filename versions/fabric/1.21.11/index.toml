@@ -91,6 +91,11 @@ hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
 
 [[files]]
+file = "mods/bedrockify.pw.toml"
+hash = "59777cc20805f8c5216c838644e98000bf283e0d0388141781bb20b79e1b3dd7"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
@@ -186,6 +191,11 @@ hash = "eabf339ea4474e2aec057f993e149d5c45633b8432b05362fb0d430aade9d457"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "728a2c9d389440f1f8e80324ff23824135a3baf86bef5752ba6d8cf1c53d1ac7"
 metafile = true
@@ -238,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+metafile = true
+
+[[files]]
+file = "mods/fancy-toasts.pw.toml"
+hash = "e9b9c0c5630d3dde57842d1ccdbaaafcef56602dfaa20309c2be7ea892222e5f"
 metafile = true
 
 [[files]]
@@ -601,16 +616,6 @@ hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
 metafile = true
 
 [[files]]
-file = "mods/voxy-worldgen.pw.toml"
-hash = "e7f29074af1c2c983b2658b79f2123184840e8a02868aa970a0c955b908452fb"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
-metafile = true
-
-[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "3f5679e5212d0cb5e6700b4d13001d435e60fb9151121e01f83d9f10d296eba5"
 metafile = true
@@ -655,6 +660,11 @@ file = "options.txt"
 hash = "9d77846de5ca4c00fdfd08763b9e0af701bc1f4dba5fd964cc9b09e2b5255dce"
 
 [[files]]
+file = "resourcepacks/3d-default.pw.toml"
+hash = "7586b798faa2894f293b307a9a0d5ffbd4d6a67192fb4e68b5b3c9e813070fb8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/3d-ladders.pw.toml"
 hash = "9991bf0f439efc1eb2d7c0087315a460e32240f7a7f6fc4abe6f486d8352a391"
 metafile = true
@@ -662,6 +672,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/HEVI FreshAni Activator.zip"
 hash = "344ad3e61444742186a0b2dd47c8ca8526b417cc11a82e6a9cdb0255ebb62301"
+
+[[files]]
+file = "resourcepacks/better-animations.pw.toml"
+hash = "d1538a5b5c44fc30af62d60ade7763c67f72faa83d2f8295f3272f053940072e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-expressions.pw.toml"
+hash = "eaa44f3e6d83d48ed2c47a1eebbf03e643051d3af1f1ea1fad4060bf14f5ad61"
+metafile = true
 
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
