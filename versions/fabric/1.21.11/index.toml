@@ -91,11 +91,6 @@ hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
 
 [[files]]
-file = "mods/bedrockify.pw.toml"
-hash = "59777cc20805f8c5216c838644e98000bf283e0d0388141781bb20b79e1b3dd7"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
