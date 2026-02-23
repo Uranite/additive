@@ -1,0 +1,13 @@
+name = "Improved Sign Editing"
+filename = "improvedsignediting-1.21.11-1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EWQifKYI/versions/bGudoxkg/improvedsignediting-1.21.11-1.6.jar"
+hash-format = "sha512"
+hash = "5287cde5b873045a6720693473450cdf8e2961825cbe11d89f7e3dee87bc25eb4f6182e7000652c03293d5fdfda2b97bc4f0f86016c63d96b232b8a2dac74540"
+
+[update]
+[update.modrinth]
+mod-id = "EWQifKYI"
+version = "bGudoxkg"

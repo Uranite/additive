@@ -116,6 +116,11 @@ hash = "5ab81359d4654812c2f4dd40f6db5bb51e217a228827d5cc351a40611f05d7de"
 metafile = true
 
 [[files]]
+file = "mods/bottle-your-xp.pw.toml"
+hash = "a69bde83167dd4df0f3f57fcf0adfef5cdf06a67c6ab1976835a450a86328cf9"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
@@ -211,6 +216,11 @@ hash = "3ffdd9c3e396bebf6ae85e406ddc146424cd2c43e34e2cc46262ab0e0d0b34ab"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-level-cap-indicator.pw.toml"
+hash = "1c92efe85f893a256b1706adc5fcf3fd534153ccafdbaec4958328191109ee9c"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "602e3190ab8e4c3c188183a024a6efee2dedcca4df7df54fa318a20081454f56"
 metafile = true
@@ -276,6 +286,11 @@ hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
 metafile = true
 
 [[files]]
+file = "mods/hide-experimental-warning.pw.toml"
+hash = "500ed3fa9a182c4d4f59ef91abf3d01c0a11097140b88b349c1ccdda586a2caf"
+metafile = true
+
+[[files]]
 file = "mods/hold-my-items.pw.toml"
 hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
 metafile = true
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
+metafile = true
+
+[[files]]
+file = "mods/improved-sign-editing.pw.toml"
+hash = "b09f3c807a6addbef8652585613eabc621d2744285db2e3dc4b3bbb2ae2e6eeb"
 metafile = true
 
 [[files]]
