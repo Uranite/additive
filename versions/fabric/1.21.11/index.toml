@@ -191,11 +191,6 @@ hash = "eabf339ea4474e2aec057f993e149d5c45633b8432b05362fb0d430aade9d457"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "728a2c9d389440f1f8e80324ff23824135a3baf86bef5752ba6d8cf1c53d1ac7"
 metafile = true
@@ -613,6 +608,16 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
+metafile = true
+
+[[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "e7f29074af1c2c983b2658b79f2123184840e8a02868aa970a0c955b908452fb"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
 metafile = true
 
 [[files]]
