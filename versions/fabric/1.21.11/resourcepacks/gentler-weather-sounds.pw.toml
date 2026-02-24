@@ -1,13 +1,13 @@
 name = "Gentler Weather Sounds"
-filename = "Gentler Weather Sounds 2.1.0.zip"
+filename = "Gentler Weather Sounds 2.2.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GB2EXKpD/versions/DBzbXaOH/Gentler%20Weather%20Sounds%202.1.0.zip"
+url = "https://cdn.modrinth.com/data/GB2EXKpD/versions/h9LZVq3I/Gentler%20Weather%20Sounds%202.2.0.zip"
 hash-format = "sha512"
-hash = "450ee2013e2b89f8a2eafe1848905374a4ec94e8bafb50d34d7847678512fe914970288439a2ffd681ca512d045f9f2cfed100fd2cade28489eb1c4acd719c78"
+hash = "b721a957ceca1d16349406fb5bbf700157eb4d4b4f1e327d94aec8612a7b3aad0f87da0c09afde78ab96a015a2bf40d73486a2e5915795a180eb795d95c33a95"
 
 [update]
 [update.modrinth]
 mod-id = "GB2EXKpD"
-version = "DBzbXaOH"
+version = "h9LZVq3I"
