@@ -13,6 +13,10 @@ file = "config/cape-provider.json5"
 hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
 
 [[files]]
+file = "config/fastquit.toml"
+hash = "de22af584433dfdfb4a14b85091bfbd5c6be697a306499c2d7c75740658dbad4"
+
+[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
@@ -88,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "cad0a9ff3fa91278e077049f8e8db3e51e8ccbaa1990f8291660e8bc088b548a"
 metafile = true
 
 [[files]]
@@ -251,8 +260,18 @@ hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "fcdaaad3ac86edfe8b2dd506b9e1303c70636251fc275f21f7a4a2efa324a8e8"
+metafile = true
+
+[[files]]
 file = "mods/fancy-toasts.pw.toml"
 hash = "e9b9c0c5630d3dde57842d1ccdbaaafcef56602dfaa20309c2be7ea892222e5f"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "4657d883a293eff316a0a2a84da0d8b6f49ca1dee9611c86be513ae96ca33a89"
 metafile = true
 
 [[files]]
@@ -462,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "59a0d75570f7ad8a2809ad6f9247b83deab41d82044945e2457b3c62b13443e2"
+hash = "44a47033d8f1e2d4ce103790ba8225c092be761030c1a422942fd464fbcc8f91"
 metafile = true
 
 [[files]]
@@ -632,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
+hash = "0daa4e02968a34979c5a13772883d2f3ae4c92943461ba069667d15f42bb6a94"
 metafile = true
 
 [[files]]
@@ -694,16 +713,6 @@ file = "resourcepacks/HEVI FreshAni Activator.zip"
 hash = "344ad3e61444742186a0b2dd47c8ca8526b417cc11a82e6a9cdb0255ebb62301"
 
 [[files]]
-file = "resourcepacks/better-animations.pw.toml"
-hash = "d1538a5b5c44fc30af62d60ade7763c67f72faa83d2f8295f3272f053940072e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-expressions.pw.toml"
-hash = "eaa44f3e6d83d48ed2c47a1eebbf03e643051d3af1f1ea1fad4060bf14f5ad61"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "1ddef5225c80f959a9a74e9f765dc2bcbd2979c87f75e34171223e2789a9e235"
 metafile = true
@@ -730,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
-hash = "ad058767e4c89ce0ca66168f4994ceb6e211da3a3192c3b51e7358a77a902d68"
+hash = "2b2660b21ab5873f9f153abab20b9410f9cb7f52e9b09b91e9348230d124fea8"
 metafile = true
 
 [[files]]
@@ -745,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-emissive.pw.toml"
-hash = "36f1f87cc258740fa9929f90a784ed91aaf211f75a3973b067d01ec4c12ce926"
+hash = "f16201a6833ad77ee9c2e9d4c79a0fcf697b048429e3743d62cb9d80999863bc"
 metafile = true
 
 [[files]]
