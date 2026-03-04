@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "8d24c50e86aad7649057b65c47ea5dddffa6b3aecf5bfe31f63bb40ced4973c7"
+hash = "41e20e663cba5b05aa5672fe703092aa1db34633956241f0cbfc76b85128c7d5"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
+hash = "037350c2aa47c78e4223154291da5d6dd51e515015d78741f64d3d7b71e25111"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "c4aecd36cc2a07b48538ab2eced4eabdc1b53af9e76ee91581921db2ed689c7e"
+hash = "20a8eb9b49cb58482a35ac4e9d068cd70c23cd86555494bbfacc2056b2131f44"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "f96d7aea4eaa2d0817ee73504127829b1783b0555569d95ef6c4d9a96d56a3d5"
+hash = "a4197ca2d48904f9eee2ec5328326aaab152b10e9029b9abc01eabbf9376d178"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "1964fd3c3ffdc01dc769be1ebc1268a96daa4f34dce34c270d8d3e2dacbb190a"
+hash = "35a5a8a0cada2865a5f10c483c4e8a0f0884db4ab78982040cc3bc45d25c978c"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "96adacea9b10d8b45261e0d228112bde178bd9a445da4e6725eadf58c99deb54"
+hash = "61734eb5cdc29fe19d95b59aa6963938568844f45cfefe0738dc6219a7065820"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "8c3caeb7c006e6661782245deb0c25d7a4c1e6b29acdc35c9dd8ee25e874eb93"
+hash = "06f573e085119fa750cb3a5e45a551f05ae3cb77a5c4ba90bc0137c56e6b03ab"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
+hash = "7d5967a6fd97f0ae7107bdaf548061ec54bff059fee062f785f80becc44d0e55"
 metafile = true
 
 [[files]]
@@ -616,12 +616,12 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
+hash = "10daac97634014be6358aa3515589c173378ef72b96fd9e7aeafed43dc4cfc81"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "095c72f3e53174c217c4b6a8746e3e9ef51289ecb38ecb6e29db79800ff0c911"
+hash = "5e225351151fac68df34849dbe82b95f1c86e88d38acff0523246cff6cc7bd37"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "4dd22192db66cc2819ec1ebae733de139d1d34fddfd0c7166e8dccd1098d5386"
+hash = "85fa577d4b139a7ec47bc75c94ab71342c2c8b46cded470d9cce6d04a8fd757d"
 metafile = true
 
 [[files]]
