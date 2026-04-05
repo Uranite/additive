@@ -1,13 +1,13 @@
 name = "Voxy WorldGen"
-filename = "Voxy World Gen V2-1.21.11-2.2.2.jar"
+filename = "Voxy World Gen V2-1.21.11-2.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xT0lnNE9/versions/7wUSa6iF/Voxy%20World%20Gen%20V2-1.21.11-2.2.2.jar"
+url = "https://cdn.modrinth.com/data/xT0lnNE9/versions/68QZfMFI/Voxy%20World%20Gen%20V2-1.21.11-2.2.4.jar"
 hash-format = "sha512"
-hash = "fb23e94da8d5c852723e3a8f28f0753825037a55a79f0387327956f0fc835f7f382172e9dd45f04e29be8f4c6e19536a2cd89335dfa2546ca6e7a259eb954dc6"
+hash = "40a137479c0528f0fea159379021520bdd26e3187092ed346fccd12aad4d7d0539ee13a7cd0240b2db435a4548a67b6a20f80e9b61f5ab68fc579759d2b94db7"
 
 [update]
 [update.modrinth]
 mod-id = "xT0lnNE9"
-version = "7wUSa6iF"
+version = "68QZfMFI"
