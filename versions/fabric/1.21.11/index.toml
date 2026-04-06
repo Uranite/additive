@@ -380,11 +380,6 @@ hash = "dcd2c3c58597ea61c8e1c95c9b3492262817669ea882e45acbe377a5cb6a3db7"
 metafile = true
 
 [[files]]
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "113af68f0f6a6490c66b13bd0f2641ecacbb5320b930cc0bc5574dcc8f070474"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "fb1dd2522c64edac0b8f28d0b6e66294a27ae442735c105312e779c5a892bb08"
 metafile = true
@@ -542,11 +537,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "06f573e085119fa750cb3a5e45a551f05ae3cb77a5c4ba90bc0137c56e6b03ab"
-metafile = true
-
-[[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "f673cb4147723b6117bf90b2b46c57fc5824f5692f243f8e6b1cf9f9e3987540"
 metafile = true
 
 [[files]]
