@@ -110,6 +110,11 @@ hash = "7952ed77f918c875716b6af9e6a47953ae5dc284e676557f368e38c04526f6b9"
 metafile = true
 
 [[files]]
+file = "mods/big-globe.pw.toml"
+hash = "8eee0ef25f11037a87622704744e09b903d208413afbb63b6ff41ad23eb6c052"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "ff0fd26818393e15ee5759d3e9f1b74ead487d6271c37abb765dcab695cbddf9"
 metafile = true
@@ -572,16 +577,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "55e6f3c2e756c504561ac483a9bce2758fbfc7ae6e0f5100a5a3b31ee95b0bf2"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "f19a743dcab0927ec66da55e57993563fc539c3b50733104152da71c18f8abf4"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "a72981ee11a90659112ddd8ef00554df2b51e9c3aabd89a66e8a1a8b94eb5b3a"
 metafile = true
 
 [[files]]

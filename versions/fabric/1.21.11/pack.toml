@@ -1,4 +1,4 @@
-name = "Badly Optimized"
+name = "Badly Optimized Big Globe"
 author = "Uranite"
 version = "2.0.0+1.21.11.fabric"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "adcd555c4d4e3d4295af36d50c1f622e6533dcd8d24f1c1c8d8d0625c33bfd88"
+hash = "d3bc135ba3f2168987db54b8d2b197c3ebcf49b1282a0b9f688e3b030f22be11"
 
 [versions]
 fabric = "0.18.6"
