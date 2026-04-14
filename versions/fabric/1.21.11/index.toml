@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-stand-arms.pw.toml"
-hash = "fabf17366dc3852dc766c0b997b5a3258d67b642588b3c0f8cd305b91040e69b"
+hash = "69cfb6ed19bfacc80217b1d6c08b3b400c421b46534612a8adeb6d190e9e2c27"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+hash = "a3dbb9706ae30bfe8637d13117dc453784ba5fc7e6747ff9820a2d1aab0ff2c2"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "3b318c0ccdd5464b7bdb0e631a0ec2e9200cbab630a01789e0feed494256c927"
+hash = "2ec044895c0c5d16b0c5e441212486dc6db3bd6ed6b61250f071d51ce7081036"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6932ffe04ebe5f86c43b8afca22824e193ec082750e87933e293dba4e6f22504"
+hash = "e8098c1c7cd6bcb3d33af2f7a5110b499efe26c3be6a3eed985c04dc8e980cc7"
 metafile = true
 
 [[files]]
@@ -291,12 +291,12 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "eade32f35a18be164ad2a2899a2a3ac04452818c52769db8e640804e6057f1b2"
+hash = "3a349b9e045b3358cf9d152cd54af2288edfa70b78fdf73bc75924f63e74da20"
 metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "c326976c70ea0e193a6d751253d41ab996f124ebd66ff65368096e1a7a232cfa"
+hash = "e37bd22a1de3acb524ae741331f679b78322cdb4ea01487699cc41195cea032d"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3768141d0bf4d655f2df823b39997d171f1d3950d1f00f7bbb78df82a6a26d4e"
+hash = "58e348bf5ed0c9867339046522042c351b1630ccbfeb15412d938bacfb84b054"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "d8bc7c7ade6daf45fae171f36bb0eb10e3a566b63d855787bd11c6c515672ee7"
+hash = "17b1a63639e12e241b38c1a750d7facf44184f2a2a6cee1575a7073359abb963"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "d614525d2df34cdd07b0fdb5c774b72266ed4b4be55aceccef7ac5c7d66ae167"
+hash = "db4d3def114d5af2e7df577d93173b5ed8f9e1ed3769486679c4086fdcc08070"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "8b19a57a09bc3ad9a95f73e7c212e1f519029d152552f68c2b539e7098630756"
+hash = "fde6420147683142f25f0458a7d0027f0ee88c679f8bece191c7b9fe891bdeb7"
 metafile = true
 
 [[files]]
