@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-stand-arms.pw.toml"
-hash = "69cfb6ed19bfacc80217b1d6c08b3b400c421b46534612a8adeb6d190e9e2c27"
+hash = "afab215b77368934dcb57944a68de5cfdfa4e02f50cff9e1619d05d931318f88"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "81d15c71da281f64924d033486498573e73d06869439ba566f10a24b76829d43"
+hash = "a5e18327cee1ee5c6c2866788d78320ff8ae6544025a7c52e1ae90fd74574708"
 metafile = true
 
 [[files]]
@@ -237,12 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "fddbf9ab786c7d03e1329177184ac0c658a03ae97534b4c197d8e2808bfad1a1"
+hash = "93538c5c296a2f59e37fc7e4b038315aedf6fd380ee30e1ab858e243a8faecb1"
 metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
-hash = "b5c07339bc334ddfe27120580cca09d71541a2f8230251a85284807ff0688a4c"
+hash = "3ef1957f63423e0b4ee65632307d6a729adc5d503dadb6470527c35c15df0191"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "e37bd22a1de3acb524ae741331f679b78322cdb4ea01487699cc41195cea032d"
+hash = "f79de8ed5011b002dd43e355e90a41e7d198834f0d14c9762afec2ce22eeaac0"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "58e348bf5ed0c9867339046522042c351b1630ccbfeb15412d938bacfb84b054"
+hash = "50b89f1bdbcbae7bfb7b660a797a19a946b311a4764a78bd6ac289593aaaa4b9"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "5e28d3271e418d1b60d0cb971c5f738c5fd11ef4b88e56f4e86a5f05015cb198"
+hash = "e893332494359830a471cab9add98762729c76734268ad7271c054d57b429a09"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "17b1a63639e12e241b38c1a750d7facf44184f2a2a6cee1575a7073359abb963"
+hash = "5e5113181010a1db9c10d8190c797a9538cbee5020fa27216a9652998fd707e9"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "db4d3def114d5af2e7df577d93173b5ed8f9e1ed3769486679c4086fdcc08070"
+hash = "667a9c5628e469e7fdb760df8d979c169b91943bcb1ef50c38c311e5075d3846"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "ec05d491b8609e975fc3182e73274fed6f64c606c3a96779efa8b130eee63935"
+hash = "6f10fad896b754dde6df35f8609cb67680e5aa5f88b1093b5296703a42a383dc"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
-hash = "f5b7ffb8184aa936314d6ddbeb9fb7d0225e54f622cbb28406b38f52e35f9217"
+hash = "8551e955739dda8832a3d57c7a029c45b06f12a4f46095798e7377b1c6019cee"
 metafile = true
 
 [[files]]
