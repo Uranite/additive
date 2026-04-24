@@ -131,6 +131,11 @@ hash = "037350c2aa47c78e4223154291da5d6dd51e515015d78741f64d3d7b71e25111"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "262616993036070ec268b708a65f29420d54a8fb2fa55dffe6ebaa4169d84776"
+metafile = true
+
+[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "8ef520176cef9d8f5c8fa419ecdcda2b7ad5665e65517fb6d69bde78cba39305"
 metafile = true
@@ -176,6 +181,11 @@ hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "042b44569b655273c718eaff43dc9b95088d17a14626babda8a0bedf4028eb14"
+metafile = true
+
+[[files]]
 file = "mods/coolrain.pw.toml"
 hash = "c51f46497f367ee55ad75abe400e397f1a7d8fa167ae93f13cd397d7442e2d05"
 metafile = true
@@ -191,6 +201,11 @@ hash = "2ec044895c0c5d16b0c5e441212486dc6db3bd6ed6b61250f071d51ce7081036"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "7973c1b502db606e9fa57397b6dc80056072b2d9b397cbda855b42eea4b95529"
 metafile = true
@@ -203,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "062a1e685f7993953886c40fdfdd4106726081da54e7e6cde014c946c7948475"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "9b30e993f21da8f74807d67c218e0ac8e02cdeae368e7a743cbd5bfa625b0580"
 metafile = true
 
 [[files]]
@@ -328,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "9e6a3fb54ebb13ea95ced681d270cfa83134e95bb7111de140208db7160fffa7"
 metafile = true
 
 [[files]]
@@ -491,6 +516,11 @@ hash = "c40d8e77ffbe90eaef56e4acbb1f74850792a7541254c77d65ba382e765e61be"
 metafile = true
 
 [[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "fc93ffab2817533b4bbbc8ac3e621097b7058f4a3dd72b7b3605034173fa04fd"
+metafile = true
+
+[[files]]
 file = "mods/real-arrow-tip.pw.toml"
 hash = "e811f225a4ba3634c8ef2bf910810993eb599a1851923243cb6c6dad2a0c96fc"
 metafile = true
@@ -498,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "565c943b5006c36137a2fe55e4b8433e134c3d1011a37c5f5124cee67b671cb8"
+metafile = true
+
+[[files]]
+file = "mods/renderscale.pw.toml"
+hash = "b4c4f1163795d12bb392a2645b886b6afc6e7b3e4d28af4968a6ca0c74fcb606"
 metafile = true
 
 [[files]]
@@ -523,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "b6bfc77087bc686cf7b9db7ab49150e39d11e32fd2b54dc28e90711f470708c4"
+metafile = true
+
+[[files]]
+file = "mods/skyboxify.pw.toml"
+hash = "ed1ff73055440ca8d1d2de6d124a39fc8b0e3b9083329348b0097e71366f494c"
 metafile = true
 
 [[files]]
