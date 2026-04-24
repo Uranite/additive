@@ -91,8 +91,8 @@ hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "9931e3c0fa0ba84da120af60fe6f6c5a2a136f7f4254991cc74658c99ab22fa3"
+file = "mods/better-block-entities.pw.toml"
+hash = "c48d75d09dfb590ce80744158d0bab7cf8b5261f3af0270fd48c91b05469a91e"
 metafile = true
 
 [[files]]
@@ -203,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+metafile = true
+
+[[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+hash = "d0add31369d5c8f55b5ead44ae14cf0e1d6dc41bf2fadac87c239f74ccc43578"
 metafile = true
 
 [[files]]
@@ -426,6 +431,11 @@ hash = "c3069d6c3ef1d13c9ba064824777c4d74dd504cad358cb0b6f06f6266fc143c8"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
@@ -458,6 +468,16 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "a96d1b2bfb7e9aa08e5f7446b14f4d4253d89cc675bbc285dc8d0dc6095db312"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "f8231b6ff29c1ff27d5acd191929609e98706c498abe61369db53554b0638548"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
 metafile = true
 
 [[files]]
