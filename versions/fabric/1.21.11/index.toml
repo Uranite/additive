@@ -210,11 +210,6 @@ hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
 
 [[files]]
-file = "mods/cull-fewer-leaves.pw.toml"
-hash = "d0add31369d5c8f55b5ead44ae14cf0e1d6dc41bf2fadac87c239f74ccc43578"
-metafile = true
-
-[[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "7973c1b502db606e9fa57397b6dc80056072b2d9b397cbda855b42eea4b95529"
 metafile = true
