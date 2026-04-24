@@ -1,8 +1,0 @@
-{
-  "quality": {
-    "enable_vignette": false
-  },
-  "performance": {
-    "use_entity_culling": false
-  }
-}

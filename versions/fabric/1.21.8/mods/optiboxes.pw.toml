@@ -1,13 +1,13 @@
 name = "Optiboxes"
-filename = "skyboxify-2.3+1.21.8-fabric.jar"
+filename = "skyboxify-2.7+1.21.8-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/6IoriMtR/skyboxify-2.3%2B1.21.8-fabric.jar"
+url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/D3KDUjYE/skyboxify-2.7%2B1.21.8-fabric.jar"
 hash-format = "sha512"
-hash = "940f9552f4c550b6a46cd0c1499c06f3d3240ba29d4bdc3997a7983233a4dd3a47968cc1e0aa787418bd9a3fccfa3ac65a022b9f55b8869070b250eef9c6113b"
+hash = "742a497692ac796472736d09323e907c4af7f0cb10d6c74a770959311b1abf37b77249f1e24c838628b93ef3a97fb0c54e8ac57864741da55bc2f77d92f578e8"
 
 [update]
 [update.modrinth]
 mod-id = "DWuwk8aA"
-version = "6IoriMtR"
+version = "D3KDUjYE"

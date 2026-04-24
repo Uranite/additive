@@ -14,7 +14,7 @@ hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
 
 [[files]]
 file = "config/fastquit.toml"
-hash = "de22af584433dfdfb4a14b85091bfbd5c6be697a306499c2d7c75740658dbad4"
+hash = "f276dbca7d2af8afaca752ff4ada1e0beb64abf672effe1594e3892050a89194"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -87,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/armor-stand-arms.pw.toml"
 hash = "afab215b77368934dcb57944a68de5cfdfa4e02f50cff9e1619d05d931318f88"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "2a138f455ec59c5be9d421370d8e168279fb94833c62d76db06431e429377be4"
 metafile = true
 
 [[files]]
@@ -755,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/HEVI FreshAni Activator.zip"
-hash = "344ad3e61444742186a0b2dd47c8ca8526b417cc11a82e6a9cdb0255ebb62301"
+hash = "b837df3ec4ac14855601932a601dda956a7f7ea70b0971448fca5afc4bbbf622"
 
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"

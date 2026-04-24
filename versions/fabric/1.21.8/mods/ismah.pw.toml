@@ -1,13 +1,13 @@
 name = "I See My Armored Hand"
-filename = "ismah-5.1.2+1.21.8-fabric.jar"
+filename = "ismah-5.5.2+1.21.8-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/o0hnW3gN/versions/7GKKBemm/ismah-5.1.2%2B1.21.8-fabric.jar"
+url = "https://cdn.modrinth.com/data/o0hnW3gN/versions/PEsHNWeM/ismah-5.5.2%2B1.21.8-fabric.jar"
 hash-format = "sha512"
-hash = "46bfb35508625b0327076d867962b1cf3f037403fe9acf867cc3b8d5f3b2c2cc042ec8f62a41d35ba651298a0c70502bc991df18fbb348ab48f02aa679c73636"
+hash = "1af1b5fd6db6d01e7a58c482ac34bab9100f0880f0315bb1156b431570d6363f53d3d8504a1d264e1cc186b60bebceec481bddeecc658540c98cc86d82a8b126"
 
 [update]
 [update.modrinth]
 mod-id = "o0hnW3gN"
-version = "7GKKBemm"
+version = "PEsHNWeM"

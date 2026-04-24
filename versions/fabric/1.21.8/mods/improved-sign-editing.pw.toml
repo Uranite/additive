@@ -1,0 +1,13 @@
+name = "Improved Sign Editing"
+filename = "improvedsignediting-1.21.8-1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EWQifKYI/versions/MlYNLB8J/improvedsignediting-1.21.8-1.5.jar"
+hash-format = "sha512"
+hash = "ccd3cf229e61be9d9024efa29259e53208f3c78cb5beb740bfdc1a4b50d96d5091f67bcfcd62d77ffe08ca2e32a1d9d9a75911acdf3bc6c514f686ae33912c30"
+
+[update]
+[update.modrinth]
+mod-id = "EWQifKYI"
+version = "MlYNLB8J"

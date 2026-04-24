@@ -1,0 +1,14 @@
+name = "Glow Ores"
+filename = "Glow Ore 1.21.7+.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/JFwkTemi/versions/mKKE7ygg/Glow%20Ore%201.21.7%2B.zip"
+hash-format = "sha512"
+hash = "4222b06f4a6a5938b9c7620f0d309873ead1dbeffc95773cd38727f9da8646c3f142e75a3f69f3a3220684da4520709fb81254af8760803238116373eaa96f76"
+
+[update]
+[update.modrinth]
+mod-id = "JFwkTemi"
+version = "mKKE7ygg"

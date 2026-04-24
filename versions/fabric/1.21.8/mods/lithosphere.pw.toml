@@ -1,0 +1,13 @@
+name = "Lithosphere"
+filename = "lithosphere-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iv9jp2k9/versions/4iufoixX/lithosphere-1.7.jar"
+hash-format = "sha512"
+hash = "4dac2639e055fb3ba4bff830e9ccb287a260d8a499f77c1e3f346aa3389d9e0f3b70f0ecb1e44ab190c66de2e6be8727d9f0010e1506f29fd77a68668073a929"
+
+[update]
+[update.modrinth]
+mod-id = "iv9jp2k9"
+version = "4iufoixX"

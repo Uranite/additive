@@ -1,13 +1,13 @@
 name = "Detail Armor Bar Reconstructed"
-filename = "DetailArmorBarReconstructed-4.3.5+1.21.6_8-fabric.jar"
+filename = "DetailArmorBarReconstructed-5.0.0+1.21.6_8-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Si9Uim4y/versions/Gcl9UiPi/DetailArmorBarReconstructed-4.3.5%2B1.21.6_8-fabric.jar"
+url = "https://cdn.modrinth.com/data/Si9Uim4y/versions/RIz58xSo/DetailArmorBarReconstructed-5.0.0%2B1.21.6_8-fabric.jar"
 hash-format = "sha512"
-hash = "80a6fcbfd67e809545d36ad2e9bdef938249a8776294bb234932e536e9fffeb3403ec3efe25fb18d5eaf21cb00df6677485cff0c3c45060b7b603f407a8f9f15"
+hash = "59cbaa35e051f1810d09beaf5456ba3531b0b09d0bafc91ea1a49144b5663f44c72e2f19fe1db84a5dfde6b9de936d3b503b9b539b606b3b18a68ba158e72df4"
 
 [update]
 [update.modrinth]
 mod-id = "Si9Uim4y"
-version = "Gcl9UiPi"
+version = "RIz58xSo"

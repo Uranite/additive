@@ -1,0 +1,13 @@
+name = "TLib"
+filename = "tlib-fabric-1.4.1-1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sBn7rVvc/versions/OF2unNOl/tlib-fabric-1.4.1-1.21.8.jar"
+hash-format = "sha512"
+hash = "3261fb65553256b04509cc0bfb4f18b9d448a0e04758124f8419168ac2dcdaaa48aa072ff4a73f59a75a06e12b939a9323bfe875b5b80881302fe95714af2654"
+
+[update]
+[update.modrinth]
+mod-id = "sBn7rVvc"
+version = "OF2unNOl"

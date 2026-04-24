@@ -1,0 +1,13 @@
+name = "Mas Effect Updated"
+filename = "maseffects-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/698W07Kj/versions/Ncpfodmn/maseffects-1.0.0.jar"
+hash-format = "sha512"
+hash = "9dcb73cee18d690f4ca6c02b3792e634bd745629906e9013c44efd9d50357c09017c8117c7ca40ede6ab32fc596fa55d8d942110b722d3432fad91afd1b626ee"
+
+[update]
+[update.modrinth]
+mod-id = "698W07Kj"
+version = "Ncpfodmn"
