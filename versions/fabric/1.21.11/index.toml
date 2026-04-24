@@ -37,6 +37,10 @@ file = "config/malilib.json"
 hash = "c7acba3f6019a96750b90508685939ab0801876a9d6f40475e9310eb05d620ed"
 
 [[files]]
+file = "config/moreculling.toml"
+hash = "6fcd0277cdc59b62ba0d3bcc20736d9973947754ef8f322eca40c1b880a0f461"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
 
