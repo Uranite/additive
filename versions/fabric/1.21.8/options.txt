@@ -1,4 +1,4 @@
-version:4671
+version:4440
 enableVsync:false
 fov:0.5
 fullscreen:true
@@ -8,7 +8,6 @@ maxFps:260
 renderClouds:"false"
 renderDistance:12
 simulationDistance:8
-vignette:false
 operatorItemsTab:true
 toggleSprint:true
 darkMojangStudiosBackground:true
