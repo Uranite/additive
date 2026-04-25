@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -360,6 +360,11 @@ hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
 metafile = true
 
 [[files]]
+file = "mods/ismah.pw.toml"
+hash = "cc9e95e1796f3ffc79ebba5cb8655098f064c38d43d14c221abb4d77c53fb9d8"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "9e6a3fb54ebb13ea95ced681d270cfa83134e95bb7111de140208db7160fffa7"
 metafile = true
@@ -406,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "dcd2c3c58597ea61c8e1c95c9b3492262817669ea882e45acbe377a5cb6a3db7"
+hash = "62179fb521c44da0e96b9c094730619314c6f9ce7ea29da1e69c0768d3360c0d"
 metafile = true
 
 [[files]]
@@ -477,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "f8231b6ff29c1ff27d5acd191929609e98706c498abe61369db53554b0638548"
+metafile = true
+
+[[files]]
+file = "mods/paperdoll.pw.toml"
+hash = "d5522ba1b04b6554ed2bf7133c0215caf2e05b489bf61adbbd3d92ff512cb15d"
 metafile = true
 
 [[files]]
@@ -835,6 +845,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/rays-3d-rails.pw.toml"
 hash = "0c6ec7a772645ff7af7ead10d9074c7b3dc7bf2e6ef8bb9ea4f0babe633aafdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shaderpanorama12111.pw.toml"
+hash = "7855e8b9768c2ae6f280e8ab4aa381a9774b6cb7de7af51531612d68ecb7c108"
 metafile = true
 
 [[files]]

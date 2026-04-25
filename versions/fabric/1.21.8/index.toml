@@ -41,10 +41,6 @@ file = "config/moreculling.toml"
 hash = "6fcd0277cdc59b62ba0d3bcc20736d9973947754ef8f322eca40c1b880a0f461"
 
 [[files]]
-file = "config/paperdoll-client.toml"
-hash = "ea69c375b32a9a19233275a5327b1054e0acffe1563160a80e6ba83a2e4fa8ac"
-
-[[files]]
 file = "config/puzzle.json"
 hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
 
@@ -504,8 +500,8 @@ hash = "14e980e7f1d355c10a65b9e433ed30e9111490f416230f85602a2881f2308876"
 metafile = true
 
 [[files]]
-file = "mods/paper-doll.pw.toml"
-hash = "8ded26ab7360bcbc4c0215db9d5e506e5867b4874e2df0d1230a271af95facbb"
+file = "mods/paperdoll.pw.toml"
+hash = "9eb352b2549421b4b57d0670e5138f7e3acc07fbf44ba4e640303513b8270c8f"
 metafile = true
 
 [[files]]

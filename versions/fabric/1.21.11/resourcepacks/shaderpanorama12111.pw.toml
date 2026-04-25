@@ -1,0 +1,13 @@
+name = "Shader Panorama For 1.21.11：Mounts of Mayhem"
+filename = "ShaderPanoramaFor1.21.11-Night.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ARZFlF6E/versions/okChkpAt/ShaderPanoramaFor1.21.11-Night.zip"
+hash-format = "sha512"
+hash = "df231166e520e6ab141d9c5e1449df4b2537e4678a89f53db2d916490b886abd4197aec5969955234f493a93954deeb40a4f201734d30a8f260a7e3d787c272e"
+
+[update]
+[update.modrinth]
+mod-id = "ARZFlF6E"
+version = "okChkpAt"
