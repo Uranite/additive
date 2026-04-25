@@ -41,6 +41,10 @@ file = "config/moreculling.toml"
 hash = "6fcd0277cdc59b62ba0d3bcc20736d9973947754ef8f322eca40c1b880a0f461"
 
 [[files]]
+file = "config/paperdoll-client.toml"
+hash = "ea69c375b32a9a19233275a5327b1054e0acffe1563160a80e6ba83a2e4fa8ac"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
 
@@ -420,11 +424,6 @@ hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
 
 [[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "281af63893741e6de225bf1664f82b8be04f50e0194fc5d69b56b6fcfa0ed4aa"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "5f6bf5dda325e57eeeb77ddc5c683734724acf47a5181eb25dea4e6f6af066db"
 metafile = true
@@ -502,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "14e980e7f1d355c10a65b9e433ed30e9111490f416230f85602a2881f2308876"
+metafile = true
+
+[[files]]
+file = "mods/paper-doll.pw.toml"
+hash = "8ded26ab7360bcbc4c0215db9d5e506e5867b4874e2df0d1230a271af95facbb"
 metafile = true
 
 [[files]]
@@ -645,11 +649,6 @@ hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
 metafile = true
 
 [[files]]
-file = "mods/still-life.pw.toml"
-hash = "bc60bf9e9b337140b33cbd697954cd04732ea536abe6ccf2cdb874ce60d8255b"
-metafile = true
-
-[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "54bae783911f39a0f4e181086f3e1f1ec1a466c9fc4125e6b6a9db95d5efe154"
 metafile = true
@@ -657,6 +656,16 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "d572ff6e626cbfa217511f976b258c5716571876779eff3f24a65bd397e49f6b"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "2226fd6f55dae108563d51495b90b6980212283b1c551967c4595e82428d261d"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
 metafile = true
 
 [[files]]

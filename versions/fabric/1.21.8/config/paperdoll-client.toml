@@ -1,0 +1,61 @@
+#Only show paper doll when in first-person mode.
+#Default Value: true
+first_person_only = true
+#Set axis the player head can move on.
+#Default Value: YAW
+#Allowed Values: YAW, PITCH, BOTH
+head_movement = "YAW"
+#Scale of paper doll. Also affected by video settings gui scale.
+#Default Value: 4
+# Default: 4
+# Range: 1 ~ 24
+scale = 8
+#Define a position on the screen to align the paper doll display to.
+#Default Value: TOP_LEFT
+#Allowed Values: TOP_LEFT, TOP_CENTER, TOP_RIGHT, CENTER_LEFT, CENTER, CENTER_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER, BOTTOM_RIGHT
+anchor_point = "TOP_LEFT"
+#Offset on y-axis from original doll position.
+#Default Value: 0
+# Default: 0
+# Range: > -2147483648
+offset_y = 220
+#Amount of ticks the paper doll will be kept on screen after its display conditions are no longer met. Set to 0 to always display the doll.
+#Default Value: 15
+# Default: 15
+# Range: > 0
+display_time = 15
+#Offset on x-axis from original doll position.
+#Default Value: 0
+# Default: 0
+# Range: > -2147483648
+offset_x = 0
+
+#Display paper doll while performing these actions.
+[display_actions]
+	#Display paper doll while flying in creative mode.
+	#Default Value: true
+	flying = true
+	#Display paper doll while sprinting.
+	#Default Value: true
+	sprinting = true
+	#Display paper doll while swimming in water.
+	#Default Value: true
+	swimming = true
+	#Display paper doll while gliding using an elytra.
+	#Default Value: true
+	gliding = true
+	#Display paper doll while crouching.
+	#Default Value: true
+	crouching = true
+	#Display paper doll while spin attacking with a trident.
+	#Default Value: false
+	spin_attacking = true
+	#Display paper doll while using an item like a bow.
+	#Default Value: false
+	using_item = true
+	#Display paper doll while riding a vehicle.
+	#Default Value: false
+	riding = true
+	#Display paper doll while crawling in a tight space.
+	#Default Value: true
+	crawling = true

@@ -1,0 +1,13 @@
+name = "Paper Doll"
+filename = "PaperDoll-v21.8.3-1.21.8-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hD0W2Wde/versions/pv2ymVAF/PaperDoll-v21.8.3-1.21.8-Fabric.jar"
+hash-format = "sha512"
+hash = "db5568f0bd8b85ef83e99cfedae271563919e024db6e1cacc0bbe3bbde69b3197590f6581f68294446049097bfaa322635273a7bb362ebe393e73d49a5ccdbe3"
+
+[update]
+[update.modrinth]
+mod-id = "hD0W2Wde"
+version = "pv2ymVAF"
