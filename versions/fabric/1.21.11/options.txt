@@ -5,7 +5,6 @@ fullscreen:true
 gamma:1.0
 guiScale:2
 maxFps:260
-renderClouds:"false"
 renderDistance:12
 simulationDistance:8
 vignette:false
