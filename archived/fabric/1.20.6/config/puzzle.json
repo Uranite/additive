@@ -1,17 +1,11 @@
 {
     "disabledIntegrations": [
-        "borderlessmining",
-        "cem",
         "citresewn",
         "continuity",
-        "colormatic",
-        "cullleaves",
-        "dynamicfps",
         "entity_texture_features",
-        "entity_model_features",
         "iris",
-        "lambdabettergrass",
-        "lambdynlights"
+        "lambdynlights",
+        "entity_model_features"
     ],
     "enablePuzzleButton": false,
     "debugMessages": false,

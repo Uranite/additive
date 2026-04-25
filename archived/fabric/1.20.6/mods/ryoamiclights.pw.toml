@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/reCfnRvJ/versions/7lXeYdGV/RyoamicLights-fabric-0.2.6%2Bmc1.20.6.jar"
-hash-format = "sha1"
-hash = "bae616d74be41a9f141635f30848821decff2f54"
+hash-format = "sha512"
+hash = "fd252cc8da8b6841a31cbcb91cf771f7f698a3a5f7155f79ec87051f91416df40cfd4f18f1c0302d6800d3359af239606c7d832b7ac11dfa935398472c464dcb"
 
 [update]
 [update.modrinth]
