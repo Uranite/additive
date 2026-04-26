@@ -360,11 +360,6 @@ hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
 metafile = true
 
 [[files]]
-file = "mods/ismah.pw.toml"
-hash = "71167477d8e40ccec98d4a2ca41b8089cb2282baa87974357ed21008bba53aef"
-metafile = true
-
-[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "9e6a3fb54ebb13ea95ced681d270cfa83134e95bb7111de140208db7160fffa7"
 metafile = true
@@ -756,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "85535255a5f232c2a3e1dfaf4a582373c62ffbcbfa948be5e196a3d427f4a3da"
+hash = "2a9114a20f4f2a32ece80ba6986129d921affeb7ddb2a94ae1da10adceeafa9a"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
