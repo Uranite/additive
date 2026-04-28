@@ -1,13 +1,13 @@
 name = "Fresh Animations: Emissive"
-filename = "FA+Emissive-v1.5.zip"
+filename = "FA+Emissive-v1.6.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VRS2YQn9/versions/eAOCN5QT/FA%2BEmissive-v1.5.zip"
+url = "https://cdn.modrinth.com/data/VRS2YQn9/versions/byyyyS7z/FA%2BEmissive-v1.6.zip"
 hash-format = "sha512"
-hash = "2de0075451ab369898a4099f353a02ed4b549e73d579b99a8bbb7a156a7cfe2ff009a2baf77e6f5593a37cb3b321c45335d2f184021254c479a49c6c909aa586"
+hash = "e3909b72828c27838ba262e91e5fc035bd5553d0053f82f322d4af5f956d024b38d24706e866f8ad62d08a423f899339abefc0584c2e2a11b1f2f9c703032c2d"
 
 [update]
 [update.modrinth]
 mod-id = "VRS2YQn9"
-version = "eAOCN5QT"
+version = "byyyyS7z"

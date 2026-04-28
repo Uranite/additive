@@ -1,13 +1,13 @@
 name = "Entity Model Features [CEM]"
-filename = "entity_model_features_1.21.11-fabric-3.1.1.jar"
+filename = "entity_model_features_1.21.11-fabric-3.2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/VliSdpxl/entity_model_features_1.21.11-fabric-3.1.1.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/wbSSx6vc/entity_model_features_1.21.11-fabric-3.2.2.jar"
 hash-format = "sha512"
-hash = "1d5e0ca479f6d951ca58e22644e3def643154d540d1d25a39fdcb5e99f729661f6a0d03be6613c4fa18dbd609cba87f1bdc94b6035866b76b5df597594b91af0"
+hash = "2e9646d4731d5c2145a3087972a321e323d6fbf55a94883dc3aaffa893c74cb1cb06b9e79be8da9fb3743070480f672a99d5a1fd0e489ba98223ae705285b9e5"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "VliSdpxl"
+version = "wbSSx6vc"

@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "c48d75d09dfb590ce80744158d0bab7cf8b5261f3af0270fd48c91b05469a91e"
+hash = "1a94f1c48e896504687dbefb5969ad4749c9e406a7ce19eba8f58f41b458d145"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a5e18327cee1ee5c6c2866788d78320ff8ae6544025a7c52e1ae90fd74574708"
+hash = "cde16fcdbb91137e7e58ac3a4484d09b34b7dc101fa39bfbe8421cdcb5725aea"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "42a2eef2edf51e4c038ae6f9de8b24745b2516146cdb79b0e7917f83b54c7468"
+hash = "87035b9d2b51be1f3828a85746350ade4ddae07dc6a2df2a03676d33ac4dde11"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "fb1dd2522c64edac0b8f28d0b6e66294a27ae442735c105312e779c5a892bb08"
+hash = "351d586aabd1993a34ad855778ceee464937a70746506aa18cc82beaf7f9a21b"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "67010443bf36cc49c9426779b93a1714507df2861c1810ebca82cb054ce8936b"
+hash = "a39d9aa1c0a91aa9cceb7262648cd71f027aef815bab0ed1f65bd04a9e93b926"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/swinging-lanterns.pw.toml"
-hash = "1df5209db50c8e10a5dd56c610cac4fc2164d686540c3a2f3990481ef918db99"
+hash = "888f78bae56f5f1ddafa5d720358d8cbc248b46fba2931e55fb59901cadafcb6"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2a9114a20f4f2a32ece80ba6986129d921affeb7ddb2a94ae1da10adceeafa9a"
+hash = "f24ffa2008a177fd14dedcd2e452f01cd0ea43dea01dfa1c56c96a45336d0552"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-emissive.pw.toml"
-hash = "f16201a6833ad77ee9c2e9d4c79a0fcf697b048429e3743d62cb9d80999863bc"
+hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
 metafile = true
 
 [[files]]
