@@ -1,0 +1,13 @@
+name = "Fancy World Animations"
+filename = "fwa+26.1.2-1.2.32.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAzUFvS6/versions/qct9mgVk/fwa%2B26.1.2-1.2.32.jar"
+hash-format = "sha512"
+hash = "a7cc2da71e6586feb9f1d45eb8ccc58dd4fb160db3a60fcf95a2cf324b8f8085585a5bce8a99cae45b0be5906235bec1c163879f206fde823d3b6aefdfb6da1c"
+
+[update]
+[update.modrinth]
+mod-id = "IAzUFvS6"
+version = "qct9mgVk"

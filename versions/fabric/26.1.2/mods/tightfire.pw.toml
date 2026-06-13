@@ -1,0 +1,13 @@
+name = "Tightfire"
+filename = "tightfire-26.1.2-1.0-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jExZM2Rj/versions/92jxQdi5/tightfire-26.1.2-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "37563be6f438ada25c3c336c5d409553ac635398a736ca447fd248da48f4525fe99d36ec753090a4fc87129003574e6500865e26e0a4b5a083f5169e99e5cc14"
+
+[update]
+[update.modrinth]
+mod-id = "jExZM2Rj"
+version = "92jxQdi5"

@@ -1,0 +1,13 @@
+name = "Voxy WorldGen"
+filename = "Voxy World Gen V2-26.1.2-2.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xT0lnNE9/versions/tRiQxKkc/Voxy%20World%20Gen%20V2-26.1.2-2.2.4.jar"
+hash-format = "sha512"
+hash = "f8d3e96c5bda4f04faa79c1731379b8217dc7a392cc208dc3d25a8dbeab790430e869705bdb4d154a359b0e1e415b12442b4e6757b002193ebb4cfbed1f2639a"
+
+[update]
+[update.modrinth]
+mod-id = "xT0lnNE9"
+version = "tRiQxKkc"

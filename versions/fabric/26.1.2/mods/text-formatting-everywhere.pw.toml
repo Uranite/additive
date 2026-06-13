@@ -1,0 +1,13 @@
+name = "Text Formatting Everywhere"
+filename = "textformattingeverywhere-fabric-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1ury0R3s/versions/cqzktfFC/textformattingeverywhere-fabric-2.0.4.jar"
+hash-format = "sha512"
+hash = "4353e0a451465775632581d3823792f389ec8f823ff0152b29ca3a61670fb568a0b3f91903677cd27d6205fa4440c19c39fc9058d7fc7d5710462285e13190d3"
+
+[update]
+[update.modrinth]
+mod-id = "1ury0R3s"
+version = "cqzktfFC"
