@@ -450,6 +450,11 @@ hash = "63fdd2b23b59250f9d2272f6eb116a40f60fe9463044eb8a539d492df3a30782"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "bdb0ddbd9b62fd550ab9242f555803f39ebd34ccb38a63c6279e898a720e4cea"
 metafile = true
