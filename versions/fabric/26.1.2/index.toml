@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
+hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "3a7f685358fe4eda8dc265f2d350c05e2cbc8c7a661e1d9676e72a02bc044a2b"
+hash = "809cc13566b4d083a5c6242dafd94c14a65aecab3a8c28933bcbffef38bd9a79"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d8191c7ff64782b226c8689c168961f303b17638dded11522f25f0509db01c15"
+hash = "f603986589b293de0361698efa8fd4bcfefca2306a8ec9d7f6de3293feb0c650"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "1afba5506b0a1b1e18fc6aa5caf57e9546325b0812266b1a8fa68c8337e83c2d"
+hash = "006c4998cec5c1232c2f3076508cd4b53f1a12206f40df2d0d0b005ea4675cdb"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
+hash = "120585e75f6fa06b138bbb3e681298113c66a084ebe842de3da91d21b5b5b3f9"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "fd7be26a68f67e87d9fcf674b075cdc6ed5633251efb23b88a090f7d59b9324b"
+hash = "730ac4e49946091987b44c29671e8d24de592f8ac04ccfa5001d220d2f0a1a97"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "d339a24c7934d84286149bf1fe8b10eb01b61b6b23b1fee9e3adb9885cdfac1e"
+hash = "6aee3605cacd549fa2d966fd355588240580f8c67685ba8e759cd3a9e425e5b1"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
+hash = "e6e16b6feba062b1db1fcd1943e3dac5335008605a52dca527a0272279b5f120"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "704bbb0bab8a654062d36abc67897448710f6e868eebef386baca0117d856046"
+hash = "2bb40912415bbc3f758a76103ba0dbcf986959a9d3f60d78d8487da3b180ea88"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "18c91b0d854cd871d9939abe95a55266c436a7e5d92e1bd19274b33edc46382e"
+hash = "ced0610f51ea6751d879e9730b26ee9e72f8364bf2c34f55c7e58a4d4152e5fd"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+hash = "a699bfe2548067cd28d4a95d2c89a1d1ffa54fd5d90c19419f9037a8d6bf015a"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6bd3612d467f7dd0dd227af2e426d72a73dac3dd66d369ed7c714470043f2208"
+hash = "b6919b133eb261dcb7f70c0dd7961413883e87fc0b0ebe9d04864887b2d57db9"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
@@ -769,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
-hash = "ac7bbfdc56a8e16d5c900db5b94f41497526cd7546f4d751dd17aa604c064578"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
 metafile = true
 
 [[files]]
@@ -780,11 +780,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations-emissive.pw.toml"
 hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations-x-baby-animals-remastered.pw.toml"
-hash = "7b2a92323e43e906d7dd52629f79f386f192d3867e3d1ce3ecce5beb92d9bf8a"
 metafile = true
 
 [[files]]
