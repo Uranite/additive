@@ -150,11 +150,6 @@ hash = "84808257e0cb3880497c415ba1cbc80781dca9339fbab08235dd0bfef290278b"
 metafile = true
 
 [[files]]
-file = "mods/cameraoverhaul.pw.toml"
-hash = "aafb75c27edbfabd1a11748955ace39dd12e29a777cc1c9f58cd85a6b3bfeb27"
-metafile = true
-
-[[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "006c4998cec5c1232c2f3076508cd4b53f1a12206f40df2d0d0b005ea4675cdb"
 metafile = true
@@ -290,6 +285,11 @@ hash = "6a8b18a651ebe9071c88080b7e39d1b5e74a95901d10040afccb4569f6d0850f"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "d483b69d05922629fddfbfdbe3a9bf6c9730cdba333e0a9b610ee33b118f8781"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "1c7648037c28bc381ed920a3882417b315b0aada29e07bf053ba180a438ea3ed"
 metafile = true
@@ -335,6 +335,11 @@ hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "149bb87e40a356a1b9bcfd80e0e694b56e4dbf6b739207d83d84ff960abe2ac9"
+metafile = true
+
+[[files]]
 file = "mods/improved-sign-editing.pw.toml"
 hash = "aca8013c60aa993a6a6d3a276a82731a3ec1175ba1b7271ff10157bbc5c78019"
 metafile = true
@@ -352,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "6aee3605cacd549fa2d966fd355588240580f8c67685ba8e759cd3a9e425e5b1"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "d5060b22fa47d5d56e0f4617904731e9d397d1ba104320b7ec8e59f7ca0700a7"
 metafile = true
 
 [[files]]
@@ -540,6 +550,11 @@ hash = "1a6f4919590130cb8cd5cf1d225b164c5957124a5f29a294f2b0f1d8ea7f43a2"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "d5a2925609b3dcf060253a1d75414e4c7747c9d5c206c5ff83a678f75b94ff5b"
+metafile = true
+
+[[files]]
 file = "mods/respackopts.pw.toml"
 hash = "a2fea653e27b983ceaf3d52e9e272c45cdd20ee3a6aa8e1bc4f45343b2b0aa4c"
 metafile = true
@@ -550,8 +565,8 @@ hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
 metafile = true
 
 [[files]]
-file = "mods/serverpingerfixer.pw.toml"
-hash = "19721a14a4913ad98dca086a5363fb108bff61d3e11c5988c3d459e15daed0a4"
+file = "mods/servercore.pw.toml"
+hash = "d1b451cf9def0e6aae91450ba5e966c1aa22480bd7274d5d8309cd1de5fe8108"
 metafile = true
 
 [[files]]
@@ -597,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1ad93d29e2c2d3d79dd88260dda65b1c422279a64aedbb18f4c7f124c218f9d8"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "0a492579cdfcaa2033d698315ce3b9c1959b10841e38e1a0bb874a9e648838f1"
 metafile = true
 
 [[files]]
