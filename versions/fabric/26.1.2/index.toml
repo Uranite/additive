@@ -225,6 +225,11 @@ hash = "0d4d1d2c1d871ac819943a098cefca67ec1ca0f603c5c574f588e9ded399bc65"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "42f5637a87150687969d64b172ce8ef91bc3a92ee2eb68a2a17153350ff92b4b"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "b29699ffd8e82caa132d287a4383d67ae5c19be90a9bcf75b3bef0a8e1456562"
 metafile = true
@@ -716,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b6919b133eb261dcb7f70c0dd7961413883e87fc0b0ebe9d04864887b2d57db9"
+hash = "bd6a7d34f39c37fa3c0c5fdb83aeaac7b8ce0c9de5f8b9fbcf4ffcd0b02a947c"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"

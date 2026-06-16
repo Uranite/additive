@@ -26,3 +26,4 @@ key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
+key_key.renderscale.options:key.keyboard.unknown
