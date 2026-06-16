@@ -1,13 +1,14 @@
 version:4790
-enableVsync:false
+enableVsync:true
 fov:0.5
 graphicsPreset:"custom"
 fullscreen:true
 gamma:1.0
 guiScale:2
 maxFps:260
-renderDistance:12
-simulationDistance:8
+inactivityFpsLimit:"minimized"
+renderDistance:10
+simulationDistance:10
 vignette:false
 operatorItemsTab:true
 toggleSprint:true
