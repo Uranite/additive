@@ -1,0 +1,13 @@
+name = "Auto Lectern"
+filename = "autolec-mc26.1.2-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V5ymEVfT/versions/Ulh8s6Yj/autolec-mc26.1.2-1.1.0.jar"
+hash-format = "sha512"
+hash = "967ac6b1419e86c22fe858e53eda78e0ee84054c52fe2ce6d69a98b75671b2c2c178351454dd91b2e68a5c214fb50549f7bcd5e8b3581784c501263df30341e7"
+
+[update]
+[update.modrinth]
+mod-id = "V5ymEVfT"
+version = "Ulh8s6Yj"

@@ -90,6 +90,11 @@ hash = "afab215b77368934dcb57944a68de5cfdfa4e02f50cff9e1619d05d931318f88"
 metafile = true
 
 [[files]]
+file = "mods/auto-lectern.pw.toml"
+hash = "2d4577be5a3198523537c63e43d82919d4c6ad18039e2d2bb6825e4303da700c"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "12c1abb65c4dcce97df470b3f7fbd0ec6c208e97b3ca7325d20b33c13caef82a"
 metafile = true
@@ -227,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "b29699ffd8e82caa132d287a4383d67ae5c19be90a9bcf75b3bef0a8e1456562"
+metafile = true
+
+[[files]]
+file = "mods/elytra-autopilot.pw.toml"
+hash = "79563ddea28f42a797dee84704c6370a91d5612ef2ee378e309b1f9077e5f011"
 metafile = true
 
 [[files]]

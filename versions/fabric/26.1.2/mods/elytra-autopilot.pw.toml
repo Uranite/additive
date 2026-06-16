@@ -1,0 +1,13 @@
+name = "Elytra Autopilot"
+filename = "fabric-elytra-autopilot-26.1.2-3.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BS28IdgO/versions/SJgaoiIq/fabric-elytra-autopilot-26.1.2-3.5.0.jar"
+hash-format = "sha512"
+hash = "701c470733459a430d63155dfef05e90f3e91322596084f56eb599613a8ca760964003dad871eaf1e0cd7b3a093b69eed6a45db420ba066343ab7d7c2a36ce38"
+
+[update]
+[update.modrinth]
+mod-id = "BS28IdgO"
+version = "SJgaoiIq"
