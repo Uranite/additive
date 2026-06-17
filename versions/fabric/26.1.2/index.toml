@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "3a7997105396e8e8b46c7bd8f4cf75f74dd199c170a46d54ad602c414a3f948f"
+hash = "b87ed805b4dec15988dc907e376009b9b9283b70dbd7f0789b638af78e03d4a7"
 metafile = true
 
 [[files]]
