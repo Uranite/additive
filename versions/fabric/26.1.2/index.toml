@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "68a06f2e31097e14f31a737c2d9c4df7dbc973833d440998803d0a154d6bf47f"
+hash = "2b96886c9cda321240976b36e2acf354524ad0e41d6edfed0161e423ad86b719"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
