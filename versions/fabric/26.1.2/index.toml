@@ -37,6 +37,10 @@ file = "config/malilib.json"
 hash = "c7acba3f6019a96750b90508685939ab0801876a9d6f40475e9310eb05d620ed"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "abb59ae89b93756cf897413cc1b96a1fc1053359d92c2dc94d12238a81e282fa"
+
+[[files]]
 file = "config/moreculling.toml"
 hash = "6fcd0277cdc59b62ba0d3bcc20736d9973947754ef8f322eca40c1b880a0f461"
 
