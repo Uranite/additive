@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "809cc13566b4d083a5c6242dafd94c14a65aecab3a8c28933bcbffef38bd9a79"
+hash = "9e0432dc69c6a4129a169bcb2ac1cd7b49c4b55a91578d127da205d220a626bd"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a699bfe2548067cd28d4a95d2c89a1d1ffa54fd5d90c19419f9037a8d6bf015a"
+hash = "e785257258e2811dc4488da78ae8311a249b22c3bdba92b4d6ce5d5ef48939b7"
 metafile = true
 
 [[files]]
