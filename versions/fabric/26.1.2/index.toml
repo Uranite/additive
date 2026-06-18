@@ -45,6 +45,10 @@ file = "config/moreculling.toml"
 hash = "6fcd0277cdc59b62ba0d3bcc20736d9973947754ef8f322eca40c1b880a0f461"
 
 [[files]]
+file = "config/pickupnotifications.toml"
+hash = "1fcc7e4dced287ea82d6a4225b0f741f7eb3bbb58e379806c146a3e5504a4a60"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
 
@@ -85,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "99a34c5437d3fdb0fc6c2d71e5f1cf90aa38cb0aa520f4fd9f25bce0b83ac5f3"
+hash = "e6437f543512e4103bae1bb72ce87c4c66da3bcbd88637143d71053b82bc07b0"
 metafile = true
 
 [[files]]
@@ -135,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "3636c7432344dbccdbcdc595e82cec09d0090aeb365fe8b81cc37892f70332bf"
+hash = "dd558c0a3a5317d461589337cc04f33527e2191ede4dbd680ab9df594aad5e62"
 metafile = true
 
 [[files]]
@@ -150,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f603986589b293de0361698efa8fd4bcfefca2306a8ec9d7f6de3293feb0c650"
+hash = "47dba1cbfb60a9a2de63a5e6d7c23b85d7b9651e4cb1ab870f4261cd565e3c7d"
 metafile = true
 
 [[files]]
@@ -180,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "181b795f314ec32dc270381bc022813e46e5ec7372faa582d5d81ce00334097d"
+hash = "8680f5703ebdb128c116244741dae5db2bdca3c46ca2b493b5f05fdff76b9bb9"
 metafile = true
 
 [[files]]
@@ -190,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0381d4d839dfe85c73bb190fdda645685a1b39d4ea0e7e7ebf74aa5e5c825d25"
+hash = "820ad38e89258f1b021d34112cd562a42c0afb2e789e438b54f893010dc57e45"
 metafile = true
 
 [[files]]
@@ -239,18 +243,13 @@ hash = "b29699ffd8e82caa132d287a4383d67ae5c19be90a9bcf75b3bef0a8e1456562"
 metafile = true
 
 [[files]]
-file = "mods/elytra-autopilot.pw.toml"
-hash = "79563ddea28f42a797dee84704c6370a91d5612ef2ee378e309b1f9077e5f011"
-metafile = true
-
-[[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "de16a2a2208b6e9ad285b3f2f8ff99f0c6ede5f6f3cdb5dd9986fab1b5cb264a"
 metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "98f796f669dbbbac617d152bb4475015b50047cb8b30d6f6cd792757e905e931"
+hash = "490e55238813a3af1a91058d46bbc5abed271d97d75ccaf73ba4ecfea3120bb3"
 metafile = true
 
 [[files]]
@@ -435,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "40ea7513ea7b648ad4fc392d549d52d3764ec87ee0b864c42f87e3a67a6356eb"
+hash = "2e531dae9197fea52cc553bc6756544c1f4664784874741110294be2fd975fd6"
 metafile = true
 
 [[files]]
@@ -455,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturally-trimmed.pw.toml"
-hash = "5bc3569c3b16897c4edd87f399e619f3ba914c717e84e50666aedda1cc95150f"
+hash = "7fbd7f392eebd390775270daae2fa42844aaad1d6f199d1f8c0a34aa8d98e64c"
 metafile = true
 
 [[files]]
@@ -500,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-interactions.pw.toml"
-hash = "f384d55004ee4218e73caa8ec0b7f54b20c76768c7ff4ae9a01b6eadcdeb7fd2"
+hash = "ce2bca0bb523776348b6473fa0535a192cba2997051e50d202aafd2e70edf11c"
 metafile = true
 
 [[files]]
@@ -510,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "2284137227cc5cd17f4e42a07f830436495ff811aaa32eb8f485ae45ec1a8214"
+hash = "2f02aa1a04333e2522a0932cc3701b809f4b4decd09823831aeff04238cf27d8"
 metafile = true
 
 [[files]]
@@ -650,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "9319c3c28fcf1d824c7ac999851cdbcf3be9e9a1fe289e854cbebc15dc63b899"
+hash = "02422caead6d1685d2186d8d8ce45b40f305a549f284a71a507d5ca555d85227"
 metafile = true
 
 [[files]]
