@@ -1,7 +1,6 @@
 name = "CalcMod"
 filename = "calcmod-1.5.1+fabric.26.1.jar"
 side = "both"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/XoHTb2Ap/versions/Su5eRdRq/calcmod-1.5.1%2Bfabric.26.1.jar"
