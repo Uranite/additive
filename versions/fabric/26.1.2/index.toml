@@ -5,10 +5,6 @@ file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
-file = "config/badoptimizations.txt"
-hash = "a47ef2a99eee3632074b8c2869e1ce3182f7348eaf916a2045e06b2a47e58cd4"
-
-[[files]]
 file = "config/fastquit.toml"
 hash = "f276dbca7d2af8afaca752ff4ada1e0beb64abf672effe1594e3892050a89194"
 
@@ -105,11 +101,6 @@ metafile = true
 [[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "12c1abb65c4dcce97df470b3f7fbd0ec6c208e97b3ca7325d20b33c13caef82a"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "8e6033c2642308835d119a073fdf24306394cdb6985c482a08e67b8087f6e90d"
 metafile = true
 
 [[files]]
