@@ -419,6 +419,11 @@ hash = "b9007e78250c270d253eac2251de00af3408a05f5d04d1b79bb6a7e1c355b2cd"
 metafile = true
 
 [[files]]
+file = "mods/maseffects-v2.pw.toml"
+hash = "ac27863dd5b63aba82cf6790756c28cad2caf9bb0382c44cb10a8b58dc349bcb"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7d451a2a4386390ce9f4b493c3806c8d173d7970bca72c82de4b668c6914f25f"
 metafile = true
@@ -674,6 +679,11 @@ hash = "a3d355ab68c581b91d20b9aef9589170d68e392ad12eccd9aa812aaa10ff317b"
 metafile = true
 
 [[files]]
+file = "mods/ukulib.pw.toml"
+hash = "d1bd47052ee27aefea2f0e2ee83787a47172d0350fecb16284fab9a756b1cc19"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "935b6d91fa1df29a4f8aae31fa6a80d3e020eecfc92962741bfab672f991fd41"
 metafile = true
@@ -769,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/HEVI FreshAni Activator.zip"
-hash = "b837df3ec4ac14855601932a601dda956a7f7ea70b0971448fca5afc4bbbf622"
+hash = "5072e01216ec20360ee3db7636ad1b3d093617335e32315662df83d3de022702"
 
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
