@@ -1,12 +1,20 @@
 @echo off
 
-if "%1" == "" goto update
-if "%1" == "update-packwiz" goto update-packwiz
-if "%1" == "export" goto export
-if "%1" == "update" goto update
-if "%1" == "update-loader" goto update-loader
-if "%1" == "refresh" goto refresh
-if "%1" == "add" goto add
+if "%1" == "" call :update 26.1.2 & goto :EOF
+if /i "%1" == "update-packwiz" call :update-packwiz & goto :EOF
+if /i "%1" == "export" call :export 26.1.2 & goto :EOF
+if /i "%1" == "update" call :update 26.1.2 & goto :EOF
+if /i "%1" == "update-loader" call :update-loader 26.1.2 & goto :EOF
+if /i "%1" == "refresh" call :refresh 26.1.2 & goto :EOF
+if /i "%1" == "add" call :add 26.1.2 %2 & goto :EOF
+
+if "%2" == "" call :update %1 & goto :EOF
+if /i "%2" == "update-packwiz" call :update-packwiz & goto :EOF
+if /i "%2" == "export" call :export %1 & goto :EOF
+if /i "%2" == "update" call :update %1 & goto :EOF
+if /i "%2" == "update-loader" call :update-loader %1 & goto :EOF
+if /i "%2" == "refresh" call :refresh %1 & goto :EOF
+if /i "%2" == "add" call :add %1 %3 & goto :EOF
 goto :EOF
 
 :update-packwiz
@@ -17,48 +25,37 @@ goto :EOF
 
 :export
     if not exist build\fabric\ mkdir build\fabric\
-    ::for /d %%d in (versions\fabric\*) do (
-    ::    cd %%d
-    ::    packwiz mr export
-    ::    cd ..\..\..
-    ::)
-    cd versions\fabric\26.1.2 && packwiz mr export
-    cd ..\..\..
-    ::for /R versions\fabric %%f in (*.mrpack) do move "%%f" build\fabric\
-    move versions\fabric\26.1.2\*.mrpack build\fabric
+    pushd versions\fabric\%1 && (
+        packwiz mr export
+        popd
+    )
+    move versions\fabric\%1\*.mrpack build\fabric\
     goto :EOF
 
 :update
-    ::for /d %%d in (versions\fabric\*) do (
-    ::    cd %%d
-    ::    packwiz update --all
-    ::    cd ..\..\..
-    ::)
-    cd versions\fabric\26.1.2 && packwiz update --all
+    pushd versions\fabric\%1 && (
+        packwiz update --all
+        popd
+    )
     goto :EOF
 
 :update-loader
-    ::for /d %%d in (versions\fabric\*) do (
-    ::    cd %%d
-    ::    packwiz migrate loader latest
-    ::    cd ..\..\..
-    ::)
-    cd versions\fabric\26.1.2 && packwiz migrate loader latest
+    pushd versions\fabric\%1 && (
+        packwiz migrate loader latest
+        popd
+    )
     goto :EOF
 
 :refresh
-    for /d %%d in (versions\fabric\*) do (
-        cd %%d
+    pushd versions\fabric\%1 && (
         packwiz refresh
-        cd ..\..\..
+        popd
     )
     goto :EOF
 
 :add
-    ::for /d %%d in (versions\fabric\*) do (
-    ::    cd %%d
-    ::    packwiz refresh
-    ::    cd ..\..\..
-    ::)
-    cd versions\fabric\26.1.2 && packwiz mr add "%2"
+    pushd versions\fabric\%1 && (
+        packwiz mr add %2
+        popd
+    )
     goto :EOF
