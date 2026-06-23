@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/HEVI FreshAni Activator.zip"
-hash = "b837df3ec4ac14855601932a601dda956a7f7ea70b0971448fca5afc4bbbf622"
+hash = "5072e01216ec20360ee3db7636ad1b3d093617335e32315662df83d3de022702"
 
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
@@ -825,6 +825,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cute-pumpkin.pw.toml"
 hash = "cfb946d42e989da1a51289ab5282092469b526be813479946844a7154b25dd9a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/emissive-glowing-ores.pw.toml"
+hash = "f56ffd259171ab624d2c105bc944af9bc739cb52ac393af400c7a11f3f11633f"
 metafile = true
 
 [[files]]
@@ -853,6 +858,16 @@ hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations-objects.pw.toml"
+hash = "d46d25e5eb08ca03367924784ed88301f53381aa1c581c5510de8deb25f19e0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-quivers.pw.toml"
+hash = "a516f14bbde45f128086050dd497a5747bfc42e4b2dbe4bb8150c9a126a30eb7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations-x-baby-animals-remastered.pw.toml"
 hash = "7b2a92323e43e906d7dd52629f79f386f192d3867e3d1ce3ecce5beb92d9bf8a"
 metafile = true
@@ -868,13 +883,13 @@ hash = "dbcf037cfc9dbbc387d2689cee6693896cedf9b632a4047d6163eaa115b29f61"
 metafile = true
 
 [[files]]
-file = "resourcepacks/glow-ores.pw.toml"
-hash = "f78605986724a22c94d413b5d7a54562ff4d6c67049e234b8d840bbc4a6357b4"
+file = "resourcepacks/human-era-villagers-illagers.pw.toml"
+hash = "8551e955739dda8832a3d57c7a029c45b06f12a4f46095798e7377b1c6019cee"
 metafile = true
 
 [[files]]
-file = "resourcepacks/human-era-villagers-illagers.pw.toml"
-hash = "8551e955739dda8832a3d57c7a029c45b06f12a4f46095798e7377b1c6019cee"
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "0ce41000cbbb72e9c03ae3738500aae1056f1102ddc4e5a46784ec18cabf6ca7"
 metafile = true
 
 [[files]]
