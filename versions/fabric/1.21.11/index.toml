@@ -5,10 +5,6 @@ file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
-file = "config/badoptimizations.txt"
-hash = "a47ef2a99eee3632074b8c2869e1ce3182f7348eaf916a2045e06b2a47e58cd4"
-
-[[files]]
 file = "config/cape-provider.json5"
 hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
 
@@ -70,8 +66,8 @@ hash = "18b6fb7674e9f1beac9c29feb5f043699476f3ee0453f176cf689f3f39710144"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+file = "mods/animaticarefabricated.pw.toml"
+hash = "8e3a4e5d87dbfc3b08ba024d2297d4d745ab73c7d74684bc93cdc0ac55318868"
 metafile = true
 
 [[files]]
@@ -90,18 +86,13 @@ hash = "afab215b77368934dcb57944a68de5cfdfa4e02f50cff9e1619d05d931318f88"
 metafile = true
 
 [[files]]
+file = "mods/auto-lectern.pw.toml"
+hash = "b79785b0c3f969f29bec6c2515be228e76235dffc891d26febdc9f5f784eb717"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "2a138f455ec59c5be9d421370d8e168279fb94833c62d76db06431e429377be4"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
-metafile = true
-
-[[files]]
-file = "mods/better-block-entities.pw.toml"
-hash = "b4cd1e372388fadea8346cb3e83ba043bbbb722d139d3ac4e56849c0bb46aade"
 metafile = true
 
 [[files]]
@@ -230,6 +221,11 @@ hash = "062a1e685f7993953886c40fdfdd4106726081da54e7e6cde014c946c7948475"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "481192fb349be87304022d2801bdf77be7082217fcdedf15a8f5da0a4e1a5ba5"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "1da41ed20a604c4e5a2eeb5fee96e96a7b5eee36c7c2250f40d19bf67563a692"
 metafile = true
@@ -295,6 +291,11 @@ hash = "e9b9c0c5630d3dde57842d1ccdbaaafcef56602dfaa20309c2be7ea892222e5f"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "6669f33967bd24895a21476c1701d4932ae14a8516d318d9266e0d42eb38ee60"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4657d883a293eff316a0a2a84da0d8b6f49ca1dee9611c86be513ae96ca33a89"
 metafile = true
@@ -330,6 +331,11 @@ hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "13e8a24074dcdab4b26b834f9d3ff8ce56a8aa1e8f743d1d1836d423b9f9a2e1"
+metafile = true
+
+[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "500ed3fa9a182c4d4f59ef91abf3d01c0a11097140b88b349c1ccdda586a2caf"
 metafile = true
@@ -362,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "48ad24e9cc714543b55180cba8945af9b3706217f4b39a113a92501739855db1"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "2fb4ce2695c9f6da2087a5e350f2e85ea419de153e18bc20bf38f0b540c7caba"
 metafile = true
 
 [[files]]
@@ -415,8 +426,8 @@ hash = "e8fd9060822f10655250957935c00ca7f7e629a1c106c515e29a23c455c98d6b"
 metafile = true
 
 [[files]]
-file = "mods/mas-effect-updated.pw.toml"
-hash = "ccbf402497df2238bfe8b191b24643b853b47499a2c2a3a240de8550bbf98953"
+file = "mods/mas-effects.pw.toml"
+hash = "fa344334cbe15b9b0d965fdfae6572e8b0764b91ad866b7dfb4786d33b87b2c9"
 metafile = true
 
 [[files]]
@@ -462,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "3793ef9ef9c29f99bb7a870461db8d4e74525ed6ffd5dad8b5a1f1918ccb8c54"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "5eaf33d3f641bef642ca0d41f4532f7e4ed5494abf9d8ccc99f9b2e130cac165"
 metafile = true
 
 [[files]]
@@ -565,6 +581,11 @@ hash = "85fd951cd42fd7b545c096058bf36127718ef9ec45ab3997c3baef5d65a903f8"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4931a48b30837607a36b0cc7a2d40b32c83a4f7f02bf8a16dbf553e8bba7e0ab"
+metafile = true
+
+[[files]]
 file = "mods/respackopts.pw.toml"
 hash = "f9f3236feca30e84c21e72b434b5f6d1de9ef76e85436ab0fe5bf991aeceae39"
 metafile = true
@@ -572,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "c8797508817203139598e45c3249c08bef98d913082d3adb7ce07a6c55e8bdb5"
 metafile = true
 
 [[files]]
@@ -622,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "3ed900bdfc8331520c122957c64c930a50bd814a722b6367155af675d4bf0e40"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "8496ee9e0b2f4d50c9c9d757b8d3b6ba3889dbf42a6333bd2b3efa44a989c034"
 metafile = true
 
 [[files]]
@@ -697,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "4acd4942e06c57ae9ef08f33d265a7460cc7b2d4035b553cd7857cf26122e6a4"
 metafile = true
 
 [[files]]

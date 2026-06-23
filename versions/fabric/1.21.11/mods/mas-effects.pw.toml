@@ -1,0 +1,13 @@
+name = "Mas Effects"
+filename = "MasEffects 1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YsP4hqhn/versions/QXvEu8Y3/MasEffects%201.21.11.jar"
+hash-format = "sha512"
+hash = "1db4df6a266170a6f44642c5f9291f8d1ddfeb9339e4e2d3c1ba28624e1b46010a930f1ea6a05013147656fe9a804a9413a3ae2271ef22526af4871705147b26"
+
+[update]
+[update.modrinth]
+mod-id = "YsP4hqhn"
+version = "QXvEu8Y3"
