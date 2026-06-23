@@ -200,6 +200,11 @@ hash = "61468c5fcf7a91563c5db1a6c100d885344d40156d0ef8f2851e01da57b68048"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "7973c1b502db606e9fa57397b6dc80056072b2d9b397cbda855b42eea4b95529"
 metafile = true
