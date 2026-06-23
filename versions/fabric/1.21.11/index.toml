@@ -5,20 +5,12 @@ file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
 [[files]]
-file = "config/cape-provider.json5"
-hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
-
-[[files]]
 file = "config/fastquit.toml"
 hash = "f276dbca7d2af8afaca752ff4ada1e0beb64abf672effe1594e3892050a89194"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
-
-[[files]]
-file = "config/immediatelyfast.json"
-hash = "eb455656c3e3e8effa1e9c085b96894b469aa545807e3f621dde74a1c3a0833f"
 
 [[files]]
 file = "config/iris.properties"
@@ -33,12 +25,24 @@ file = "config/malilib.json"
 hash = "c7acba3f6019a96750b90508685939ab0801876a9d6f40475e9310eb05d620ed"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "571d72fc0acd4443fc9c6dbf689b9c06b71664068447cf18b7fd7161ae9cbc8d"
+
+[[files]]
 file = "config/moreculling.toml"
 hash = "6fcd0277cdc59b62ba0d3bcc20736d9973947754ef8f322eca40c1b880a0f461"
 
 [[files]]
+file = "config/particular-common.toml"
+hash = "74a4c2ad5422ce481e2729b4be1ef68cd7bd7192f53d3eaf0e005ae07cf18453"
+
+[[files]]
+file = "config/pickupnotifications.toml"
+hash = "fdbac42b355962c188f6173adc9d680767a2d8ff4bb662da7fbebd88c1d41ee4"
+
+[[files]]
 file = "config/puzzle.json"
-hash = "9ef4deb1dee36af524dd6c6664c9ae36934639c0384b232c1109d1fd92becba9"
+hash = "20d135b357e41f8be4c9404a7bfd420ab26626257f60d0cad1fc2ee7813b6803"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -50,7 +54,7 @@ hash = "96911064afde34aadcea96b343e20fa8101ffd843306760558851145ba0dcd85"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+hash = "ab957b77fa8913fa5a3af3742721fef67b6c44e7f81ae7bd68f1510171fce065"
 
 [[files]]
 file = "config/xaerominimap.txt"
