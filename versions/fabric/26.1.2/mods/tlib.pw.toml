@@ -1,0 +1,13 @@
+name = "TLib"
+filename = "tlib-fabric-1.5.0-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sBn7rVvc/versions/QByxiwXb/tlib-fabric-1.5.0-26.1.2.jar"
+hash-format = "sha512"
+hash = "f53377c2b3ad181ff11de5cc823de3ebfd5d1c3d27fc8b9b3dbaf5519cbb55efa8ff202395db7cbc3b0d5f68990400044a8345966a3320e3085eb862c9af9a42"
+
+[update]
+[update.modrinth]
+mod-id = "sBn7rVvc"
+version = "QByxiwXb"

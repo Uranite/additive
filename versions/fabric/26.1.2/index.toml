@@ -230,6 +230,11 @@ hash = "5ac1ab6fe5f42969c06062fea2708ed5541f55f0ae938ea9ff13a637aed810cf"
 metafile = true
 
 [[files]]
+file = "mods/effectual.pw.toml"
+hash = "b170689090ac3009679cc950d6bf937ee3286f2d03ebadb3ccdaafd5146f76f9"
+metafile = true
+
+[[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "de16a2a2208b6e9ad285b3f2f8ff99f0c6ede5f6f3cdb5dd9986fab1b5cb264a"
 metafile = true
@@ -667,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/tightfire.pw.toml"
 hash = "927ef6be86e78c19165b0bb5a3fc5cfd4c9302d5392bef495bd25d2c489b7925"
+metafile = true
+
+[[files]]
+file = "mods/tlib.pw.toml"
+hash = "4f6391b50d2118eca70a876fece6bcf3975b6ec537777cda38bb9739a73ce44b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Effectual"
+filename = "effectual-fabric-1.4.0-26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoF97Pto/versions/iTjRW4qP/effectual-fabric-1.4.0-26.1.2.jar"
+hash-format = "sha512"
+hash = "3bc403ec62a29bbfa6eddf83f44a58886095b503c8557ca045c8c4fa5d235edd0c676610802b82e9d984e1c2ce6bccad78a577ab7d01ba8d0ff8d3992a79b9ff"
+
+[update]
+[update.modrinth]
+mod-id = "OoF97Pto"
+version = "iTjRW4qP"
