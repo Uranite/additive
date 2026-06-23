@@ -1,12 +1,14 @@
 @echo off
 
-if "%1" == "" call :update 26.1.2 & goto :EOF
+set "DEFAULT_VERSION=26.1.2"
+
+if "%1" == "" call :update %DEFAULT_VERSION% & goto :EOF
 if /i "%1" == "update-packwiz" call :update-packwiz & goto :EOF
-if /i "%1" == "export" call :export 26.1.2 & goto :EOF
-if /i "%1" == "update" call :update 26.1.2 & goto :EOF
-if /i "%1" == "update-loader" call :update-loader 26.1.2 & goto :EOF
-if /i "%1" == "refresh" call :refresh 26.1.2 & goto :EOF
-if /i "%1" == "add" call :add 26.1.2 %2 & goto :EOF
+if /i "%1" == "export" call :export %DEFAULT_VERSION% & goto :EOF
+if /i "%1" == "update" call :update %DEFAULT_VERSION% & goto :EOF
+if /i "%1" == "update-loader" call :update-loader %DEFAULT_VERSION% & goto :EOF
+if /i "%1" == "refresh" call :refresh_all & goto :EOF
+if /i "%1" == "add" call :add %DEFAULT_VERSION% %2 & goto :EOF
 
 if "%2" == "" call :update %1 & goto :EOF
 if /i "%2" == "update-packwiz" call :update-packwiz & goto :EOF
@@ -43,6 +45,15 @@ goto :EOF
     pushd versions\fabric\%1 && (
         packwiz migrate loader latest
         popd
+    )
+    goto :EOF
+
+:refresh_all
+    for /d %%d in (versions\fabric\*) do (
+        pushd %%d && (
+            packwiz refresh
+            popd
+        )
     )
     goto :EOF
 
