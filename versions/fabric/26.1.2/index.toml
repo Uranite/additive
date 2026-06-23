@@ -25,10 +25,6 @@ file = "config/malilib.json"
 hash = "c7acba3f6019a96750b90508685939ab0801876a9d6f40475e9310eb05d620ed"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
-hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
-
-[[files]]
 file = "config/modmenu.json"
 hash = "571d72fc0acd4443fc9c6dbf689b9c06b71664068447cf18b7fd7161ae9cbc8d"
 
