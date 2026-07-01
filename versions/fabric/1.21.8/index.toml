@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "d69f983491f07a26b6e0c2017bed9fe55f8bcaadb03b6fb9c9e7721d4df6b4ea"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -221,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "86273579782d31470a52c3a7d5a5b7341ff22d867df477918f829e31002999e1"
+hash = "aa8cd88f7a2337a524eee3f698327acd10c4c76ad1c64333fbed2b10f09b1471"
 metafile = true
 
 [[files]]

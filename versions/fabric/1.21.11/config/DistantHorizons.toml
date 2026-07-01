@@ -1,0 +1,6 @@
+_version = 4
+
+[client]
+		[client.advanced.graphics]
+			[client.advanced.graphics.experimental]
+				renderingEngine = "OPEN_GL"

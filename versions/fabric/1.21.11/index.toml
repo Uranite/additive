@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "d69f983491f07a26b6e0c2017bed9fe55f8bcaadb03b6fb9c9e7721d4df6b4ea"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
 
@@ -207,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "7973c1b502db606e9fa57397b6dc80056072b2d9b397cbda855b42eea4b95529"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "e1b4cb1015dfe0e0cbe2da4fd30cd0948de757d08259cb5724e9448778e64449"
 metafile = true
 
 [[files]]
@@ -717,21 +726,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
-metafile = true
-
-[[files]]
-file = "mods/voxy-server-side.pw.toml"
-hash = "4acd4942e06c57ae9ef08f33d265a7460cc7b2d4035b553cd7857cf26122e6a4"
-metafile = true
-
-[[files]]
-file = "mods/voxy-worldgen.pw.toml"
-hash = "6ebf3afe4d5a6ec8a826f4fd09790a4d4ab7f7ef97c08223aa324951dbfd08e5"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
 metafile = true
 
 [[files]]
