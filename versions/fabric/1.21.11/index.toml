@@ -720,11 +720,6 @@ hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
 metafile = true
 
 [[files]]
-file = "mods/voxy-server-side.pw.toml"
-hash = "4acd4942e06c57ae9ef08f33d265a7460cc7b2d4035b553cd7857cf26122e6a4"
-metafile = true
-
-[[files]]
 file = "mods/voxy-worldgen.pw.toml"
 hash = "6ebf3afe4d5a6ec8a826f4fd09790a4d4ab7f7ef97c08223aa324951dbfd08e5"
 metafile = true
