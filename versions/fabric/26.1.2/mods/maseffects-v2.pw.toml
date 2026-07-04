@@ -1,13 +1,13 @@
 name = "MasEffects v2"
-filename = "maseffects-2.2.1+26.1.x.jar"
+filename = "maseffects-2.2.1-26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bppzc3HJ/versions/uHVpD7Sx/maseffects-2.2.1%2B26.1.x.jar"
+url = "https://cdn.modrinth.com/data/bppzc3HJ/versions/K26GJBhs/maseffects-2.2.1-26.1.jar"
 hash-format = "sha512"
-hash = "95f0a4c23d477174cc93761d44a4153bf24a419474642c8d69772ba0e67864d948474330cf87acc6dceb9b183033290f959580ac15b26258fcbba53d59893cef"
+hash = "b82e6787fed74a9b7dfb0ced6a10caf4501e9a249549f8683d6a6759688c00553d063c61a37c75d4dfbc4bc89f10b6586227546259430b42044414b3c47ad541"
 
 [update]
 [update.modrinth]
 mod-id = "bppzc3HJ"
-version = "uHVpD7Sx"
+version = "K26GJBhs"
