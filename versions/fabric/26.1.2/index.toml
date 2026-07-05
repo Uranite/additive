@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "a3a002d06505ee2af2325fe0e16afe60c0622de3688c509096f320c926141735"
+hash = "47f0c2818d82395bbbd0a3fd7f7370291eddc5d846c3d41965ceecc7a0222774"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
+hash = "ea57cf02ee51c57ed9c9b0fb42f12637d47e2e122eec8dbc34a8c4150bb4c952"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-gui.pw.toml"
-hash = "d017dc01dbc7c9cde40ddf8a68c63beef1609fd46a4c7570ca8d7e071368d4d0"
+hash = "dd1a82af7a9c6e5ceb07924734098e11528c7a4f04d3725e6bb1a78fa599cc36"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "35448667757bd3218bf47149b17d0c6e8d76b75c8d78ce5249badf7bb03162a4"
+hash = "9a385daeacdfffd9d35d574346ca5df6bc5ecdafa3bb2f9d22c45cfbdd9d550a"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5a00bba1ae1114f904220468dcdb61ef549c3a09fbecbcd5c222852818dd86d8"
+hash = "81f72ab03974b683f6579656b892aa929fd30cb46d0fa37c3539508d672d9761"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
-hash = "8551e955739dda8832a3d57c7a029c45b06f12a4f46095798e7377b1c6019cee"
+hash = "b02854b97a93a25fda18178d8babeec67c82d1b61712de03dece982551521957"
 metafile = true
 
 [[files]]
