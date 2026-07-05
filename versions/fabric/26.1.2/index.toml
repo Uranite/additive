@@ -90,6 +90,11 @@ hash = "b7575068f3e72e66800ab4347b82512f88e2911360c396c0a3d8abfe14acb094"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "bbfb0e87dae2b459da7a1ef1c7b84dbbe209bfd9201d2ff54ca880b5139b8df2"
+metafile = true
+
+[[files]]
 file = "mods/auto-lectern.pw.toml"
 hash = "2d4577be5a3198523537c63e43d82919d4c6ad18039e2d2bb6825e4303da700c"
 metafile = true
@@ -327,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "356457a2271da11c38fad417a809518df6eb68b4acede6bc2c16932e2807a215"
+metafile = true
+
+[[files]]
+file = "mods/gnetum.pw.toml"
+hash = "592dd4f9cbed1762711ec05e5bb3b7b20f3d16a6df4ef20aba8461bef28f7232"
 metafile = true
 
 [[files]]
