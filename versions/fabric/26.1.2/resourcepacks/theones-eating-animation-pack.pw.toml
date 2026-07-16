@@ -3,11 +3,11 @@ filename = "Theone's Eating Animation Pack v1.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OhzX8kDf/versions/4if0gBBN/Theone%27s%20Eating%20Animation%20Pack%20v1.0.zip"
+url = "https://cdn.modrinth.com/data/OhzX8kDf/versions/Hbd6vTCJ/Theone%27s%20Eating%20Animation%20Pack%20v1.0.zip"
 hash-format = "sha512"
-hash = "f8af6b2e4ed252dbc5e1e002fa4337230620119709aa9f230ec6efe2e8b354bcdf6f021108b04c665e69dff2897047a0c8fe8ff33985a215997a90b5c3f67d97"
+hash = "9b3ce323fc30b67be616fa9048dd5f791e5d0f4a8e8c2b0f6d08ed0a508dcbe229de706501e1d2b2e45c95c52600838e23027077f0ef864523b54c20eacffdc3"
 
 [update]
 [update.modrinth]
 mod-id = "OhzX8kDf"
-version = "4if0gBBN"
+version = "Hbd6vTCJ"
