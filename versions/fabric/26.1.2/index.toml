@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "3d5aaa7ebcf9db1ba268d896f68820786ff3e1d0e8680194cf6cd06a796c0f15"
+hash = "e9328dcdf8b7c184c01ba4585be4bf7a4b67604d9eb1e50637164617eaed6b64"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "03190e0f8e4e0556e02337cc7b53857e7bc9dce08df97499eae2a6bc9ae04a95"
+hash = "f21f0eb6b42de23db8722dc234d0072682facf11e2b730a150ec75de5add653a"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3dda058a34855fad435a3882adc0af253b5a3e0212349ab882bddc7155d34c86"
+hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwa.pw.toml"
-hash = "4a797dc2fcdd87414a7028dac320de72ca8c01b8031191e429db9546639e62a8"
+hash = "aca838725d93803a01812a70b7f37be0448d3ff0a4d253a827c2533b5acefd95"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "592dd4f9cbed1762711ec05e5bb3b7b20f3d16a6df4ef20aba8461bef28f7232"
+hash = "c181c4e55e5df283c5c7d37151cee465bbdd44bb979eba59b4e611c0bc6f9afc"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "308f185f60e5dd510de81f7233ae64dfb115d6285771b7c4630f18e1b71c358f"
+hash = "f7ced42749b14be75a71d91736400f3074254e4ccbecb469ff04aad1741e80de"
 metafile = true
 
 [[files]]
@@ -492,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
+metafile = true
+
+[[files]]
+file = "mods/packed-packs.pw.toml"
+hash = "c46846a1cc2d2690f4c2b84f82719d4ce7ebdcfcb631c44d513601712ad85f76"
 metafile = true
 
 [[files]]
@@ -601,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "75d4214d89a13efbfe621edc4e8fe72bb0318b9e962e6af62160ce54920c68bb"
+hash = "f2b08b927c3af85f2e078f9be2ce0421d613ddd11905e8b4d7755128b4b6d791"
 metafile = true
 
 [[files]]
@@ -736,17 +741,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "cd8f6157beae52b869af43be71ad23e4051896ea74096699be96a6130cbc8b2e"
+hash = "138e697dac6c74a70697612ac90c5e30dd0fd168d9a48dd0634c302b65ae255a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "37d2872c36d2857c4752c444b1602c58409e3bf8515bb94230fd8a882d76e18f"
+hash = "b6ac5f3dfeecbc9d9ef9fb3298662c1d0c6dbb69300c08e56a6328db5ae6206a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b66f71db7d35bd9f72b5947ed2ac21a057de79dc5e9c345745f6f04b80313541"
+hash = "34598c78820198781a08c2ce1b5b291e1f1b44dd56a7a4b2557ab2cef93f0896"
 metafile = true
 
 [[files]]

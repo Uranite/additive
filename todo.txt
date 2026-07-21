@@ -1,8 +1,7 @@
 1.21.11:
-check Visual Effect+
+check Visual Effects+
 check with 1.21.8 (the latest version without missing mods)
 investigate performance
-investigate where the 3d bucket is coming from (i dont like it)
 check resource packs
 
 Configure the visual effects
@@ -13,4 +12,3 @@ subtle effects
 
 Add this when it is updated to 1.21.11:
 Astrocraft
-draggable-lists
