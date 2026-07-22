@@ -90,6 +90,11 @@ hash = "b7575068f3e72e66800ab4347b82512f88e2911360c396c0a3d8abfe14acb094"
 metafile = true
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "6b7341cdb14682c5ad5cec0bab41945b9252823c58e817c922d6838d73495039"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "f4153982512d8398d575d5a0e555e883b25604d9f5b89c5acdec44d13271c491"
 metafile = true
@@ -375,6 +380,11 @@ hash = "f5bcb1eabd56bca59f89b7bee032562ba2d5da42f564a477cfebc48d85a9425b"
 metafile = true
 
 [[files]]
+file = "mods/jasione.pw.toml"
+hash = "75ae4434f5d14588ecb972c650a762e6f612ab3f36e5b1d2920c678df1e85b8e"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "b7c1349a57adb861d45dd1c85d8b553fddae55d49f53500b21324fd7724bccd3"
 metafile = true
@@ -502,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "bdb0ddbd9b62fd550ab9242f555803f39ebd34ccb38a63c6279e898a720e4cea"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "5f482c62b32f8f639a19640518cd77bc60d73bb422bcf7378eb1ced0680a2573"
 metafile = true
 
 [[files]]
