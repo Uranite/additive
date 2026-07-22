@@ -146,7 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8ea78f8b4d5429e18848d02c5ab951a5af0ad88108f580b1fb71d715d642d15e"
+hash = "032ed9d0cfe4b7b964a56d149a5d2487f6a77d5a5a2e47857bc25400a0619903"
+metafile = true
+
+[[files]]
+file = "mods/c2me-ocl.pw.toml"
+hash = "101772a4aaa5b9d7baab820bf941192003a331dff3aa6fe62edcc327683f8809"
 metafile = true
 
 [[files]]
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/effectual.pw.toml"
-hash = "b170689090ac3009679cc950d6bf937ee3286f2d03ebadb3ccdaafd5146f76f9"
+hash = "b4d210f22179b43ee786905e7ec2bfa74cdde61bb86a5369d43d82aa0aeaa96d"
 metafile = true
 
 [[files]]
@@ -251,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "f21f0eb6b42de23db8722dc234d0072682facf11e2b730a150ec75de5add653a"
+hash = "3afbd0e7055125c20c3c8fd42aa8bfa9961796b237d5ff7aecca1d0d0e7d25dd"
 metafile = true
 
 [[files]]
@@ -761,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "22487d2f86a7a14ca5b1a2c16eb25445578c68f4ec950d64ec2b67a7d1806255"
+hash = "3cc16353bd1e226ac3b4a93fc2beb6ccc3481613a924e222705ff6814cf74f57"
 metafile = true
 
 [[files]]
