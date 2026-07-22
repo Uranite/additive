@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-ocl.pw.toml"
-hash = "101772a4aaa5b9d7baab820bf941192003a331dff3aa6fe62edcc327683f8809"
+hash = "f906cea20f65a74578b4cdad2ae60780bb97678f17bbec8de12d8c87346ef96b"
 metafile = true
 
 [[files]]
