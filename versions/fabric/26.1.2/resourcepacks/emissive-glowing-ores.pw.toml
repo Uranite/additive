@@ -1,13 +1,13 @@
 name = "Emissive Glowing Ores"
-filename = "Emissive Glowing Ores (26.1).zip"
+filename = "Emissive Glowing Ores (26.2).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/k79JoCCw/versions/okTUgSp9/Emissive%20Glowing%20Ores%20%2826.1%29.zip"
+url = "https://cdn.modrinth.com/data/k79JoCCw/versions/DXV0HQsR/Emissive%20Glowing%20Ores%20%2826.2%29.zip"
 hash-format = "sha512"
-hash = "8216ec6755207f1772502f6fba6e78e7f19542c17b3ccf0ce5e271315dd0f90d60d07a5bb989ea3ae2387938a0bac63d6ab04c85c72fdd036b04b569bfa081a0"
+hash = "85a57c8d17cf04d3dc9279b16fdfd7ead13a19dad1c4aaabe5874e7019100f7c70b96967503e407705752308bc4ad53f2d02ef0e4f5abc32b3691712a17e26e1"
 
 [update]
 [update.modrinth]
 mod-id = "k79JoCCw"
-version = "okTUgSp9"
+version = "DXV0HQsR"
