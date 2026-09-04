@@ -1,0 +1,4 @@
+[XP] Breadcrumbs:true
+[XP] Breadcrumbs Opacity:0.0
+[XP] Disable Xaero Internet Access:true
+[XP] Portal Highlights:true

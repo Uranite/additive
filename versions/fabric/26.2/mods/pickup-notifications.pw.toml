@@ -1,0 +1,13 @@
+name = "Pickup Notifications"
+filename = "pickupnotifications-fabric-3.0.1+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wWiJfmyy/versions/LAXLx6E9/pickupnotifications-fabric-3.0.1%2B26.2.jar"
+hash-format = "sha512"
+hash = "cffcf789cb95f5a2174572db3e6a16c4dcfbda7b1215d4f33d0069f43ac2f2221c55a1bf8880348c449b41bd4395046df61c77862c00adf999bfc87dfe8a69f1"
+
+[update]
+[update.modrinth]
+mod-id = "wWiJfmyy"
+version = "LAXLx6E9"

@@ -1,0 +1,13 @@
+name = "Lighty"
+filename = "lighty-fabric-4.0.1+26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/T42kypAk/lighty-fabric-4.0.1%2B26.2.jar"
+hash-format = "sha512"
+hash = "f765bb970753eab1fef2c55bdf0be5cb3b066239fbe7499ff025a5764af0a87c1596dfd3074c3ae4c9ef6e7da9ec0ad04d0696ae30a234a3544a2991b44ff604"
+
+[update]
+[update.modrinth]
+mod-id = "yjvKidNM"
+version = "T42kypAk"

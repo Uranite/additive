@@ -1,0 +1,13 @@
+name = "Traben's 3D Arrow models"
+filename = "trabens-3d-arrows-1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bwYhZ5Le/versions/olGuFrhW/trabens-3d-arrows-1.2.zip"
+hash-format = "sha512"
+hash = "c3191652241f87a2ecc1ef7a328e032944e0388d738f4296c8c71418ee5b7cd89958f232ca1ac9e276cb465b1e44aa181081e5161d3e833f513c61e8b75e758d"
+
+[update]
+[update.modrinth]
+mod-id = "bwYhZ5Le"
+version = "olGuFrhW"

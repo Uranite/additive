@@ -1,0 +1,13 @@
+name = "Elytra Trims"
+filename = "elytratrims-fabric-4.9.0-beta.6+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/X4BX7O9a/elytratrims-fabric-4.9.0-beta.6%2B26.2.jar"
+hash-format = "sha512"
+hash = "3e0c6a93d727297bdd54fc516f42aef8b1ab646d07d0cb53d7ada68158435110291931d84f911e707aa8aded5e8d4850aec806b95a263e7c5908cc1ab8c6a9df"
+
+[update]
+[update.modrinth]
+mod-id = "XpzGz7KD"
+version = "X4BX7O9a"

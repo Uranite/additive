@@ -1,0 +1,13 @@
+name = "MasEffects v2"
+filename = "maseffects-2.3.2+26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bppzc3HJ/versions/XGJFy1OM/maseffects-2.3.2%2B26.2.jar"
+hash-format = "sha512"
+hash = "bfa1281eb81d7bdac27a3d24b53939e56f4a86ab0415670340320ed120de8c7c32afa2b162d5e9d1855224cf61c7bff1a827abb6c5939b8686ff70f5b2ed55fc"
+
+[update]
+[update.modrinth]
+mod-id = "bppzc3HJ"
+version = "XGJFy1OM"
