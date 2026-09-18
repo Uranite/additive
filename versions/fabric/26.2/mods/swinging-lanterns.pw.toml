@@ -1,13 +1,13 @@
 name = "Swinging Lanterns"
-filename = "swinginglanterns-fabric-26.2-1.5.2.jar"
+filename = "swinginglanterns-fabric-26.2-2.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3IOcW74j/versions/FlSRZkBz/swinginglanterns-fabric-26.2-1.5.2.jar"
+url = "https://cdn.modrinth.com/data/3IOcW74j/versions/QWthAw0r/swinginglanterns-fabric-26.2-2.0.1.jar"
 hash-format = "sha512"
-hash = "193eebd73f39e48671ede594f926850451df8ab74e5b42141db40ee2a8d6f46108e2770217414adca2107ef3fe7a602d29fa3d87819a67a71572b54fdf577c2f"
+hash = "ee995ff8b1dacf10ffcba44efc7c5428b55834229ddf241595c4d22931ad8e2ece499901c66718ab9dafd9a1b3b25f1a41badad9a78a77f0c03da02e0c9a103b"
 
 [update]
 [update.modrinth]
 mod-id = "3IOcW74j"
-version = "FlSRZkBz"
+version = "QWthAw0r"
