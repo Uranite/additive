@@ -385,11 +385,6 @@ hash = "cbe9b251b76991ec562675ed722bedfdca1d886e61c6aa206db965a899ef9817"
 metafile = true
 
 [[files]]
-file = "mods/jasione.pw.toml"
-hash = "eb8647b69a908f1ffdcd173c1c0470f8ef614b08b214069a927bc0f6b15feea8"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "b985dc3befdc7c02ff4340e9f904865e528f4c705b4f72c84767f061bc7253c7"
 metafile = true
@@ -767,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "fea09fc4ce051f11669aeaed6b7ff29b5f175b983395aea4c6e78cbfd6acc6f1"
+metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
+hash = "8078347c8e2fd79bbb3e414fd36bc319e2d043f8d3b955c14f430fee0b5d6843"
 metafile = true
 
 [[files]]
