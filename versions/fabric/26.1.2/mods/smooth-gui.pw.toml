@@ -1,13 +1,13 @@
 name = "Smooth Gui"
-filename = "smoothgui-fabric-2.0.5+mc26.1.jar"
+filename = "smoothgui-fabric-2.0.6+mc26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/j6yrZogB/versions/oBbWEJuR/smoothgui-fabric-2.0.5%2Bmc26.1.jar"
+url = "https://cdn.modrinth.com/data/j6yrZogB/versions/TPGsNKSj/smoothgui-fabric-2.0.6%2Bmc26.1.jar"
 hash-format = "sha512"
-hash = "0f74293b925d41b624655d89d02841de8d6b9ab9c5b8739d4750b7afc3bab9270ad0c9443033b3a77030e9deb995b3cdd5d23365a012a2b89ac938b21b97dedb"
+hash = "4faa31774b5059f41da05e5deec651276082577d5f946362fb569216bf251120060afc523b6aca3c96b6f8c8aaea4597979ee6ebddef3b729238f3e09e63454d"
 
 [update]
 [update.modrinth]
 mod-id = "j6yrZogB"
-version = "oBbWEJuR"
+version = "TPGsNKSj"

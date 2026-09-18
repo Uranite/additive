@@ -1,13 +1,13 @@
 name = "Fancy World Animations"
-filename = "fwa+26.1.2-1.2.37.jar"
+filename = "fwa+26.1.2-1.2.40.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IAzUFvS6/versions/8VpXx1Mx/fwa%2B26.1.2-1.2.37.jar"
+url = "https://cdn.modrinth.com/data/IAzUFvS6/versions/e2yvTzqo/fwa%2B26.1.2-1.2.40.jar"
 hash-format = "sha512"
-hash = "02203454aa8ed1e41819b71a5eacfa7b182745a13a9e61d5698fae9588dddfbc3f8203a089d48a6ac0d273f0be4a9c874b536f7c4500493965519b478359288f"
+hash = "d0aab685beda212adec47a07f069f61557e74ba710a3122482b124b14ea2778dcf5ca27ae4793e89ece39c83d833559d31a05a2717f83342bb130769e182c3cf"
 
 [update]
 [update.modrinth]
 mod-id = "IAzUFvS6"
-version = "8VpXx1Mx"
+version = "e2yvTzqo"
