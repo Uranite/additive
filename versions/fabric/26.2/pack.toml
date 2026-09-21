@@ -1,4 +1,4 @@
-name = "Badly Optimized"
+name = "Badly Optimized Voxy"
 author = "Yiss"
 version = "2.0.0+26.2.fabric"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1fd9a3ace51a3194db0bb9e8adacab0b22a9604b028395fe753ed3ddef1fd0d8"
+hash = "a08164e8774f6ecb28644e15bb0433f43c14944fcd413ab67ca68e257ad8bb3a"
 
 [versions]
 fabric = "0.19.5"
