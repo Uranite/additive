@@ -1,13 +1,13 @@
 name = "Enchantment Level Cap Indicator"
-filename = "enchantmentlevelcapindicator-26.2.0-1.2.jar"
+filename = "enchantmentlevelcapindicator-26.2.0-1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/82BWabBj/versions/jdFjWETu/enchantmentlevelcapindicator-26.2.0-1.2.jar"
+url = "https://cdn.modrinth.com/data/82BWabBj/versions/8a0jJryO/enchantmentlevelcapindicator-26.2.0-1.3.jar"
 hash-format = "sha512"
-hash = "9b706334a2585f3ef197dd91c2672343dac3619244261130800315133897e8de8cdc2724f0500c478aa879ee0727acf169ab7d3f0b7c7c4b693850957aa44f69"
+hash = "c6a3ea53e7826c5e625066a03edc02c4ddc9f61ecb67d461352e1522739886fe786c91f9f77a9453294eb78b4d126b3d1f4df4f71f4c0896b50308a42dab09d0"
 
 [update]
 [update.modrinth]
 mod-id = "82BWabBj"
-version = "jdFjWETu"
+version = "8a0jJryO"

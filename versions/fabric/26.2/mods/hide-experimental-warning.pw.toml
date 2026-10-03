@@ -1,13 +1,13 @@
 name = "Hide Experimental Warning"
-filename = "hideexperimentalwarning-26.2.0-1.2.jar"
+filename = "hideexperimentalwarning-26.2.0-1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rm4OOdHd/versions/JQaDbSlm/hideexperimentalwarning-26.2.0-1.2.jar"
+url = "https://cdn.modrinth.com/data/Rm4OOdHd/versions/89xo10VF/hideexperimentalwarning-26.2.0-1.3.jar"
 hash-format = "sha512"
-hash = "a5d9b9a456eca35732635d1a7cf81d339e576e34da274d00a3b930c45107a21caecbb5f76d7be29f614518f5d2fc3a0e8e240fd385094dd88cb1c550333ceb72"
+hash = "870470c847ea36779206c7d5167a84b60dfa984918428eabc06bafb9e743544e8b24bad7635ebecedd628919917f19bfdce429aad873c4daeccafff656a92e0f"
 
 [update]
 [update.modrinth]
 mod-id = "Rm4OOdHd"
-version = "JQaDbSlm"
+version = "89xo10VF"
