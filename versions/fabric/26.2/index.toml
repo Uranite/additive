@@ -625,6 +625,9 @@ file = "resourcepacks/3d-ladders.pw.toml"
 metafile = true
 
 [[files]]
+file = "resourcepacks/HEVI FreshAni Activator.zip"
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 metafile = true
 
